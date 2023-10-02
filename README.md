@@ -13,7 +13,6 @@ Nurissa’idah (22091397030)
 D4 Manajemen Informatika
 Fakultas Vokasi Universitas Negeri Surabaya
 
-
 2022
 
 Daftar Isi
