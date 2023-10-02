@@ -348,7 +348,7 @@ ERD
 
 
 Flowchart
-
+![flowchart](https://github.com/hanifmhsunesa/PemwebFinalProjek/assets/144761618/85995aaf-2d56-4338-aa3e-aefc3f0d7612)
 
 UML Activity Diagram Sistem Checkout
 
