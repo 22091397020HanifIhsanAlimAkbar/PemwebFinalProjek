@@ -355,6 +355,8 @@ UML Activity Diagram Sistem Checkout
 UML Activity Diagram Sistem Login
 
 Use Case Diagram E-Commerce
+![use case](https://github.com/hanifmhsunesa/PemwebFinalProjek/assets/144761618/8c797429-a071-4127-b081-95ba6fbc0520)
+
 
 
 UML Class Diagram
