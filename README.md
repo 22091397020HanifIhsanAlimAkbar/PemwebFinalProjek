@@ -347,8 +347,8 @@ ERD
 
 
 
-Flowchart 
-![alt text]
+Flowchart
+
 
 UML Activity Diagram Sistem Checkout
 
