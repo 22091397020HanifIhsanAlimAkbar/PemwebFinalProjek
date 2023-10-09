@@ -10,7 +10,7 @@ Disusun Oleh: Ihda Anisa Ulfa (22091397019)
 Hanif Ihsan Alim A. (22091397020) 
 Nurissa’idah (22091397030)
 
-D4 Manajemen Informatika
+D4 Manajemen Informatika 
 Fakultas Vokasi Universitas Negeri Surabaya
 
 
