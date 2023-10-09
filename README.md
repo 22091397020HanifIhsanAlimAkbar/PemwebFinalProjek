@@ -10,7 +10,7 @@ Disusun Oleh: Ihda Anisa Ulfa (22091397019)
 Hanif Ihsan Alim A. (22091397020) 
 Nurissa’idah (22091397030)
 
-D4 Manajemen Informatika 
+D4 Manajemen Informatika
 Fakultas Vokasi Universitas Negeri Surabaya
 
 
@@ -221,27 +221,25 @@ Hasaris Store mengusung konsep desain yang ramah untuk digunakan oleh pengguna. 
 Antarmuka Perangkat Lunak
 Tampilan Beranda
 
-![Screenshot (274)](https://github.com/hanifmhsunesa/PemwebFinalProjek/assets/124480469/9d37e407-eaef-44a7-980a-de809c301944)
+![image](https://github.com/hanifmhsunesa/PemwebFinalProjek/assets/124480469/99be7cb2-9354-400d-9c59-3708e7b2c52b)
 
 Tampilan Produk
 
-![Screenshot (276)]
+![image](https://github.com/hanifmhsunesa/PemwebFinalProjek/assets/124480469/198b65b7-f575-475e-b544-74b3326e692d)
 
-![image](https://github.com/hanifmhsunesa/PemwebFinalProjek/assets/124480469/ad6fe6e5-fb73-40e0-9871-520496390580)
-
-![image](https://github.com/hanifmhsunesa/PemwebFinalProjek/assets/124480469/8ab49947-e8b7-4383-b2a3-209983efc3b1)
+![image](https://github.com/hanifmhsunesa/PemwebFinalProjek/assets/124480469/a0a9ba10-082f-43a2-96f4-93598f6edf79)
 
 Tampilan About
 
-![image](https://github.com/hanifmhsunesa/PemwebFinalProjek/assets/124480469/f2a3bb50-6263-4a66-90c4-76845e8864b7)
+![image](https://github.com/hanifmhsunesa/PemwebFinalProjek/assets/124480469/32af018d-be9c-444b-85c0-8b677a85f004)
 
 Tampilan Contact
 
-![image](https://github.com/hanifmhsunesa/PemwebFinalProjek/assets/124480469/70c64adb-754a-41e1-98cc-1b1c1b33a39e)
+![image](https://github.com/hanifmhsunesa/PemwebFinalProjek/assets/124480469/fc0fed9c-42c8-4d43-b1d6-bdc02c880962)
 
 Tampilan Search
 
-![image](https://github.com/hanifmhsunesa/PemwebFinalProjek/assets/124480469/a9f3e833-e2bc-4827-ba0d-3ea2ea78b071)	
+![image](https://github.com/hanifmhsunesa/PemwebFinalProjek/assets/124480469/e47770c2-19e6-484a-80c3-9376635cb128)
 
 Antarmuka Komunikasi
 
@@ -260,6 +258,14 @@ Fitur Menu Checkout akan menampilkan detail pesanan yang sudah di checkout, stat
 Fitur Menu Login
 Fitur menu login merupakan proses customer untuk mendapatkan hak akses.Dengan adanya fitur ini, customer dapat menggunakan hak akses lebih optimal.
 
+
+
+
+
+
+
+
+
 Fitur Sistem
 Login	: Masuk ke sistem Hasaris store jika sudah mendaftar.
 Daftar	: Membuat akun jika belum mempunyai.
@@ -272,7 +278,7 @@ Fitur search 	: Mencari produk yang diinginkan
 
 Persyaratan Fungsional
 
-![image](https://github.com/hanifmhsunesa/PemwebFinalProjek/assets/124480469/30d75687-d62a-4e1a-9c41-6056c986c42f)
+![image](https://github.com/hanifmhsunesa/PemwebFinalProjek/assets/124480469/1c4043c6-1c88-4f0c-8478-562ed6a1d4fd)
 
 Persyaratan Fungsional Lainnya
 
@@ -297,7 +303,12 @@ Dari banyaknya jenis proses bisnis yang ada, aktivitas transaksi antara penjual 
 Pada gambar diatas bisa dilihat bahwa pemilik toko Hasaris store yang ingin menawarkan barang yang dijualnya. Dengan bermodalkan sebuah website penjual dapat memberikan berbagai informasi yang berkaitan dengan produk yang ditawarkan. Sebagai calon pembeli, internet menyediakan akses yang luas dan bebas terhadap apa yang ingin diakses. Dalam Website E-Commerce Hasaris store ini, pemilik toko Hasaris menjadi admin atau seller yang memiliki dan memasarkan produknya. Setelah aktivitas pertukaran informasi dilakukan, proses bisnis selanjutnya adalah melakukan pemesanan produk yang telah disepakati. Kedua pihak yang bertransaksi harus melakukan aktivitas perjanjian tertentu, sehingga proses jual beli dapat dilakukan dengan sah, benar, dan aman.
 
 
-	Didalam proses bisnis ini, ada empat aliran entiti yang harus dikelola dengan baik :
+
+
+
+
+
+Didalam proses bisnis ini, ada empat aliran entiti yang harus dikelola dengan baik :
 Flow of Goods (Aliran Produk)
 Flow of Information (Aliran Informasi)
 Flow of Money (Aliran Uang)
@@ -309,36 +320,39 @@ Persyaratan Keamanan Website
 
 Website sudah menggunakan domain.com dan SSL sebagai sertifikasi keamanan website agar tidak mudah diretas oleh pihak yang tidak bertanggung jawab.
 
+
+
 Persyaratan Lainnya
 
 Lampiran A : Glosarium
 
-![image](https://github.com/hanifmhsunesa/PemwebFinalProjek/assets/124480469/8ca89c1d-b69c-443b-9be0-6495f7be639a)
+![image](https://github.com/hanifmhsunesa/PemwebFinalProjek/assets/124480469/1446f890-ebdb-4712-b787-f46390d9cc16)
+
 
 Lampiran B : Model Analisis
 DFD Level 0
 
-![dfd0pemweb](https://github.com/hanifmhsunesa/PemwebFinalProjek/assets/124480469/91afe400-413d-4fac-9adc-27cec64a4edb)
+![image](https://github.com/hanifmhsunesa/PemwebFinalProjek/assets/124480469/4d8ec449-92ae-49d5-a269-7777c8e99d70)
 
 DFD Level 1
 
-![dfd0pemweb](https://github.com/hanifmhsunesa/PemwebFinalProjek/assets/124480469/df3e7faa-0926-4c47-9385-1801f180c5c9)
+![image](https://github.com/hanifmhsunesa/PemwebFinalProjek/assets/124480469/19707f8f-8805-4ae4-875b-6d0498803cdc)
 
 Flowchart 
 
-![image](https://github.com/hanifmhsunesa/PemwebFinalProjek/assets/124480469/5fa9aa78-60fe-402e-bf86-adba3875b132)
+![image](https://github.com/hanifmhsunesa/PemwebFinalProjek/assets/124480469/bb6281cf-ff4e-450b-810e-5817b3d47327)
 
 UML Activity Diagram Sistem Checkout
 
-![image](https://github.com/hanifmhsunesa/PemwebFinalProjek/assets/124480469/6409ad34-a90e-4df0-b130-5c227b3117fc)
+![image](https://github.com/hanifmhsunesa/PemwebFinalProjek/assets/124480469/a5fe43c9-7129-451a-b810-a62b3636cc9d)
 
 UML Activity Diagram Sistem Login
 
-![image](https://github.com/hanifmhsunesa/PemwebFinalProjek/assets/124480469/d74c8ae5-1770-4fb8-a244-9abf5a35a694)
+![image](https://github.com/hanifmhsunesa/PemwebFinalProjek/assets/124480469/8b48bd9e-799f-4d85-b082-2786d824d594)
 
 Use Case Diagram E-Commerce
 
-![image](https://github.com/hanifmhsunesa/PemwebFinalProjek/assets/124480469/edc45a15-b65b-41a0-a178-167781d81630)
+![image](https://github.com/hanifmhsunesa/PemwebFinalProjek/assets/124480469/99ebb87a-bcef-41c2-a176-8a6511412291)
 
 Lampiran C : Daftar Fitur Yang Akan Ditentukan
 Pada lampiran ini berisi mengenai fitur-fitur yang belum ditentukan pada website Hasaris store, antara lain yaitu pembuatan IP agar website Hasaris store agar dapat digunakan pada aplikasi mobile, dan membuat Hasaris store menjadi aplikasi yang dapat digunakan pada android.
