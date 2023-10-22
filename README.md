@@ -365,8 +365,8 @@ a). body
 
 ![image](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/124480469/9a656664-64ea-4461-850e-9f83dea8fa05)
 
-1) "font-family: 'Arial', sans-serif;": mengatur jenis font teks menjadi 	"Arial" atau font sans-serif sebagai font default jika "Arial" tidak tersedia di perangkat.
-2) "background: linear-gradient(to right, #ffd6d6, #ffd6d6);": membuat latar belakang memiliki gradien linier dari kiri ke kanan dengan warna awal #ffd6d6 dan warna akhir #ffd6d6, yang pada dasarnya menghasilkan latar belakang berwarna merah muda.
+1) "font-family: 'Arial', sans-serif;": mengatur jenis font teks menjadi "Arial" atau font sans-serif sebagai font default jika "Arial" tidak tersedia di perangkat.
+2) "background: linear-gradient(to right, #ffd6d6, #ffd6d6);": membuat latar belakang memiliki gradien linier dari kiri ke kanan dengan warna awal (#ffd6d6 dan warna akhir #ffd6d6), yang pada dasarnya menghasilkan latar belakang berwarna merah muda.
 3) "display: flex;": mengubah perilaku tata letak elemen di dalam body menjadi flex, sehingga elemen-elemen dalam body dapat diatur menggunakan properti flex.
 4) "justify-content: center;" dan "align-items: center;": memusatkan elemen-elemen di dalam body baik secara horizontal maupun vertikal, sehingga semua elemen yang ada berada di tengah halaman.
 5) "height: 100vh;": Ini mengatur tinggi body (viewport height) menjadi 100% dari tinggi jendela browser, sehingga seluruh halaman akan ditampilkan pada satu layar.
