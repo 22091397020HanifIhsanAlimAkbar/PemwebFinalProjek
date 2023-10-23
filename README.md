@@ -559,7 +559,7 @@ b) body
 
 ![image](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/124480469/4f312f16-4247-4ea5-8e85-50e374b794f0)
 
-<body>: Ini adalah elemen yang berisi konten yang akan ditampilkan kepada pengguna di halaman web.
+"body": adalah elemen yang berisi konten yang akan ditampilkan kepada pengguna di halaman web.
 
 1) (div class="login-container"): adalah kontainer utama untuk seluruh konten halaman registrasi.
 2) (div class="login-frame") dan (div class="login-content"): adalah dua elemen div yang mungkin digunakan untuk mengelompokkan konten dan tampilan halaman.
@@ -569,3 +569,7 @@ b) body
 6) Elemen-elemen (input) digunakan untuk memasukkan informasi seperti username, email, dan password.
 7) "(a href="login.html" class="register-link")Daftar(/a)" adalah tautan (link) yang mengarah ke halaman "login.html" dengan teks "Daftar," mungkin digunakan untuk membawa pengguna ke halaman login.
 8) (div class="login-image") berisi gambar profil atau logo yang akan ditampilkan di samping konten form registrasi.
+
+2. css
+
+
