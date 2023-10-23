@@ -619,7 +619,7 @@ d) ".login-content"
 3) "padding: 20px;": Memberikan ruang tambahan (padding) sebesar 20 piksel di sekitar elemen.
 
  e) ".h2"
- 	adalah gaya yang diterapkan pada elemen <h2>, yang merupakan judul di dalam ".login-content".
+ 	adalah gaya yang diterapkan pada elemen "h2", yang merupakan judul di dalam ".login-content".
 
 ![image](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/124480469/01f299fe-95ff-4638-a12c-8d0ad99f3daf)
 
