@@ -680,3 +680,44 @@ j) "button"
 7) "font-weight: bold;": Mengatur teks tombol menjadi tebal.
 8) "font-size: 16px;": Mengatur ukuran font teks tombol menjadi 16 piksel.
 9) "transition: background-color 0.3s ease-in-out;": Menerapkan efek transisi pada perubahan warna latar belakang tombol saat disorot.
+
+k) "button:hover"
+	adalah gaya yang diterapkan pada tombol saat tombol tersebut disorot (hover).
+
+![image](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/124480469/490e85b1-5f7b-459a-b458-73f23743ec38)
+
+1) "background-color: #ff9191;": Mengubah warna latar belakang tombol menjadi merah muda yang lebih terang saat tombol disorot.
+
+l) ".login-image" 
+	adalah gaya yang diterapkan pada elemen dengan kelas "login-image."
+
+![image](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/124480469/e4246f78-5b57-4653-96dc-b9557c8cc9d2)
+
+1) "flex: 1;": Membuat elemen ini mengisi sebanyak mungkin ruang yang tersedia di dalam .login-container.
+2) "text-align: center;": Mengatur teks di dalam elemen ini menjadi terpusat.
+
+ m) ".login-image img"
+ 	adalah gaya yang diterapkan pada elemen gambar di dalam ".login-image".
+
+![image](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/124480469/055d5536-0f5d-45b0-b054-dd3562d180b7)
+
+1) "max-width: 100%;": Mengatur lebar gambar agar tidak melebihi lebar elemen yang mengandungnya.
+2) "height: auto;": Mengatur tinggi gambar agar sesuai dengan aspek rasio aslinya.
+3) "border-radius: 8px;": Memberikan sudut yang melengkung pada gambar sebesar 8 piksel.
+
+n) ".register-link"
+	adalah gaya yang diterapkan pada elemen dengan kelas "register-link,"  adalah tautan (link) untuk melakukan registrasi.
+
+![image](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/124480469/8adab3af-da81-465c-a689-99c6221e698a)
+
+1) "background-color: #ff6f61;": Mengatur warna latar belakang tautan menjadi merah muda.
+2) "color: #fff;": Mengatur warna teks tautan menjadi putih.
+3) "padding: 12px 24px;": Memberikan padding sebesar 12 piksel di atas dan bawah serta 24 piksel di sisi kiri dan kanan tautan.
+4) "border: none;": Menghilangkan border pada tautan.
+5) "border-radius: 25px;": Memberikan sudut yang sangat melengkung (border radius) pada tautan sebesar 25 piksel.
+6) "cursor: pointer;": Mengubah kursor menjadi tanda panah (pointer) saat pengguna mengarahkan kursor ke tautan.
+7) "font-weight: bold;": Mengatur teks tautan menjadi tebal.
+8) "font-size: 16px;": Mengatur ukuran font teks tautan menjadi 16 piksel.
+9) "text-decoration: none;": Menghilangkan dekorasi tautan seperti garis bawah atau garis coret.
+10) "display: inline-block;": Mengatur tautan agar ditampilkan sebagai elemen blok.
+11) "margin-top: 10px;": Memberikan margin atas sebesar 10 piksel pada tautan. 
