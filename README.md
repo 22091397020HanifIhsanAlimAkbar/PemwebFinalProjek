@@ -359,6 +359,16 @@ PENJELASAN SCRIPT PROGRAM
 A. Laman login
 1) HTML
 
+![image](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/124480469/40287d00-26a3-4af9-a82f-296c66f8540c)
+
+1) "!DOCTYPE html": adalah deklarasi dokumen yang menentukan jenis dokumen HTML yang digunakan (HTML5).
+2) (html lang="en"): adalah elemen root (teratas) dari dokumen HTML yang menunjukkan dokumen yang dibuat dalam bahasa Inggris ("en").
+3) (head): adalah bagian kepala dokumen HTML yang berisi informasi tentang dokumen, seperti metadata, judul halaman, dan tautan ke file eksternal.
+- (meta charset="UTF-8"): mengatur pengkodean karakter dokumen menjadi UTF-8, yang merupakan standar umum untuk pengkodean karakter dalam dokumen web.
+- (meta name="viewport" content="width=device-width, initial-scale=1.0"): adalah elemen meta yang mengatur tampilan halaman web agar sesuai dengan lebar perangkat (device-width) dan skala awal (initial-scale) adalah 1.0. Ini penting untuk responsifitas desain web.
+- (link rel="stylesheet" href="login.css"): adalah tautan ke file CSS eksternal dengan nama "login.css" yang digunakan untuk mengatur tampilan halaman.
+4) "<title>Login</title>": adalah elemen yang menentukan judul halaman web yang akan ditampilkan di tab peramban.
+  
 2. Css
 a). body
 
