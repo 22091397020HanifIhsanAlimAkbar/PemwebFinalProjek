@@ -403,9 +403,9 @@ e) h2:
 
 ![image](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/124480469/124ed668-6f33-40b3-ac41-d4e7937b82c2)
 
-1) "color: #ff6f61;": mengatur warna teks elemen <h2> menjadi merah muda "(#ff6f61)".
-2) "font-size: 24px;": mengatur ukuran font teks elemen <h2> menjadi "24px".
-3) "margin-bottom: 20px;": Ini menambahkan jarak bawah di bawah elemen <h2> sejauh "20px".
+1) "color: #ff6f61;": mengatur warna teks elemen "h2" menjadi merah muda "#ff6f61".
+2) "font-size: 24px;": mengatur ukuran font teks elemen "h2" menjadi "24px".
+3) "margin-bottom: 20px;": Ini menambahkan jarak bawah di bawah elemen "h2" sejauh "20px".
 
 f) .input-group:
 
