@@ -356,6 +356,7 @@ Lampiran C : Daftar Fitur Yang Akan Ditentukan
 Pada lampiran ini berisi mengenai fitur-fitur yang belum ditentukan pada website Hasaris store, antara lain yaitu pembuatan IP agar website Hasaris store agar dapat digunakan pada aplikasi mobile, dan membuat Hasaris store menjadi aplikasi yang dapat digunakan pada android.
 
 PENJELASAN SCRIPT PROGRAM
+
 A. Laman login
 1) HTML
 
@@ -368,8 +369,27 @@ A. Laman login
 - (meta name="viewport" content="width=device-width, initial-scale=1.0"): adalah elemen meta yang mengatur tampilan halaman web agar sesuai dengan lebar perangkat (device-width) dan skala awal (initial-scale) adalah 1.0. Ini penting untuk responsifitas desain web.
 - (link rel="stylesheet" href="login.css"): adalah tautan ke file CSS eksternal dengan nama "login.css" yang digunakan untuk mengatur tampilan halaman.
 4) "<title>Login</title>": adalah elemen yang menentukan judul halaman web yang akan ditampilkan di tab peramban.
-  
+
+![image](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/124480469/8b0cb72e-d66e-49b5-b8d0-3c810ee2503a)
+
+1) <body>: adalah elemen yang berisi konten aktual dari halaman web.
+2) <div class="login-container">: adalah div yang berfungsi sebagai wadah untuk seluruh konten login.
+3) <div class="login-frame">: adalah div yang digunakan untuk elemen latar belakang dengan efek frame yang mengelilingi elemen-elemen login.
+<div class="login-content">: Ini adalah div yang berisi konten utama dari halaman login.
+<h2>Login</h2>: Ini adalah elemen heading level 2 (h2) yang menampilkan teks "Login".
+<div class="input-group">: Ini adalah div yang berisi elemen input untuk "Username".
+<label for="username">Username</label>: Ini adalah label yang menggambarkan input "Username" dan terkait dengan input tersebut menggunakan atribut for yang sesuai.
+<input type="text" id="username" name="username" required>: Ini adalah elemen input teks dengan atribut type "text" dan atribut name "username". Atribut "required" menunjukkan bahwa input ini wajib diisi.
+<div class="input-group">: Ini adalah div yang berisi elemen input untuk "Password".
+<label for="password">Password</label>: Ini adalah label yang menggambarkan input "Password" dan terkait dengan input tersebut menggunakan atribut for yang sesuai.
+<input type="password" id="password" name="password" required>: Ini adalah elemen input sandi dengan atribut type "password". Atribut "required" menunjukkan bahwa input ini wajib diisi.
+<a href="product.html" class="register-link">Login</a>: Ini adalah tautan yang mengarah ke "product.html" dengan teks "Login" yang digunakan sebagai tombol login. Itu memiliki kelas "register-link" untuk mengatur gaya tombol.
+<a href="#" class="register-link">Registrasi</a>: Ini adalah tautan yang memiliki teks "Registrasi" dan juga memiliki kelas "register-link" untuk mengatur gaya tombol.
+<div class="login-image">: Ini adalah div yang berisi gambar yang digunakan sebagai ilustrasi dalam halaman login.
+<img src="images/logo-removebg-preview.png" alt="User Image">: Ini adalah elemen gambar yang menampilkan gambar dengan sumber (src) "images/logo-removebg-preview.png" dan teks alternatif (alt) "User Image".
+	
 2. Css
+   
 a). body
 
 ![image](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/124480469/9a656664-64ea-4461-850e-9f83dea8fa05)
