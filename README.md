@@ -223,8 +223,7 @@ Tampilan Beranda
 ![image](https://github.com/hanifmhsunesa/PemwebFinalProjek/assets/124480469/99be7cb2-9354-400d-9c59-3708e7b2c52b)
 
 Tampilan Produk
-
-![image](https://github.com/hanifmhsunesa/PemwebFinalProjek/assets/124480469/198b65b7-f575-475e-b544-74b3326e692d)
+![tapilan awal producrt](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/144761618/ed773de9-9e2a-40d7-9655-84383817e30a)
 
 ![image](https://github.com/hanifmhsunesa/PemwebFinalProjek/assets/124480469/a0a9ba10-082f-43a2-96f4-93598f6edf79)
 
