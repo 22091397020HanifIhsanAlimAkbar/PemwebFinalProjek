@@ -546,14 +546,14 @@ a) head
 
 ![image](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/124480469/526c20a2-a62d-4c51-aed5-d06969f194fd)
 
-1) "<!DOCTYPE html>": adalah deklarasi untuk mengidentifikasi tipe dokumen HTML yang digunakan oleh halaman.
-2) "<html lang="en">": adalah elemen root atau akar yang menandakan dimulainya dokumen HTML. Atribut lang="en" menunjukkan bahwa bahasa yang digunakan dalam dokumen ini adalah bahasa Inggris.
-3) "<head>": Bagian ini berisi informasi tentang halaman, seperti metadata dan tautan ke file eksternal, yang biasanya tidak terlihat oleh pengguna ketika mengunjungi halaman web.
-4) "<meta charset="UTF-8">": Mengatur karakter encoding halaman web ke UTF-8, yang mendukung karakter internasional.
-5) "<meta name="viewport" content="width=device-width, initial-scale=1.0">": adalah tag meta yang digunakan untuk mengoptimalkan tampilan halaman web pada perangkat berbasis ponsel dan tablet.
-6) "<link rel="stylesheet" href="login.css">": adalah tautan ke file CSS eksternal (login.css) yang digunakan untuk mengatur tampilan halaman.
-7) "<link href="images/logo-removebg-preview.png" rel="icon">": menentukan favicon, gambar kecil yang ditampilkan di tab browser.
-8) "<title>": menentukan "Registrasi" sebagai judul halaman web yang akan ditampilkan di tab browser.
+1) "!DOCTYPE html": adalah deklarasi untuk mengidentifikasi tipe dokumen HTML yang digunakan oleh halaman.
+2) (html lang="en"): adalah elemen root atau akar yang menandakan dimulainya dokumen HTML. Atribut lang="en" menunjukkan bahwa bahasa yang digunakan dalam dokumen ini adalah bahasa Inggris.
+3) "head": Bagian ini berisi informasi tentang halaman, seperti metadata dan tautan ke file eksternal, yang biasanya tidak terlihat oleh pengguna ketika mengunjungi halaman web.
+4) (meta charset="UTF-8"): Mengatur karakter encoding halaman web ke UTF-8, yang mendukung karakter internasional.
+5) (meta name="viewport" content="width=device-width, initial-scale=1.0"): adalah tag meta yang digunakan untuk mengoptimalkan tampilan halaman web pada perangkat berbasis ponsel dan tablet.
+6) (link rel="stylesheet" href="login.css"): adalah tautan ke file CSS eksternal (login.css) yang digunakan untuk mengatur tampilan halaman.
+7) (link href="images/logo-removebg-preview.png" rel="icon"): menentukan favicon, gambar kecil yang ditampilkan di tab browser.
+8) "title": menentukan "Registrasi" sebagai judul halaman web yang akan ditampilkan di tab browser.
 
 b) body
 
@@ -563,9 +563,9 @@ b) body
 
 1) (div class="login-container"): adalah kontainer utama untuk seluruh konten halaman registrasi.
 2) (div class="login-frame") dan (div class="login-content"): adalah dua elemen div yang mungkin digunakan untuk mengelompokkan konten dan tampilan halaman.
-3) (<h2>Registrasi</h2>): adalah judul halaman yang ditampilkan kepada pengguna.
+3) "(h2)Registrasi(/h2)": adalah judul halaman yang ditampilkan kepada pengguna.
 4) Elemen-elemen (div class="input-group") digunakan untuk mengelompokkan label dan input form untuk username, email, password, dan konfirmasi password.
 5) Elemen-elemen (label) digunakan untuk memberikan label pada input form.
 6) Elemen-elemen (input) digunakan untuk memasukkan informasi seperti username, email, dan password.
-7) "<a href="login.html" class="register-link">Daftar</a>" adalah tautan (link) yang mengarah ke halaman "login.html" dengan teks "Daftar," mungkin digunakan untuk membawa pengguna ke halaman login.
+7) "(a href="login.html" class="register-link")Daftar(/a)" adalah tautan (link) yang mengarah ke halaman "login.html" dengan teks "Daftar," mungkin digunakan untuk membawa pengguna ke halaman login.
 8) (div class="login-image") berisi gambar profil atau logo yang akan ditampilkan di samping konten form registrasi.
