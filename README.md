@@ -217,7 +217,6 @@ Mouse / trackpad : Untuk mempermudah navigasi pengguna.
 Hasaris Store mengusung konsep desain yang ramah untuk digunakan oleh pengguna. Navigasinya cukup mudah dan pengguna tidak akan kesulitan dalam berpindah halaman. Warna dibuat agar tidak norak dan dibuat agar nyaman dimata.
 
 
-
 Antarmuka Perangkat Lunak
 Tampilan Beranda
 
