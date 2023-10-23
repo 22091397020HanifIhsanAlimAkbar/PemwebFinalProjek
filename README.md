@@ -623,8 +623,7 @@ d) ".login-content"
 
 ![image](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/124480469/01f299fe-95ff-4638-a12c-8d0ad99f3daf)
 
-1) "color: #ff6f61;"
-Mengatur warna teks judul menjadi merah muda.
+1) "color: #ff6f61;": Mengatur warna teks judul menjadi merah muda.
 2) "font-size: 24px;": Mengatur ukuran font judul menjadi 24 piksel.
 3) "margin-bottom: 20px;": Memberikan margin bawah sebesar 20 piksel pada judul.
 
@@ -670,6 +669,7 @@ i) "input[type="text"]:focus", "input[type="email"]:focus", "input[type="passwor
 j) "button" 
 	adalah gaya yang diterapkan pada elemen-elemen tombol.
 
+![image](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/124480469/dce8a7cf-87f1-497c-a3e1-93ebb42a8b50)
 
 1) "background-color: #ff6f61;": Mengatur warna latar belakang tombol menjadi merah muda.
 2) "color: #fff;": Mengatur warna teks tombol menjadi putih.
