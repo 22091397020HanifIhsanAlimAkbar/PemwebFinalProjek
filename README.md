@@ -372,21 +372,21 @@ A. Laman login
 
 ![image](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/124480469/8b0cb72e-d66e-49b5-b8d0-3c810ee2503a)
 
-1) <body>: adalah elemen yang berisi konten aktual dari halaman web.
-2) <div class="login-container">: adalah div yang berfungsi sebagai wadah untuk seluruh konten login.
-3) <div class="login-frame">: adalah div yang digunakan untuk elemen latar belakang dengan efek frame yang mengelilingi elemen-elemen login.
-<div class="login-content">: Ini adalah div yang berisi konten utama dari halaman login.
-<h2>Login</h2>: Ini adalah elemen heading level 2 (h2) yang menampilkan teks "Login".
-<div class="input-group">: Ini adalah div yang berisi elemen input untuk "Username".
-<label for="username">Username</label>: Ini adalah label yang menggambarkan input "Username" dan terkait dengan input tersebut menggunakan atribut for yang sesuai.
-<input type="text" id="username" name="username" required>: Ini adalah elemen input teks dengan atribut type "text" dan atribut name "username". Atribut "required" menunjukkan bahwa input ini wajib diisi.
-<div class="input-group">: Ini adalah div yang berisi elemen input untuk "Password".
-<label for="password">Password</label>: Ini adalah label yang menggambarkan input "Password" dan terkait dengan input tersebut menggunakan atribut for yang sesuai.
-<input type="password" id="password" name="password" required>: Ini adalah elemen input sandi dengan atribut type "password". Atribut "required" menunjukkan bahwa input ini wajib diisi.
-<a href="product.html" class="register-link">Login</a>: Ini adalah tautan yang mengarah ke "product.html" dengan teks "Login" yang digunakan sebagai tombol login. Itu memiliki kelas "register-link" untuk mengatur gaya tombol.
-<a href="#" class="register-link">Registrasi</a>: Ini adalah tautan yang memiliki teks "Registrasi" dan juga memiliki kelas "register-link" untuk mengatur gaya tombol.
-<div class="login-image">: Ini adalah div yang berisi gambar yang digunakan sebagai ilustrasi dalam halaman login.
-<img src="images/logo-removebg-preview.png" alt="User Image">: Ini adalah elemen gambar yang menampilkan gambar dengan sumber (src) "images/logo-removebg-preview.png" dan teks alternatif (alt) "User Image".
+1) "body": adalah elemen yang berisi konten aktual dari halaman web.
+2) (div class="login-container"): adalah div yang berfungsi sebagai wadah untuk seluruh konten login.
+3) (div class="login-frame"): adalah div yang digunakan untuk elemen latar belakang dengan efek frame yang mengelilingi elemen-elemen login.
+4) (div class="login-content"): adalah div yang berisi konten utama dari halaman login.
+5) "h2>Login</h2>": adalah elemen heading level 2 (h2) yang menampilkan teks "Login".
+6) (<div class="input-group">): adalah div yang berisi elemen input untuk "Username".
+7) (<label for="username">Username</label>): adalah label yang menggambarkan input "Username" dan terkait dengan input tersebut menggunakan atribut for yang sesuai.
+8) (input type="text" id="username" name="username" required): adalah elemen input teks dengan atribut type "text" dan atribut name "username". Atribut "required" menunjukkan bahwa input ini wajib diisi.
+9) (div class="input-group"): adalah div yang berisi elemen input untuk "Password".
+10) "<label for="password">Password</label>": adalah label yang menggambarkan input "Password" dan terkait dengan input tersebut menggunakan atribut for yang sesuai.
+11) (<input type="password" id="password" name="password" required>): adalah elemen input sandi dengan atribut type "password". Atribut "required" menunjukkan bahwa input ini wajib diisi.
+12) (<a href="product.html" class="register-link">Login</a>): Ini adalah tautan yang mengarah ke "product.html" dengan teks "Login" yang digunakan sebagai tombol login. memiliki kelas "register-link" untuk mengatur gaya tombol.
+13) (<a href="#" class="register-link">Registrasi</a>): adalah tautan yang memiliki teks "Registrasi" dan juga memiliki kelas "register-link" untuk mengatur gaya tombol.
+14) (<div class="login-image">): adalah div yang berisi gambar yang digunakan sebagai ilustrasi dalam halaman login.
+15) (<img src="images/logo-removebg-preview.png" alt="User Image">): adalah elemen gambar yang menampilkan gambar dengan sumber (src) "images/logo-removebg-preview.png" dan teks alternatif (alt) "User Image".
 	
 2. Css
    
