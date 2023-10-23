@@ -357,6 +357,8 @@ Pada lampiran ini berisi mengenai fitur-fitur yang belum ditentukan pada website
 
 PENJELASAN SCRIPT PROGRAM
 A. Laman login
+1) HTML
+
 2. Css
 a). body
 
@@ -499,6 +501,14 @@ n) .register-link:
 8) "font-size: 16px;": mengatur ukuran font teks tautan menjadi 16px.
 9) "text-decoration: none;": enghilangkan garis bawah pada tautan.
 10) "display: inline-block;": membuat tautan menjadi elemen inline-block sehingga dapat diatur seperti blok, namun tetap mempertahankan aliran inline.
+
+o) .register-link:hover 
+
+![image](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/124480469/7faf5448-b5f5-461b-a9f4-41a4c4d5b9c0)
+
+1) ".register-link:hover": adalah selector CSS untuk memilih tautan dengan kelas "register-link" ketika tautan tersebut sedang dalam kondisi dihover, artinya ketika pengguna mengarahkan kursor mouse ke atas tautan tersebut.
+2) "background-color: #ff9191;": adalah peraturan gaya yang diterapkan ketika tautan "register-link" dalam keadaan dihover. Ini mengubah warna latar belakang tautan menjadi merah muda yang lebih terang (#ff9191) saat pengguna mengarahkan kursor mouse ke atasnya.
+
 
 
 
