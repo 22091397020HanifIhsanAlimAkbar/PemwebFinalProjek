@@ -381,12 +381,12 @@ A. Laman login
 7) (<label for="username">Username</label>): adalah label yang menggambarkan input "Username" dan terkait dengan input tersebut menggunakan atribut for yang sesuai.
 8) (input type="text" id="username" name="username" required): adalah elemen input teks dengan atribut type "text" dan atribut name "username". Atribut "required" menunjukkan bahwa input ini wajib diisi.
 9) (div class="input-group"): adalah div yang berisi elemen input untuk "Password".
-10) "<label for="password">Password</label>": adalah label yang menggambarkan input "Password" dan terkait dengan input tersebut menggunakan atribut for yang sesuai.
-11) (<input type="password" id="password" name="password" required>): adalah elemen input sandi dengan atribut type "password". Atribut "required" menunjukkan bahwa input ini wajib diisi.
+10) (label for="password")Password</label>": adalah label yang menggambarkan input "Password" dan terkait dengan input tersebut menggunakan atribut for yang sesuai.
+11) (input type="password" id="password" name="password" required): adalah elemen input sandi dengan atribut type "password". Atribut "required" menunjukkan bahwa input ini wajib diisi.
 12) (<a href="product.html" class="register-link">Login</a>): Ini adalah tautan yang mengarah ke "product.html" dengan teks "Login" yang digunakan sebagai tombol login. memiliki kelas "register-link" untuk mengatur gaya tombol.
 13) (<a href="#" class="register-link">Registrasi</a>): adalah tautan yang memiliki teks "Registrasi" dan juga memiliki kelas "register-link" untuk mengatur gaya tombol.
-14) (<div class="login-image">): adalah div yang berisi gambar yang digunakan sebagai ilustrasi dalam halaman login.
-15) (<img src="images/logo-removebg-preview.png" alt="User Image">): adalah elemen gambar yang menampilkan gambar dengan sumber (src) "images/logo-removebg-preview.png" dan teks alternatif (alt) "User Image".
+14) (div class="login-image"): adalah div yang berisi gambar yang digunakan sebagai ilustrasi dalam halaman login.
+15) (img src="images/logo-removebg-preview.png" alt="User Image"): adalah elemen gambar yang menampilkan gambar dengan sumber (src) "images/logo-removebg-preview.png" dan teks alternatif (alt) "User Image".
 	
 2. Css
    
@@ -561,11 +561,11 @@ b) body
 
 <body>: Ini adalah elemen yang berisi konten yang akan ditampilkan kepada pengguna di halaman web.
 
-1) "<div class="login-container">": adalah kontainer utama untuk seluruh konten halaman registrasi.
-2) "<div class="login-frame">" dan "<div class="login-content">": adalah dua elemen div yang mungkin digunakan untuk mengelompokkan konten dan tampilan halaman.
-3) "<h2>Registrasi</h2>": adalah judul halaman yang ditampilkan kepada pengguna.
-4) Elemen-elemen "<div class="input-group">" digunakan untuk mengelompokkan label dan input form untuk username, email, password, dan konfirmasi password.
-5) Elemen-elemen "<label>" digunakan untuk memberikan label pada input form.
-6) Elemen-elemen "<input>" digunakan untuk memasukkan informasi seperti username, email, dan password.
+1) (div class="login-container"): adalah kontainer utama untuk seluruh konten halaman registrasi.
+2) (div class="login-frame") dan (div class="login-content"): adalah dua elemen div yang mungkin digunakan untuk mengelompokkan konten dan tampilan halaman.
+3) (<h2>Registrasi</h2>): adalah judul halaman yang ditampilkan kepada pengguna.
+4) Elemen-elemen (div class="input-group") digunakan untuk mengelompokkan label dan input form untuk username, email, password, dan konfirmasi password.
+5) Elemen-elemen (label) digunakan untuk memberikan label pada input form.
+6) Elemen-elemen (input) digunakan untuk memasukkan informasi seperti username, email, dan password.
 7) "<a href="login.html" class="register-link">Daftar</a>" adalah tautan (link) yang mengarah ke halaman "login.html" dengan teks "Daftar," mungkin digunakan untuk membawa pengguna ke halaman login.
-8) "<div class="login-image">" berisi gambar profil atau logo yang akan ditampilkan di samping konten form registrasi.
+8) (div class="login-image") berisi gambar profil atau logo yang akan ditampilkan di samping konten form registrasi.
