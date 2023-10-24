@@ -416,6 +416,21 @@ b) body
 8.	`<p>HasarisStore</p>`: Ini adalah elemen paragraph (p) yang berisi teks "HasarisStore." Mungkin ini adalah nama toko atau merek yang memberikan penawaran khusus.
 9.	`<h1>Smart Band 4</h1>`: Ini adalah elemen heading level 1 (h1) yang berisi judul "Smart Band 4." Ini adalah judul penawaran khusus.
 
+![image](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/121718997/88298e78-c5b1-454e-b1d6-c37dae819941)
+
+1.	`<section id="contact">`: Ini adalah elemen `<section>` yang memiliki id "contact." Ini menandakan awal dari bagian yang berisi informasi kontak.
+2.	`<div class="box">`: Ini adalah div dengan kelas "box" yang mengelompokkan dan mengatur elemen-elemen yang terkait dengan informasi kontak.
+3.	`<h2 class="title">Contact</h2>`: Ini adalah elemen heading level 2 (h2) yang berisi judul "Contact." Ini adalah judul untuk bagian informasi kontak.
+4.	`<div class="col-5">`: Ini adalah div dengan kelas "col-5," yang mungkin digunakan untuk mengatur konten dalam lima kolom berbeda.
+5.	`<div class="icon"></div>`: Ini adalah elemen div dengan kelas "icon," yang mungkin digunakan untuk menampilkan ikon yang sesuai dengan informasi kontak (misalnya, alamat, email, dan WhatsApp). Namun, dalam kode yang Anda berikan, tidak ada gambar atau ikon yang ditampilkan.
+6.	`<h4>Address</h4>`: Ini adalah elemen heading level 4 (h4) yang berisi label "Address," yang mungkin mengindikasikan bahwa berikutnya akan ditampilkan alamat.
+7.	`<p>Jln. Kentintang Universitas Negeri Surabaya</p>`: Ini adalah elemen paragraph (p) yang menampilkan alamat kontak.
+8.	`<div class="footer">`: Ini adalah div dengan kelas "footer," yang mengelompokkan dan mengatur elemen-elemen yang terkait dengan bagian footer halaman.
+9.	`<div class="socialicon">`: Ini adalah div dengan kelas "socialicon" yang mungkin digunakan untuk menampilkan ikon media sosial.
+10.	`<a href=""><img src="images/Instagram-Icon.png" width="30px"></a>`: Ini adalah elemen tautan `<a>` yang mengarahkan ke tautan kosong (href="") dengan gambar ikon Instagram yang ditampilkan. Ikon tersebut memiliki lebar 30 piksel.
+11.	`<div class="footerbottom">`: Ini adalah div dengan kelas "footerbottom" yang mungkin digunakan untuk menampilkan informasi hak cipta dan perancang halaman.
+12.	`<p>copyright &copy;2023: Designed by <span class="designer">HasarisStore</span></p>`: Ini adalah elemen paragraph (p) yang menampilkan informasi hak cipta ("copyright") dengan tanda hak cipta (&copy;) untuk tahun 2023, serta keterangan bahwa halaman tersebut didesain oleh "HasarisStore."
+
 
 A. Laman login
 1. HTML
