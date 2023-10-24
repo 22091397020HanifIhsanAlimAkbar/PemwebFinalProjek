@@ -404,6 +404,18 @@ b) body
 8.	`<p>$50.000</p>`: Ini adalah elemen paragraph (p) yang menampilkan harga produk, dalam hal ini, "$50.000."
 9.	(Kode yang serupa digunakan untuk produk kedua dengan gambar "product-2.jpg," judul "Black Shoes," peringkat lima bintang, dan harga "$70.000.")
 
+![image](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/121718997/c6b110ce-6749-4ff4-bed3-011882fbd7ad)
+
+1.	`</div>`: Ini adalah penutup untuk elemen div sebelumnya yang memiliki kelas "col-4." Elemen ini mengakhiri bagian yang menampilkan produk-produk.
+2.	`<div class="offer">`: Ini adalah div dengan kelas "offer" yang mengelompokkan dan mengatur elemen-elemen yang terkait dengan penawaran khusus.
+3.	`<div class="small-container">`: Ini adalah div dengan kelas "small-container" yang digunakan untuk mengatur konten penawaran khusus dalam sebuah wadah dengan lebar yang lebih terbatas.
+4.	`<div class="row">`: Ini adalah div dengan kelas "row" yang digunakan untuk mengatur elemen dalam baris.
+5.	`<div class="col-2">`: Ini adalah div dengan kelas "col-2" yang mungkin digunakan untuk mengatur konten dalam dua kolom di dalam baris.
+6.	`<img src="images/exclusive.png" class="offer-img">`: Ini adalah elemen gambar `<img>` yang menampilkan gambar eksklusif (exclusive.png) yang mungkin merupakan gambar representasi dari penawaran khusus. Gambar ini diberi kelas "offer-img."
+7.	`<div class="col-2">`: Ini adalah div dengan kelas "col-2" yang digunakan sebagai kolom kedua dalam baris.
+8.	`<p>HasarisStore</p>`: Ini adalah elemen paragraph (p) yang berisi teks "HasarisStore." Mungkin ini adalah nama toko atau merek yang memberikan penawaran khusus.
+9.	`<h1>Smart Band 4</h1>`: Ini adalah elemen heading level 1 (h1) yang berisi judul "Smart Band 4." Ini adalah judul penawaran khusus.
+
 
 A. Laman login
 1. HTML
