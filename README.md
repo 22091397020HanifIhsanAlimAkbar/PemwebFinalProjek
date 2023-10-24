@@ -1429,7 +1429,10 @@ F. About
  
 a) Head
 
+
 ![image](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/121718997/cae2ec3f-4b03-41ac-ae7a-918fc223b3bf)
+
+
 
  
 1.	`<!DOCTYPE html>`: Ini adalah deklarasi DOCTYPE HTML yang digunakan untuk menentukan jenis dokumen HTML yang digunakan, dalam hal ini, HTML versi 5 (HTML5). Ini adalah bagian yang mendefinisikan tipe dokumen dan diperlukan dalam setiap halaman HTML.
@@ -1443,7 +1446,10 @@ a) Head
 
 b) body
 
+
  ![image](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/121718997/fdd643ea-d769-4f40-b0a1-64fbd059d6eb)
+
+
 
 
 1.	`<div class="header">`: Ini adalah elemen div dengan kelas "header." Elemen ini mungkin digunakan untuk mengelompokkan dan menggambarkan elemen-elemen yang termasuk dalam header halaman web, seperti logo dan menu navigasi.
@@ -1460,7 +1466,10 @@ b) body
 12.	`<li><a href="contact.html">Contact</a></li>`: Ini adalah elemen li yang berisi tautan ke halaman "Contact" dengan teks "Contact."
 
 
+
 ![image](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/121718997/45423946-8807-4e72-9654-5d5c2c856c9c)
+
+
 
 1.	`</section>`: Ini adalah penutup dari elemen `<section>` yang mungkin digunakan untuk menandai akhir dari bagian "home" atau sebelumnya di halaman web. Ini menunjukkan bahwa elemen-elemen berikutnya termasuk dalam bagian "About."
 2.	`<h2 class="title"> About</h2>`: Ini adalah elemen heading level 2 (h2) dengan kelas "title" yang berisi teks "About." Elemen ini digunakan untuk menampilkan judul "About" di halaman web, dan kelas "title" mungkin digunakan untuk memberikan aturan gaya tertentu pada judul.
@@ -1473,7 +1482,10 @@ b) body
 9.	`<h1>Dress to Impress with Hasarisstore</h1>`: Ini adalah elemen heading level 1 (h1) yang berisi teks "Dress to Impress with Hasarisstore." Ini adalah judul atau pernyataan utama yang mungkin menjadi fokus dari konten "About."
 10.	`<p>Sebuah website untuk pengguna yang sedang mencari barang kebutuhan fashion Pria dan Wanita ...</p>`: Ini adalah elemen teks paragraf (p) yang berisi deskripsi atau penjelasan tentang situs web. Paragraf ini menjelaskan tujuan dan konteks dari situs web, seperti produk yang ditawarkan dan manfaatnya bagi pengguna.
 
+
 ![image](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/121718997/12117150-045c-43fc-9e1b-13873ae0171c)
+
+
 
 1.	`<h2 class="title"> Profil</h2>`: Ini adalah elemen heading level 2 (h2) dengan kelas "title" yang berisi teks "Profil." Elemen ini digunakan untuk menampilkan judul "Profil" di halaman web, dan kelas "title" mungkin digunakan untuk memberikan aturan gaya tertentu pada judul.
 2.	`<div class="profil">`: Ini adalah elemen div dengan kelas "profil." Elemen ini mungkin digunakan untuk menggambarkan bagian konten yang berhubungan dengan profil atau informasi mengenai individu-individu tertentu.
@@ -1487,7 +1499,10 @@ b) body
 10.	`<img src="images/nuris.jpg">`: Ini adalah elemen gambar (img) dengan atribut `src` yang mengarahkan ke berkas gambar "nuris.jpg." Elemen ini mungkin digunakan untuk menampilkan gambar individu ketiga.
 11.	`<h2>Nurissa’idah</h2>`: Ini adalah elemen heading level 2 (h2) yang berisi nama "Nurissa’idah." Elemen ini digunakan untuk menampilkan nama individu ketiga.
 
+
 ![image](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/121718997/ef2cf339-1573-4b9e-8d7a-ead70a6d6c08)
+
+
 
 1.	`<div class="footer">`: Ini adalah elemen div dengan kelas "footer." Elemen ini mewakili bagian footer halaman web. Footer adalah bagian terakhir dari halaman web yang biasanya berisi informasi tambahan seperti tautan, kontak, atau hak cipta.
 2.	`<div class="sosialicon">`: Ini adalah elemen div dengan kelas "sosialicon." Meskipun dalam kode yang Anda berikan elemen ini tampak kosong, biasanya, elemen seperti ini akan digunakan untuk menampilkan ikon atau tautan ke akun media sosial atau platform lain yang terkait dengan situs web. Elemen ini mungkin digunakan untuk menggambarkan tautan sosial.
@@ -1500,7 +1515,10 @@ b) body
 
 2. about.css
 
+
 ![image](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/121718997/08ed8a6f-13be-433b-ac78-2687e12fda7d)
+
+
 
 1. `*`: Ini adalah pemilih universal dalam CSS, yang berarti aturan yang didefinisikan di bawah ini akan berlaku untuk semua elemen dalam halaman web.
 2. `margin: 0;`, `padding: 0;`: Ini mengatur margin dan padding untuk semua elemen menjadi 0. Ini digunakan untuk menghilangkan margin dan padding bawaan yang biasanya diterapkan oleh browser pada elemen-elemen HTML. Ini membantu mengatur tampilan elemen-elemen secara konsisten.
@@ -1514,7 +1532,10 @@ b) body
 
 10. `text-align: right;`: Ini mengatur teks dalam elemen "nav" agar terletak di sebelah kanan elemen tersebut. Ini akan memengaruhi tampilan tautan navigasi di dalam elemen "nav" dengan posisi kanan.
 
+
 ![image](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/121718997/8467513c-55d9-4090-9429-b510c82da40e)
+
+
 
 1. `nav ul`: Ini adalah selektor CSS yang menargetkan elemen "ul" (unordered list) yang berada dalam elemen "nav." Aturan-aturan CSS di bawah ini akan berlaku untuk elemen "ul" dalam navigasi.
 2. `display: inline-block;`: Ini mengatur elemen "ul" agar ditampilkan dalam blok inline. Ini mengubah perilaku elemen "ul" dari tampilan blok (block) menjadi tampilan inline, sehingga daftar item dalam navigasi akan ditampilkan secara horizontal.
@@ -1529,7 +1550,9 @@ b) body
 11. `background-color: #daeaf6;`: Ini mengatur latar belakang tautan ketika pengguna mengarahkan kursor mouse ke atasnya menjadi warna #daeaf6.
 12. `color: #000000;`: Ini mengatur warna teks tautan ketika pengguna mengarahkan kursor mouse ke atasnya menjadi hitam (#000000).
 
+
 ![image](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/121718997/490d907c-0322-40e0-9ffc-52ccbcba67ef)
+
 
 
 1. `a`: Ini adalah pemilih CSS yang menargetkan tautan (link) dalam halaman web.
@@ -1559,6 +1582,8 @@ b) body
 
 
 ![image](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/121718997/2fa8e418-0104-4781-9460-7b668a14eb4f)
+
+
 
 1. `.header`: Ini adalah pemilih CSS yang menargetkan elemen dengan kelas "header."
    - `background: radiSal-gradient(#fff, #ffd6d6);`: Ini mengatur latar belakang elemen dengan kelas "header" menggunakan gradient radial. Gradient ini berubah dari putih (#fff) di tengah ke merah muda (#ffd6d6) di luar. Ini menciptakan efek latar belakang yang menarik pada elemen "header."
