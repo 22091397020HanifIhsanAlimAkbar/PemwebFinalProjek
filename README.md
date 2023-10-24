@@ -1,23 +1,24 @@
-Spesifikasi Kebutuhan Perangkat Lunak
+			Spesifikasi Kebutuhan Perangkat Lunak
+			
+					Untuk
+			
+			Website E-commerce Fashion – Hasaris Store
+				Versi 1.0 Disetujui
+			
+			
+					Disusun Oleh: 
+   			Ihda Anisa Ulfa (22091397019) 
+			
+			Hanif Ihsan Alim A. (22091397020) 
+			
+			Nurissa’idah (22091397030)
+			
+				D4 Manajemen Informatika
+			
+			Fakultas Vokasi Universitas Negeri Surabaya
 
-Untuk
 
-Website E-commerce Fashion – Hasaris Store
-Versi 1.0 Disetujui
-
-
-Disusun Oleh: Ihda Anisa Ulfa (22091397019) 
-
-Hanif Ihsan Alim A. (22091397020) 
-
-Nurissa’idah (22091397030)
-
-D4 Manajemen Informatika
-
-Fakultas Vokasi Universitas Negeri Surabaya
-
-
-2022
+					2022
 
 Daftar Isi
 Pengantar	1
@@ -729,7 +730,7 @@ n) ".register-link"
 10) "display: inline-block;": Mengatur tautan agar ditampilkan sebagai elemen blok.
 11) "margin-top: 10px;": Memberikan margin atas sebesar 10 piksel pada tautan.
 
-C) Halaman Pertama
+C) Halaman Kedua
 
 1) HTML
 
