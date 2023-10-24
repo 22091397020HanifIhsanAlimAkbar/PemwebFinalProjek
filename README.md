@@ -468,6 +468,32 @@ B. CSS
    - `background-color: #daeaf6;`: Ini mengubah latar belakang tautan menjadi warna #daeaf6 ketika tautan dihover.
    - `color: #000000;`: Ini mengubah warna teks tautan menjadi hitam (#000000) ketika tautan dihover.
 
+![image](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/121718997/d0948324-d34c-4f98-a6a7-a55d3c6e2dbd)
+
+. `a`: Ini adalah selektor untuk elemen tautan (link) dalam dokumen.
+   - `text-decoration: none;`: Ini menghapus dekorasi tautan standar, seperti garis bawah, yang biasanya muncul pada tautan.
+   - `color: #555;`: Ini mengatur warna teks untuk tautan menjadi abu-abu (#555). Ini akan memengaruhi warna teks tautan dalam seluruh halaman.
+2. `p`: Ini adalah selektor untuk elemen teks paragraf (paragraph) dalam dokumen.
+   - `color: #555;`: Ini mengatur warna teks untuk paragraf menjadi abu-abu (#555). Ini akan memengaruhi warna teks paragraf dalam seluruh halaman.
+3. `.container`: Ini adalah selektor untuk elemen dengan kelas "container," yang mungkin digunakan untuk mengelompokkan konten dalam suatu wadah.
+   - `max-width: 1300px;`: Ini mengatur lebar maksimum elemen "container" menjadi 1300 piksel, yang berarti bahwa elemen ini tidak akan melebar lebih dari itu.
+   - `margin: auto;`: Ini mengatur margin elemen "container" menjadi otomatis, sehingga elemen akan terpusat secara horizontal di tengah layar.
+   - `padding-left: 25px;`, `padding-right: 25px;`: Ini memberikan padding 25 piksel di sisi kiri dan kanan elemen "container." Padding adalah ruang antara konten elemen dan batas elemen tersebut.
+4. `.row`: Ini adalah selektor untuk elemen dengan kelas "row," yang mungkin digunakan untuk mengatur baris dalam tata letak halaman.
+   - `display: flex;`: Ini mengubah elemen "row" menjadi elemen kontainer dengan tata letak fleksibel (flexbox), yang memudahkan pengaturan elemen-elemen dalam baris tersebut.
+   - `align-items: center;`: Ini mengatur elemen-elemen dalam "row" agar berada di tengah secara vertikal.
+   - `flex-wrap: wrap;`: Ini memungkinkan elemen-elemen dalam "row" untuk melilit ke baris baru jika tidak cukup lebar. Ini membantu responsivitas tata letak halaman.
+   - `justify-content: space-around;`: Ini mengatur elemen-elemen dalam "row" untuk berjarak sekitar dengan ruang yang sama di sekitar mereka, menciptakan ruang yang merata di antara elemen-elemen tersebut.
+5. `.col-2`: Ini adalah selektor untuk elemen dengan kelas "col-2," yang mungkin digunakan untuk mengatur kolom dalam tata letak halaman.
+   - `flex-basis: 50%;`: Ini mengatur lebar dasar elemen "col-2" menjadi 50% dari lebar total "row." Dengan demikian, "col-2" akan mendapatkan setengah dari lebar "row."
+   - `min-width: 300px;`: Ini mengatur lebar minimum untuk elemen "col-2" menjadi 300 piksel. Ini memastikan bahwa "col-2" tidak akan menjadi terlalu sempit jika layar lebih kecil.
+6. `.col-2 img`: Ini adalah selektor untuk gambar (element `<img>`) yang berada di dalam elemen "col-2."
+   - `max-width: 100%;`: Ini mengatur lebar maksimum gambar menjadi 100% dari lebar elemen "col-2," sehingga gambar akan mengikuti lebar elemen "col-2."
+   - `padding: 50px 0;`: Ini memberikan padding sebesar 50 piksel di atas dan bawah gambar, memberikan ruang di atas dan di bawah gambar.
+7. `.col-2 h1`: Ini adalah selektor untuk elemen heading level 1 (h1) yang berada di dalam elemen "col-2."
+   - `font-size: 50px;`: Ini mengatur ukuran font h1 menjadi 50 piksel.
+   - `line-height: 60px;`: Ini mengatur tinggi baris (line height) teks h1 menjadi 60 piksel, menciptakan jarak vertikal antar baris yang lebih besar.
+   - `margin: 25px 0;`: Ini memberikan margin sebesar 25 piksel di atas dan bawah teks h1, memberikan ruang di atas dan di bawah teks tersebut.
 
 
 A. Laman login
