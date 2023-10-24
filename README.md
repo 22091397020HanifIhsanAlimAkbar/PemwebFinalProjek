@@ -579,6 +579,30 @@ B. CSS
    - `width: flex;`: Ini adalah nilai yang tidak valid untuk properti "width." Seharusnya nilai lebar ditentukan dalam satuan seperti piksel (px) atau persen (%). Properti "width" mengatur lebar elemen.
    - `justify-content: center;`: Ini mengatur konten dalam elemen "footer" untuk terpusat secara horizontal. Namun, properti "justify-content" biasanya digunakan dalam konteks flexbox atau tata letak berbasis flexbox. Jika Anda ingin mengatur posisi elemen dalam "footer," Anda mungkin perlu menggunakan tata letak flexbox.
 
+![image](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/121718997/89b1cf27-3834-4dc7-a95e-50f3e6b99645)
+
+1. `.sosialicon`: Ini adalah selektor untuk elemen dengan kelas "sosialicon," yang mungkin digunakan untuk menggambarkan ikon media sosial atau tautan ke platform media sosial dalam footer.
+   - `display: flex;`: Ini mengatur elemen-elemen dalam "sosialicon" agar menggunakan model tata letak flexbox. Ini memungkinkan elemen-elemen tersebut untuk meratakan dan mengatur tata letak secara horizontal.
+   - `justify-content: center;`: Ini mengatur elemen-elemen dalam "sosialicon" agar terpusat secara horizontal dalam wadahnya.
+2. `.sosialicon a`: Ini adalah selektor untuk tautan (elemen `<a>`) yang berada dalam elemen dengan kelas "sosialicon."
+   - `text-decoration: none;`: Ini menghilangkan dekorasi tautan seperti garis bawah yang biasanya ada pada tautan.
+   - `padding: 10px;`: Ini memberikan padding sebesar 10 piksel di sekeliling tautan, menciptakan ruang di sekitar teks atau ikon tautan.
+   - `background-color: #fff;`: Ini mengatur latar belakang tautan menjadi warna putih (#fff).
+   - `margin: 10px;`: Ini memberikan margin sebesar 10 piksel di sekeliling tautan, menciptakan ruang di antara tautan tersebut.
+   - `border-radius: 50%;`: Ini mengatur sudut tautan sehingga terlihat bulat dengan radius sudut sebesar 50%, menciptakan tampilan tautan yang berbentuk bulat.
+3. `.sosialicon a img`: Ini adalah selektor untuk gambar (elemen `<img>`) yang berada dalam tautan-tautan (elemen `<a>`) dalam "sosialicon."
+   - `opacity: 0.9;`: Ini mengatur tingkat transparansi gambar menjadi 0.9 (90%), memberikan sedikit transparansi pada gambar.
+4. `.sosialicon a:hover`: Ini adalah aturan gaya yang diterapkan pada tautan (elemen `<a>`) dalam "sosialicon" ketika tautan ini dihover.
+   - `background-color: #111;`: Ini mengubah latar belakang tautan menjadi warna hitam (#111) saat tautan dihover. Ini memberikan efek visual perubahan warna saat tautan dihover.
+   - `transition: 0.5s;`: Ini mengatur transisi (animasi) selama 0,5 detik saat tautan mengalami perubahan, seperti perubahan warna latar belakang saat dihover.
+5. `.footerbottom`: Ini adalah selektor untuk elemen dengan kelas "footerbottom," yang mungkin digunakan untuk menggambarkan bagian bawah footer dalam halaman web.
+   - `padding: 30px;`: Ini memberikan padding sebesar 30 piksel di sekeliling elemen "footerbottom," menciptakan ruang di sekitar kontennya.
+   - `text-align: center;`: Ini mengatur konten dalam "footerbottom" agar terpusat secara horizontal.
+6. `.footerbottom p`: Ini adalah selektor untuk elemen teks paragraf (elemen `<p>`) yang berada dalam "footerbottom."
+   - `color: #fff;`: Ini mengatur warna teks dalam elemen paragraf menjadi putih (#fff), sehingga teks dalam elemen paragraf akan terlihat putih di atas latar belakang hitam.
+
+
+
 
 A. Laman login
 1. HTML
