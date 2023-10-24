@@ -3,10 +3,23 @@
     padding: 0;
     box-sizing: border-box;
 }
+html{
+    font-size: 100%;
+    scroll-behavior: smooth;
+    scroll-padding-top: 6rem;
+    
+}
 .navbar{
     display: flex;
     align-items: center;
-    padding: 20px;
+    padding: 15px;
+    background: radial-gradient(#ffd6d6, #ffd6d6);
+    width: 93%;
+    top: 0;
+    z-index: 2;
+    position: fixed;
+    
+   
 }
 nav{
     flex: 1;
@@ -14,14 +27,41 @@ nav{
    
 }
 nav ul{
-    display: inline-block;
-    list-style-type: none;
+
+    float: right;
     
 }
 nav ul li{
     display: inline-block;
     margin-right: 20px;
 }
+.navbar ul li a {
+    padding: 20px 20px;
+    display: inline-block;
+  }
+  .navbar ul li a:hover {
+    background-color: #daeaf6;
+    color: #000000;
+  }
+button {
+    background-color: #fff;
+    border-radius: 7px;
+  }
+  button{
+    padding: 5px 10px;
+    line-height: 20px;
+    font-size: 15px;
+    min-width: 50px;
+    text-align: center;
+    float: none;
+    cursor: pointer;
+    
+    
+    border-radius: 5px;
+    border: 0px;
+    height: 30px;
+
+  }
 a{
     text-decoration: none;
     color: #555;
@@ -67,7 +107,20 @@ background: #563434;
 }
 .header{
     background: radial-gradient(#fff, #ffd6d6);
+   
 }
+
+
+.rating {
+    color: #ff523b;
+}
+
+.star {
+    font-size: 24px;
+    display: inline-block;
+    margin-right: 5px;
+}
+
 .categories{
     margin: 70px 0;
 }
@@ -120,9 +173,7 @@ h4{
 .col-4{
     font-size: 14px;
 }
-.rating .fa{
-    color: #ff523b;
-}
+
 .col-4:hover{
     transform: translateY(-5px);
 }
