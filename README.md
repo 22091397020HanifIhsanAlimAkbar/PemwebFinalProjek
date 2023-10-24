@@ -562,6 +562,23 @@ B. CSS
    - `.col-4:hover`: Ini adalah aturan gaya yang diterapkan pada elemen "col-4" ketika elemen ini dihover.
      - `transform: translateY(-5px);`: Ini mengubah tampilan elemen "col-4" dengan menggesernya ke atas sejauh -5 piksel saat dihover. Ini menciptakan efek visual naik sedikit saat interaksi pengguna terhadap elemen tersebut.
 
+![image](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/121718997/0025b2d8-1fa4-43df-bfbb-e46b642ef2ef)
+
+1. `.col-4:hover`: Ini adalah aturan gaya yang diterapkan pada elemen "col-4" ketika elemen ini dihover.
+   - `transform: translateY(-5px);`: Ini mengubah tampilan elemen "col-4" dengan menggesernya ke atas sejauh -5 piksel saat dihover. Ini menciptakan efek visual naik sedikit saat interaksi pengguna terhadap elemen tersebut.
+2. `.offer`: Ini adalah selektor untuk elemen dengan kelas "offer," yang mungkin digunakan untuk menggambarkan suatu penawaran atau promosi.
+   - `background: radial-gradient(#fff, #ffd6d6);`: Ini mengatur latar belakang elemen "offer" sebagai latar belakang dengan efek gradien radial dari warna putih (#fff) ke warna abu-abu muda (#ffd6d6). Gradien ini menciptakan latar belakang dengan efek gradien yang mungkin cocok dengan konten penawaran.
+   - `margin-top: 80px;`: Ini memberikan margin sebesar 80 piksel di atas elemen "offer," menciptakan ruang antara elemen ini dan elemen-elemen di atasnya.
+   - `padding: 30px 0;`: Ini memberikan padding 30 piksel di atas dan di bawah elemen "offer," memberikan ruang di atas dan di bawah elemen ini.
+3. `.col-2 .offer-img`: Ini adalah selektor untuk elemen dengan kelas "offer-img" yang berada di dalam elemen dengan kelas "col-2."
+   - `padding: 50px;`: Ini memberikan padding 50 piksel di sekeliling elemen "offer-img." Padding ini menciptakan ruang antara elemen "offer-img" dan elemen lain di dalamnya.
+4. `.footer`: Ini adalah selektor untuk elemen dengan kelas "footer," yang mungkin digunakan untuk menggambarkan bagian bawah halaman web (footer).
+   - `background: #111;`: Ini mengatur latar belakang elemen "footer" menjadi warna hitam (#111).
+   - `font-size: 14px;`: Ini mengatur ukuran font dalam elemen "footer" menjadi 14 piksel.
+   - `padding: 30px 0;`: Ini memberikan padding 30 piksel di atas dan di bawah elemen "footer," memberikan ruang di atas dan di bawah elemen ini.
+   - `width: flex;`: Ini adalah nilai yang tidak valid untuk properti "width." Seharusnya nilai lebar ditentukan dalam satuan seperti piksel (px) atau persen (%). Properti "width" mengatur lebar elemen.
+   - `justify-content: center;`: Ini mengatur konten dalam elemen "footer" untuk terpusat secara horizontal. Namun, properti "justify-content" biasanya digunakan dalam konteks flexbox atau tata letak berbasis flexbox. Jika Anda ingin mengatur posisi elemen dalam "footer," Anda mungkin perlu menggunakan tata letak flexbox.
+
 
 A. Laman login
 1. HTML
