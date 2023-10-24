@@ -1,24 +1,4 @@
-			Spesifikasi Kebutuhan Perangkat Lunak
-			
-					Untuk
-			
-			Website E-commerce Fashion – Hasaris Store
-				Versi 1.0 Disetujui
-			
-			
-					Disusun Oleh: 
-   			Ihda Anisa Ulfa (22091397019) 
-			
-			Hanif Ihsan Alim A. (22091397020) 
-			
-			Nurissa’idah (22091397030)
-			
-				D4 Manajemen Informatika
-			
-			Fakultas Vokasi Universitas Negeri Surabaya
-
-
-					2022
+![image](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/124480469/4bb7faea-117a-449d-a9d6-8721369e61d6)
 
 Daftar Isi
 Pengantar	1
