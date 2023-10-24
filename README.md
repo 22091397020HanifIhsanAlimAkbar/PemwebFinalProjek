@@ -601,7 +601,18 @@ B. CSS
 6. `.footerbottom p`: Ini adalah selektor untuk elemen teks paragraf (elemen `<p>`) yang berada dalam "footerbottom."
    - `color: #fff;`: Ini mengatur warna teks dalam elemen paragraf menjadi putih (#fff), sehingga teks dalam elemen paragraf akan terlihat putih di atas latar belakang hitam.
 
+![image](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/121718997/7759dc88-01f5-4507-9363-8643aea1b6e6)
 
+1. `.box .col-5`: Ini adalah selektor untuk elemen dengan kelas "col-5" yang berada dalam elemen dengan kelas "box."
+   - `width: 25%;`: Ini mengatur lebar elemen "col-5" menjadi 25% dari lebar kontainernya. Dengan demikian, elemen "col-5" akan membagi lebar container menjadi 4 kolom sejajar, jika ada 4 elemen "col-5" dalam container tersebut.
+   - `padding: 20px;`: Ini memberikan padding sebesar 20 piksel di sekeliling elemen "col-5." Padding menciptakan ruang di sekitar elemen tersebut.
+   - `text-align: center;`: Ini mengatur teks dalam elemen "col-5" agar terpusat secara horizontal. Ini memengaruhi penempatan teks di dalam elemen tersebut.
+   - `float: left;`: Ini mengatur elemen "col-5" agar mengapung ke sisi kiri. Ini memungkinkan elemen "col-5" berdampingan dengan elemen-elemen lain sejajar dengan sisi kiri.
+2. `.box .col-5 h4`: Ini adalah selektor untuk elemen heading level 4 (h4) yang berada dalam elemen dengan kelas "col-5" yang juga berada dalam elemen dengan kelas "box."
+   - `margin: 10px 0;`: Ini memberikan margin sebesar 10 piksel di atas dan di bawah elemen h4, menciptakan ruang di atas dan di bawah teks.
+   - `color: #fff;`: Ini mengatur warna teks dalam elemen h4 menjadi putih (#fff).
+3. `.box .col-5 p`: Ini adalah selektor untuk elemen teks paragraf (elemen `<p>`) yang berada dalam elemen dengan kelas "col-5" yang juga berada dalam elemen dengan kelas "box."
+   - `color: #fff;`: Ini mengatur warna teks dalam elemen paragraf menjadi putih (#fff).
 
 
 A. Laman login
