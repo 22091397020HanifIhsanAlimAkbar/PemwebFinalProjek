@@ -1167,7 +1167,6 @@ E) Product
 
   ![contact1](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/144761618/ad4f2e3c-9cd2-4793-9de1-2ebc2de0e7d1)
 
-
 1) <head>: Ini adalah elemen kepala dokumen HTML yang berisi informasi tentang dokumen, seperti karakter set dan tautan ke berkas CSS.
 
 2) <body>: Ini adalah elemen utama yang berisi semua konten yang akan ditampilkan pada halaman web.
