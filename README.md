@@ -495,6 +495,28 @@ B. CSS
    - `line-height: 60px;`: Ini mengatur tinggi baris (line height) teks h1 menjadi 60 piksel, menciptakan jarak vertikal antar baris yang lebih besar.
    - `margin: 25px 0;`: Ini memberikan margin sebesar 25 piksel di atas dan bawah teks h1, memberikan ruang di atas dan di bawah teks tersebut.
 
+![image](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/121718997/b1d1e9a3-6da2-48dc-ab8f-aa86b8a23180)
+
+. `.btn`: Ini adalah selektor untuk elemen dengan kelas "btn," yang mungkin digunakan untuk menggambarkan tombol (button) dalam tata letak halaman.
+   - `display: inline-block;`: Ini mengatur elemen "btn" sebagai elemen inline-block, yang memungkinkan elemen tersebut untuk berada dalam satu baris secara horizontal dan memiliki lebar sesuai kontennya.
+   - `background: #ff523b;`: Ini mengatur latar belakang elemen "btn" menjadi warna merah (#ff523b).
+   - `color: #fff;`: Ini mengatur warna teks pada elemen "btn" menjadi putih (#fff).
+   - `padding: 8px 30px;`: Ini memberikan padding 8 piksel di atas dan bawah, serta 30 piksel di kiri dan kanan elemen "btn." Padding menciptakan ruang di sekitar teks dalam tombol.
+   - `margin: 30px 0;`: Ini memberikan margin 30 piksel di atas dan bawah elemen "btn," menciptakan ruang di atas dan di bawah tombol dalam tata letak halaman.
+   - `border-radius: 30px;`: Ini mengatur sudut elemen "btn" sehingga terlihat lebih bulat dengan radius sudut sebesar 30 piksel, menciptakan tampilan sudut yang melengkung.
+2. `.btn:hover`: Ini adalah selektor untuk elemen "btn" ketika dihover (dihover adalah ketika kursor mouse berada di atas elemen).
+   - `background: #563434;`: Ini mengubah latar belakang elemen "btn" menjadi warna merah tua (#563434) ketika tombol dihover. Ini memberikan umpan balik visual kepada pengguna ketika tombol dihover.
+3. `.header`: Ini adalah selektor untuk elemen dengan kelas "header," yang mungkin digunakan untuk menggambarkan bagian kepala halaman.
+   - `background: radial-gradient(#fff, #ffd6d6);`: Ini mengatur latar belakang elemen "header" sebagai latar belakang dengan efek gradien radial dari warna putih (#fff) ke warna abu-abu muda (#ffd6d6). Gradien ini menciptakan latar belakang dengan efek gradien yang mungkin cocok dengan desain bagian kepala halaman.
+4. `.rating`: Ini adalah selektor untuk elemen dengan kelas "rating," yang mungkin digunakan untuk menampilkan peringkat atau rating.
+   - `color: #ff523b;`: Ini mengatur warna teks dalam elemen "rating" menjadi merah (#ff523b), memberikan tampilan yang menonjol untuk elemen rating.
+5. `.star`: Ini adalah selektor untuk elemen dengan kelas "star," yang mungkin digunakan untuk menampilkan bintang atau ikon peringkat.
+   - `font-size: 24px;`: Ini mengatur ukuran font untuk elemen "star" menjadi 24 piksel, sehingga ikon peringkat akan terlihat lebih besar.
+   - `display: inline-block;`: Ini mengatur elemen "star" agar ditampilkan dalam satu baris secara horizontal.
+   - `margin-right: 5px;`: Ini memberikan margin sebesar 5 piksel di sebelah kanan elemen "star," menciptakan ruang di antara ikon peringkat.
+6. `.categories`: Ini adalah selektor untuk elemen dengan kelas "categories," yang mungkin digunakan untuk menggambarkan bagian kategori pada halaman web.
+   - `margin: 70px 0;`: Ini memberikan margin sebesar 70 piksel di atas dan bawah elemen "categories," menciptakan ruang di atas dan di bawah bagian kategori dalam tata letak halaman.
+
 
 A. Laman login
 1. HTML
