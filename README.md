@@ -1529,3 +1529,32 @@ b) body
 11. `background-color: #daeaf6;`: Ini mengatur latar belakang tautan ketika pengguna mengarahkan kursor mouse ke atasnya menjadi warna #daeaf6.
 12. `color: #000000;`: Ini mengatur warna teks tautan ketika pengguna mengarahkan kursor mouse ke atasnya menjadi hitam (#000000).
 
+![image](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/121718997/490d907c-0322-40e0-9ffc-52ccbcba67ef)
+
+
+1. `a`: Ini adalah pemilih CSS yang menargetkan tautan (link) dalam halaman web.
+   - `text-decoration: none;`: Ini menghilangkan dekorasi tautan seperti garis bawah (underline). Ini membuat tautan menjadi teks biasa tanpa garis bawah.
+   - `color: #555;`: Ini mengatur warna teks tautan menjadi #555, yang merupakan kode warna abu-abu tua.
+2. `p`: Ini adalah pemilih CSS yang menargetkan elemen-elemen paragraf (p) dalam halaman web.
+   - `color: #555;`: Ini mengatur warna teks elemen paragraf menjadi #555, yang juga merupakan kode warna abu-abu tua.
+3. `container`: Ini adalah pemilih CSS yang menargetkan elemen dengan kelas "container."
+   - `max-width: 1300px;`: Ini mengatur lebar maksimum elemen dengan kelas "container" menjadi 1300 piksel. Ini dapat digunakan untuk mengendalikan lebar konten dalam halaman web.
+   - `margin: auto;`: Ini mengatur elemen dengan kelas "container" agar berada di tengah halaman web secara horizontal dengan menggunakan margin otomatis di kiri dan kanan.
+   - `padding-left: 25px;` dan `padding-right: 25px;`: Ini mengatur padding sebesar 25 piksel di sebelah kiri dan kanan elemen dengan kelas "container." Padding adalah jarak antara konten dan batas elemen.
+4. `row`: Ini adalah pemilih CSS yang menargetkan elemen dengan kelas "row."
+   - `display: flex;`: Ini mengatur elemen dengan kelas "row" agar menggunakan tampilan fleksibel, yang memungkinkan pengaturan tata letak yang lebih fleksibel dalam konteks elemen ini.
+   - `align-items: center;`: Ini mengatur elemen-elemen dalam kelas "row" agar selalu berada di tengah vertikal. Ini berguna untuk pengaturan vertikal dalam tata letak.
+   - `flex-wrap: wrap;`: Ini mengatur elemen-elemen dalam kelas "row" agar bisa dibungkus ke baris berikutnya jika lebarnya melebihi ruang yang tersedia.
+   - `justify-content: space-around;`: Ini mengatur elemen-elemen dalam kelas "row" agar tersusun dengan jarak sekitar yang merata di sekitar mereka. Ini dapat digunakan untuk membuat ruang di antara elemen-elemen.
+5. `.col-2`: Ini adalah pemilih CSS yang menargetkan elemen dengan kelas "col-2."
+   - `flex-basis: 50%;`: Ini mengatur lebar dasar elemen dengan kelas "col-2" menjadi 50% dari lebar container induknya.
+   - `min-width: 300px;`: Ini menetapkan lebar minimum elemen dengan kelas "col-2" menjadi 300 piksel. Ini memastikan bahwa elemen ini tidak akan lebih sempit dari 300 piksel.
+6. `.col-2 img`: Ini adalah pemilih CSS yang menargetkan gambar yang berada di dalam elemen dengan kelas "col-2."
+   - `max-width: 100%;`: Ini memastikan bahwa gambar di dalam elemen "col-2" tidak akan melebihi lebar elemen tersebut. Ini membantu menjaga gambar agar tetap responsif.
+   - `padding: 50px 0;`: Ini mengatur padding sebesar 50 piksel di atas dan bawah gambar. Ini memberikan ruang antara gambar dan elemen-elemen lain di sekitarnya.
+7. `.col-2 h1`: Ini adalah pemilih CSS yang menargetkan elemen berjudul (heading) yang berada di dalam elemen dengan kelas "col-2."
+   - `font-size: 50px;`: Ini mengatur ukuran font elemen berjudul menjadi 50 piksel.
+   - `line-height: 60px;`: Ini mengatur tinggi baris (line-height) elemen berjudul menjadi 60 piksel. Ini memengaruhi jarak antara baris dalam teks.
+   - `margin: 25px 0;`: Ini mengatur margin sebesar 25 piksel di atas dan bawah elemen berjudul. Ini memberikan ruang di atas dan di bawah teks judul.
+
+
