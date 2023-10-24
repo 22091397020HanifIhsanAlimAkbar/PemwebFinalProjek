@@ -616,8 +616,9 @@ B. style.css
    - `color: #fff;`: Ini mengatur warna teks dalam elemen paragraf menjadi putih (#fff).
 
 
-A. Laman login
-1. HTML
+B. Laman login
+
+1. login.html
 
 a) head
 
@@ -651,7 +652,7 @@ b) body
 14) (div class="login-image"): adalah div yang berisi gambar yang digunakan sebagai ilustrasi dalam halaman login.
 15) (img src="images/logo-removebg-preview.png" alt="User Image"): adalah elemen gambar yang menampilkan gambar dengan sumber (src) "images/logo-removebg-preview.png" dan teks alternatif (alt) "User Image".
 	
-2. Css
+2. login.css
    
 a). body
 
@@ -802,8 +803,9 @@ o) .register-link:hover
 1) ".register-link:hover": adalah selector CSS untuk memilih tautan dengan kelas "register-link" ketika tautan tersebut sedang dalam kondisi dihover, artinya ketika pengguna mengarahkan kursor mouse ke atas tautan tersebut.
 2) "background-color: #ff9191;": adalah peraturan gaya yang diterapkan ketika tautan "register-link" dalam keadaan dihover. Ini mengubah warna latar belakang tautan menjadi merah muda yang lebih terang (#ff9191) saat pengguna mengarahkan kursor mouse ke atasnya.
 
-B. Laman Registrasi 
-1. HTML
+C. Laman Registrasi 
+
+1. registrasi.html
 
 a) head
 
@@ -833,7 +835,7 @@ b) body
 7) "(a href="login.html" class="register-link")Daftar(/a)" adalah tautan (link) yang mengarah ke halaman "login.html" dengan teks "Daftar," mungkin digunakan untuk membawa pengguna ke halaman login.
 8) (div class="login-image") berisi gambar profil atau logo yang akan ditampilkan di samping konten form registrasi.
 
-2. css
+2. registrasi.css
 
 a) "body"
 	adalah gaya yang diterapkan ke elemen <body> halaman web.
@@ -985,9 +987,9 @@ n) ".register-link"
 10) "display: inline-block;": Mengatur tautan agar ditampilkan sebagai elemen blok.
 11) "margin-top: 10px;": Memberikan margin atas sebesar 10 piksel pada tautan.
 
-C) Halaman Kedua
+D) Halaman Kedua
 
-1) HTML
+1) halaman_kedua.html
 
 a) head
 
@@ -1025,5 +1027,5 @@ b) body
 - (/body): Menandai akhir dari elemen body, yang menutup semua konten utama halaman web.
 - (/html): Menandai akhir dari elemen HTML, menutup seluruh dokumen HTML.
 
-2) css
+2) halaman_kedua.css
 
