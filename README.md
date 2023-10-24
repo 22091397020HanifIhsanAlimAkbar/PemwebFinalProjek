@@ -209,13 +209,13 @@ Tampilan Beranda
 
 
 
-Tampilan Produk
-![tapilan awal producrt](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/144761618/8569cd8e-a7f8-4143-a1b4-cbaf48357ba9)
+Tampilan Category
+![tampilanawal2category](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/144761618/69197538-9a17-4d55-8189-0418f9247ce4)
 
+![category](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/144761618/7b25bfc6-6f66-405d-b1c4-e1a8392ce037)
 
-Tampilan About
+![category2](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/144761618/669faa8b-5672-4478-aa14-353c07483fe5)
 
-![image](https://github.com/hanifmhsunesa/PemwebFinalProjek/assets/124480469/32af018d-be9c-444b-85c0-8b677a85f004)
 
 Tampilan Contact
 
