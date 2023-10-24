@@ -1052,5 +1052,17 @@ b) body
 2) 'flex: 1;' : Memberikan elemen 'nav' fleksibilitas sehingga akan memanfaatkan sebanyak mungkin ruang yang tersedia dalam elemen dengan kelas "navbar."
 3) 'text-align: right;' : Mengatur teks dalam elemen 'nav' agar diberi rata kanan (kanan).
 
-![image](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/124480469/263d45ee-497f-4671-af0a-9304b5c2c4fd)
+![image](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/124480469/20dbb4d9-a9e6-4df9-918d-e89514947999)
 
+1) 'nav ul': adalah selector yang memilih elemen <ul> yang berada dalam elemen "nav".
+   - 'display: inline-block;': Mengubah elemen "ul" menjadi inline-block, sehingga daftar tautan akan ditampilkan secara horizontal.
+   - 'list-style-type: none;': Menghilangkan jenis daftar (bullet points) dari daftar tautan.
+2) nav ul li: adalah selector yang memilih elemen-elemen "li" yang berada dalam elemen "ul" di dalam elemen "nav".
+   - 'display: inline-block;': Mengubah elemen-elemen "li" menjadi inline-block sehingga tautan akan ditampilkan secara horizontal.
+   - margin-right: 20px;: Memberikan margin sebesar 20 piksel di sebelah kanan setiap elemen "li".
+
+![image](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/124480469/7a321ce6-c8a5-4260-acd6-4d7b237f8560)
+
+1) '.navbar ul li a:hover': adalah selector yang mengatur tampilan tautan saat kursor mouse mengarah ke atasnya (hover).
+- 'background-color: #daeaf6;': Mengubah warna latar belakang tautan menjadi biru muda saat kursor mouse di atasnya.
+- 'color: #000000;': Mengubah warna teks tautan menjadi hitam saat kursor mouse di atasnya.
