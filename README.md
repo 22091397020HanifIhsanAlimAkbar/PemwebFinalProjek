@@ -210,6 +210,7 @@ Tampilan Beranda
 
 
 Tampilan Category
+
 ![tampilanawal2category](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/144761618/69197538-9a17-4d55-8189-0418f9247ce4)
 
 ![category](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/144761618/7b25bfc6-6f66-405d-b1c4-e1a8392ce037)
@@ -219,11 +220,12 @@ Tampilan Category
 
 Tampilan Contact
 
-![image](https://github.com/hanifmhsunesa/PemwebFinalProjek/assets/124480469/fc0fed9c-42c8-4d43-b1d6-bdc02c880962)
+![contact](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/144761618/a05a89a2-c7c9-4f15-b574-f0dad1b1e266)
 
-Tampilan Search
 
-![image](https://github.com/hanifmhsunesa/PemwebFinalProjek/assets/124480469/e47770c2-19e6-484a-80c3-9376635cb128)
+Tampilan Login
+
+
 
 Antarmuka Komunikasi
 
