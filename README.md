@@ -392,6 +392,18 @@ b) body
 8.	`<div class="small-container">`: Ini adalah div dengan kelas "small-container" yang mungkin digunakan untuk mengatur konten produk dalam wadah dengan lebar terbatas.
 9.	`<h2 class="title">Featured Products</h2>`: Ini adalah elemen heading level 2 (h2) yang berisi teks "Featured Products." Ini mungkin adalah judul yang menandakan bahwa berikutnya akan ditampilkan produk-produk unggulan.
 
+![image](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/121718997/f1c4f2d2-9746-4794-b4be-a5bdbe6dda07)
+
+1.	`<div class="row">`: Ini adalah div dengan kelas "row" yang digunakan untuk mengatur elemen dalam baris. Dalam konteks ini, setiap produk akan ditampilkan dalam kolom yang terletak dalam baris ini.
+2.	`<div class="col-4">`: Ini adalah div dengan kelas "col-4," yang mungkin digunakan untuk mengatur konten produk dalam empat kolom berbeda. Ini mengindikasikan bahwa akan ada empat produk yang akan ditampilkan dalam satu baris.
+3.	`<img src="images/product-1.jpg">`: Ini adalah elemen gambar `<img>` yang menampilkan gambar produk pertama dari berkas "product-1.jpg." Ini adalah gambar representasi produk.
+4.	`<h4>Red Printed T-Shirt</h4>`: Ini adalah elemen heading level 4 (h4) yang berisi judul produk, dalam hal ini, "Red Printed T-Shirt."
+5.	`<div class="rating">`: Ini adalah div dengan kelas "rating," yang mungkin digunakan untuk menampilkan peringkat atau ulasan produk.
+6.	`<span class="star">&#9733;</span>`: Ini adalah elemen `<span>` dengan kelas "star" yang menampilkan karakter bintang (&#9733;) sebagai representasi peringkat produk. Dalam kasus ini, ada empat bintang yang menyatakan peringkat produk.
+7.	`<span class="star">&#9734;</span>`: Ini adalah elemen `<span>` dengan kelas "star" yang menampilkan karakter bintang kosong (&#9734;) sebagai representasi peringkat produk. Ini menunjukkan bahwa peringkat produk ini tidak penuh (misalnya, empat bintang dari lima).
+8.	`<p>$50.000</p>`: Ini adalah elemen paragraph (p) yang menampilkan harga produk, dalam hal ini, "$50.000."
+9.	(Kode yang serupa digunakan untuk produk kedua dengan gambar "product-2.jpg," judul "Black Shoes," peringkat lima bintang, dan harga "$70.000.")
+
 
 A. Laman login
 1. HTML
