@@ -238,6 +238,20 @@ Tampilan Halaman Kedua
 
 Tampilan Product
 
+![Screenshot (80)](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/144761618/e33ea017-51dd-46bf-adea-614aa8a29e5d)
+
+![Screenshot (81)](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/144761618/ab65ecd4-9781-4648-9174-2a358f264824)
+
+![Screenshot (82)](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/144761618/bda72844-9188-404d-be78-09377760e18a)
+
+![Screenshot (83)](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/144761618/006888cf-5369-483c-a2c0-24c2a716ed00)
+
+![Screenshot (85)](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/144761618/3fdc2c45-b5c5-41e4-b576-bd3299f5230c)
+
+Tampilan Product Check Out
+
+![Screenshot (86)](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/144761618/a9344f45-dac7-44ac-b9a8-90e646fdb112)
+
 Tampilan About 
 
 ![Screenshot (93)](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/144761618/5ff673b9-8ee4-4a90-94e6-b2d4998cbd1a)
@@ -249,6 +263,10 @@ Tampilan About
 
 
 Tampilan Contact
+
+![Screenshot (87)](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/144761618/f26f5197-010c-4bdd-a97c-7fd1d4c3d3d2)
+
+![Screenshot (88)](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/144761618/5df87ed2-097b-4ba8-b315-4306664e3cdc)
 
 
 Antarmuka Komunikasi
@@ -1085,7 +1103,7 @@ b) body
 1) 'nav ul': adalah selector yang memilih elemen <ul> yang berada dalam elemen "nav".
    - 'display: inline-block;': Mengubah elemen "ul" menjadi inline-block, sehingga daftar tautan akan ditampilkan secara horizontal.
    - 'list-style-type: none;': Menghilangkan jenis daftar (bullet points) dari daftar tautan.
-2) 'nav ul li': adalah selector yang memilih elemen-elemen "li" yang berada dalam elemen "ul" di dalam elemen "nav".
+2) nav ul li: adalah selector yang memilih elemen-elemen "li" yang berada dalam elemen "ul" di dalam elemen "nav".
    - 'display: inline-block;': Mengubah elemen-elemen "li" menjadi inline-block sehingga tautan akan ditampilkan secara horizontal.
    - margin-right: 20px;: Memberikan margin sebesar 20 piksel di sebelah kanan setiap elemen "li".
 
@@ -1095,77 +1113,12 @@ b) body
 - 'background-color: #daeaf6;': Mengubah warna latar belakang tautan menjadi biru muda saat kursor mouse di atasnya.
 - 'color: #000000;': Mengubah warna teks tautan menjadi hitam saat kursor mouse di atasnya.
 
-![image](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/124480469/d9195088-7a5f-467f-acf8-3fb4fe7c7144)
-
-1) 'a': adalah selector yang memilih semua elemen `(a) (tautan) di halaman web.
-2) 'text-decoration: none;': Menghilangkan dekorasi bawaan tautan, seperti garis bawah.
-3) 'color: #555;': Mengatur warna teks tautan menjadi abu-abu (#555).
-4) 'p': adalah selector yang memilih semua elemen `(p) (paragraf) di halaman web.
-- 'color: #555;': Mengatur warna teks paragraf menjadi abu-abu (#555).
-
-![image](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/124480469/de491f9a-b2fd-40d8-9cdf-41c150fd722b)
-
-1) '.col-2': adalah selector yang memilih elemen dengan kelas "col-2."
-- 'flex-basis: 50%;': Memberikan elemen dengan kelas "col-2" fleksibilitas sehingga akan mengambil setengah dari lebar yang tersedia dalam kontainernya.
-- min-width: 300px;: Menentukan lebar minimum elemen dengan kelas "col-2" agar tidak menyusut terlalu sempit.
-2) '.col-2 img': adalah selector yang memilih gambar yang berada dalam elemen dengan kelas "col-2."
-- 'max-width: 100%;': Mengatur gambar agar tidak melebihi lebar elemen yang memuatnya.
-- 'padding: 50px 0;': Memberikan padding sebesar 50 piksel di atas dan bawah gambar.
-3) '.col-2 h1': adalah selector yang memilih elemen heading (h1) yang berada dalam elemen dengan kelas "col-2."
-  - 'font-size: 50px;': Mengatur ukuran font menjadi 50 piksel.
-  - 'line-height: 60px;': Mengatur tinggi baris menjadi 60 piksel.
-  - 'margin: 25px 0;': Memberikan margin sebesar 25 piksel di atas dan bawah teks heading.
-
-![image](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/124480469/20be2153-7c70-40f7-a22d-56c1a3fb5b19)
-
-1) '.container': adalah selector yang memilih elemen dengan kelas "container."
-2) 'max-width: 1300px;': Mengatur lebar maksimum elemen dengan kelas "container" menjadi 1300 piksel.
-3) 'margin: auto;': Memberikan margin otomatis ke kanan dan kiri elemen dengan kelas "container" untuk menjaga kontennya tetap di tengah.
-4) 'padding-left: 25px; padding-right: 25px;': Memberikan padding sebesar 25 piksel di sisi kiri dan kanan elemen.
-
-![image](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/124480469/714e1f5d-7e57-4e28-a0aa-32a4c3c59310)
-
-1) '.row': adalah selector yang memilih elemen dengan kelas "row."
-- 'display: flex;': Mengatur elemen dengan kelas "row" agar menggunakan model tata letak flex.
-- 'align-items: center;': Membuat elemen dengan kelas "row" secara vertikal terpusat.
-- flex-wrap: wrap;: Mengizinkan elemen-elemen dalam elemen dengan kelas "row" untuk mengalir ke baris baru jika Butuh lebih banyak ruang:
-  	- justify-content: space-around;: Mengatur penyebaran elemen-elemen dalam elemen dengan kelas "row" sehingga mereka akan terbagi dengan sejumlah ruang yang sama di sekitarnya.
-
-![image](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/124480469/67c06cc5-0618-49f7-b8b3-541a4bf57915)
-
-1) '.header': adalah selector yang memilih elemen dengan kelas "header."
-- 'background: radial-gradient(#fff, #ffd6d6);': Mengatur latar belakang elemen dengan efek gradient radial dari putih ke warna merah muda terang.
-2) '.categories': adalah selector yang memilih elemen dengan kelas "categories."
-- 'margin: 70px 0;': Memberikan margin sebesar 70 piksel di atas dan bawah elemen dengan kelas "categories."
-
-![image](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/124480469/94d760da-6eb3-422a-88d6-ef77b3eca76d)
-
-1) '.footer': adalah selector yang memilih elemen dengan kelas "footer."
-2) 'background: #111;': Mengatur latar belakang elemen footer menjadi warna hitam (#111).
-3) 'font-size: 14px;': Mengatur ukuran font menjadi 14 piksel untuk teks di dalam footer.
-4) 'padding: 30px 0;': Memberikan padding sebesar 30 piksel di atas dan bawah elemen footer.
-5) 'width: flex;': Mengubah elemen footer menjadi elemen flex untuk tata letak yang lebih fleksibel.
-6) 'justify-content: center;': Membuat elemen footer secara horizontal terpusat.
-
-![image](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/124480469/18f7e9ea-0b64-44f5-8365-d3d68ed48831)
-
-1) '.sosialicon a:hover': adalah selector yang mengatur tampilan ikon sosial saat kursor mouse mengarah ke atasnya (hover).
-2) 'background-color: #111;': Mengubah warna latar belakang ikon menjadi hitam (#111) saat kursor mouse berada di atasnya.
-3) 'transition: 0.5s;': Mengatur transisi berkecepatan 0,5 detik untuk perubahan warna latar belakang.
-
-![image](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/124480469/b6f6cdaf-20cc-4197-bd06-8614f90472a5)
-
-1) '.footerbottom': adalah selector yang memilih elemen dengan kelas "footerbottom."
-- 'padding: 30px;': Memberikan padding sebesar 30 piksel pada elemen dengan kelas "footerbottom."
-- text-align: center;: Mengatur teks di dalam elemen footerbottom agar diberi rata tengah secara horizontal.
-2) '.footerbottom p': adalah selector yang memilih elemen paragraf yang berada dalam elemen dengan kelas "footerbottom."
-- color: #fff;: Mengatur warna teks paragraf menjadi putih (#fff).
-
 E) Product
 
 1) Product.html
 
   ![contact1](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/144761618/ad4f2e3c-9cd2-4793-9de1-2ebc2de0e7d1)
+
 
 1) <head>: Ini adalah elemen kepala dokumen HTML yang berisi informasi tentang dokumen, seperti karakter set dan tautan ke berkas CSS.
 
@@ -1189,7 +1142,11 @@ E) Product
 
 11) <h2>: Ini adalah elemen judul tingkat kedua yang digunakan untuk menampilkan judul "Contact Us" dan "Contact Form" pada halaman.
 
-3) Scipt.js
+2) Product.css
+
+   
+
+4) Product Scipt.js
 
    ![sc1](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/144761618/af85fd90-542f-4467-9469-5c4578bd5134)
 
@@ -1258,42 +1215,3 @@ Fungsi checkout():
 
 6) Ini digunakan untuk menangani tindakan "Check Out." Pada contoh ini, hanya muncul pesan peringatan yang menyatakan terima kasih atas pembelian, tetapi dalam pengembangan lebih lanjut, Anda dapat menyimpan pesanan pelanggan ke server atau melakukan tindakan lain yang sesuai.
 Setelah "Check Out," keranjang dibersihkan dan tampilan keranjang diperbarui dengan memanggil fungsi updateCart().
-
-F. About
-
-1. about.html
- 
-a) Head
-
-![image](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/121718997/cae2ec3f-4b03-41ac-ae7a-918fc223b3bf)
-
- 
-1.	`<!DOCTYPE html>`: Ini adalah deklarasi DOCTYPE HTML yang digunakan untuk menentukan jenis dokumen HTML yang digunakan, dalam hal ini, HTML versi 5 (HTML5). Ini adalah bagian yang mendefinisikan tipe dokumen dan diperlukan dalam setiap halaman HTML.
-2.	`<html lang="en">`: Ini adalah elemen pembuka dari dokumen HTML. Elemen ini menunjukkan bahwa ini adalah dokumen HTML dan juga mengatur atribut `lang` ke "en" (Inggris) untuk menunjukkan bahasa yang digunakan dalam halaman.
-3.	`<head>`: Ini adalah elemen kepala (head) dari dokumen HTML. Bagian ini berisi informasi tentang dokumen, seperti metadata dan tautan ke berkas-berkas lain yang diperlukan oleh halaman web. Semua elemen dalam bagian `<head>` tidak akan ditampilkan pada halaman web itu sendiri.
-4.	`<meta charset="UTF-8">`: Ini adalah elemen meta yang mengatur karakter set dokumen HTML ke UTF-8, yang merupakan karakter set umum yang mendukung berbagai karakter dan simbol dalam bahasa manusia.
-5.	`<meta name="viewport" content="width=device-width, initial-scale=1.0">`: Ini adalah elemen meta yang digunakan untuk mengatur tampilan responsif pada perangkat bergerak. Atribut `content` mengindikasikan agar lebar tampilan mengikuti lebar perangkat (`width=device-width`) dan tingkat zoom awal adalah 1.0 (`initial-scale=1.0`).
-6.	`<title>HasarisStore</title>`: Ini adalah elemen judul halaman (title). Judul ini akan ditampilkan di bilah judul browser dan digunakan sebagai judul tab ketika halaman web dibuka.
-7.	`<link rel="stylesheet" href="about.css">`: Ini adalah elemen tautan stylesheet (CSS) yang menghubungkan halaman HTML ini dengan berkas CSS yang disebut "about.css." Berkas CSS ini akan digunakan untuk mengatur tampilan dan gaya halaman web.
-8.	`<link href="images/logo-removebg-preview.png" rel="icon">`: Ini adalah elemen tautan ikon (favicon). Ini menghubungkan halaman web dengan berkas gambar "logo-removebg-preview.png" yang akan digunakan sebagai ikon yang ditampilkan di bilah judul browser atau tab halaman web. Ikon ini adalah representasi visual singkat dari halaman web atau merek.
-
-b) body
-
- ![image](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/121718997/fdd643ea-d769-4f40-b0a1-64fbd059d6eb)
-
-
-1.	`<div class="header">`: Ini adalah elemen div dengan kelas "header." Elemen ini mungkin digunakan untuk mengelompokkan dan menggambarkan elemen-elemen yang termasuk dalam header halaman web, seperti logo dan menu navigasi.
-2.	`<div class="container">`: Ini adalah elemen div dengan kelas "container." Elemen ini mungkin digunakan untuk mengelompokkan elemen-elemen dalam header ke dalam suatu wadah atau kontainer, yang bisa membantu mengatur tata letak dan ruang di dalam header.
-3.	`<section id="home">`: Ini adalah elemen section dengan atribut `id` "home." Elemen section ini digunakan untuk membagi halaman web menjadi bagian-bagian yang berbeda dan mungkin digunakan untuk menggambarkan bagian "home" dari halaman web.
-4.	`<div class="navbar">`: Ini adalah elemen div dengan kelas "navbar." Elemen ini mungkin digunakan untuk menggambarkan menu navigasi atau bar navigasi halaman web. Navigasi ini akan berisi tautan-tautan ke halaman lain dalam situs web.
-5.	`<div class="logo">`: Ini adalah elemen div dengan kelas "logo." Elemen ini mungkin digunakan untuk menggambarkan logo atau gambar merek. Logo ini akan muncul di bagian atas header.
-6.	`<img src="images/logo-removebg-preview.png" width="125px">`: Ini adalah elemen gambar (img) yang digunakan untuk menampilkan gambar logo. Atribut `src` mengarahkan ke berkas gambar "logo-removebg-preview.png," dan atribut `width` mengatur lebar gambar menjadi 125 piksel.
-7.	`<nav>`: Ini adalah elemen nav yang digunakan untuk menggambarkan elemen navigasi. Di dalamnya akan ada tautan-tautan menu navigasi.
-8.	`<ul>`: Ini adalah elemen ul (unordered list) yang digunakan untuk membuat daftar yang tidak terurut. Di dalamnya akan ada elemen-elemen li (list item) yang berisi tautan menu.
-9.	`<li><a href="halaman_kedua.html">Home</a></li>`: Ini adalah elemen li yang berisi tautan (a) ke halaman kedua dengan teks "Home." Ini adalah salah satu item menu navigasi.
-10.	`<li><a href="product.html">Products</a></li>`: Ini adalah elemen li yang berisi tautan ke halaman "Products" dalam situs web dengan teks "Products."
-11.	`<li><a href="about.html">About</a></li>`: Ini adalah elemen li yang berisi tautan ke halaman "About" dengan teks "About."
-12.	`<li><a href="contact.html">Contact</a></li>`: Ini adalah elemen li yang berisi tautan ke halaman "Contact" dengan teks "Contact."
-
-
-
