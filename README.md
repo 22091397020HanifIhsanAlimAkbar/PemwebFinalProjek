@@ -342,7 +342,7 @@ Pada lampiran ini berisi mengenai fitur-fitur yang belum ditentukan pada website
 PENJELASAN SCRIPT PROGRAM
 A. Laman Index
 
-1. HTML
+1. index.html
 
 a) head
 
@@ -431,7 +431,7 @@ b) body
 11.	`<div class="footerbottom">`: Ini adalah div dengan kelas "footerbottom" yang mungkin digunakan untuk menampilkan informasi hak cipta dan perancang halaman.
 12.	`<p>copyright &copy;2023: Designed by <span class="designer">HasarisStore</span></p>`: Ini adalah elemen paragraph (p) yang menampilkan informasi hak cipta ("copyright") dengan tanda hak cipta (&copy;) untuk tahun 2023, serta keterangan bahwa halaman tersebut didesain oleh "HasarisStore."
 
-B. CSS
+B. style.css
 
 ![image](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/121718997/942d684a-273c-4f61-a41c-9d4b0f01193f)
 
