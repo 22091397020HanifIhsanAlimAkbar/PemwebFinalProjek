@@ -1600,3 +1600,4 @@ b) body
    - `color: #fff;`: Ini mengatur warna teks dalam elemen-elemen paragraf menjadi putih (#fff).
 
 
+
