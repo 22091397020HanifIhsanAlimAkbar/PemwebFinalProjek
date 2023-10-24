@@ -1051,3 +1051,6 @@ b) body
 1) 'nav' : adalah selector yang memilih elemen 'nav' di halaman web.
 2) 'flex: 1;' : Memberikan elemen 'nav' fleksibilitas sehingga akan memanfaatkan sebanyak mungkin ruang yang tersedia dalam elemen dengan kelas "navbar."
 3) 'text-align: right;' : Mengatur teks dalam elemen 'nav' agar diberi rata kanan (kanan).
+
+![image](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/124480469/263d45ee-497f-4671-af0a-9304b5c2c4fd)
+
