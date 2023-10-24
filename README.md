@@ -1085,7 +1085,7 @@ b) body
 1) 'nav ul': adalah selector yang memilih elemen <ul> yang berada dalam elemen "nav".
    - 'display: inline-block;': Mengubah elemen "ul" menjadi inline-block, sehingga daftar tautan akan ditampilkan secara horizontal.
    - 'list-style-type: none;': Menghilangkan jenis daftar (bullet points) dari daftar tautan.
-2) nav ul li: adalah selector yang memilih elemen-elemen "li" yang berada dalam elemen "ul" di dalam elemen "nav".
+2) 'nav ul li': adalah selector yang memilih elemen-elemen "li" yang berada dalam elemen "ul" di dalam elemen "nav".
    - 'display: inline-block;': Mengubah elemen-elemen "li" menjadi inline-block sehingga tautan akan ditampilkan secara horizontal.
    - margin-right: 20px;: Memberikan margin sebesar 20 piksel di sebelah kanan setiap elemen "li".
 
@@ -1094,6 +1094,72 @@ b) body
 1) '.navbar ul li a:hover': adalah selector yang mengatur tampilan tautan saat kursor mouse mengarah ke atasnya (hover).
 - 'background-color: #daeaf6;': Mengubah warna latar belakang tautan menjadi biru muda saat kursor mouse di atasnya.
 - 'color: #000000;': Mengubah warna teks tautan menjadi hitam saat kursor mouse di atasnya.
+
+![image](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/124480469/d9195088-7a5f-467f-acf8-3fb4fe7c7144)
+
+1) 'a': adalah selector yang memilih semua elemen `(a) (tautan) di halaman web.
+2) 'text-decoration: none;': Menghilangkan dekorasi bawaan tautan, seperti garis bawah.
+3) 'color: #555;': Mengatur warna teks tautan menjadi abu-abu (#555).
+4) 'p': adalah selector yang memilih semua elemen `(p) (paragraf) di halaman web.
+- 'color: #555;': Mengatur warna teks paragraf menjadi abu-abu (#555).
+
+![image](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/124480469/de491f9a-b2fd-40d8-9cdf-41c150fd722b)
+
+1) '.col-2': adalah selector yang memilih elemen dengan kelas "col-2."
+- 'flex-basis: 50%;': Memberikan elemen dengan kelas "col-2" fleksibilitas sehingga akan mengambil setengah dari lebar yang tersedia dalam kontainernya.
+- min-width: 300px;: Menentukan lebar minimum elemen dengan kelas "col-2" agar tidak menyusut terlalu sempit.
+2) '.col-2 img': adalah selector yang memilih gambar yang berada dalam elemen dengan kelas "col-2."
+- 'max-width: 100%;': Mengatur gambar agar tidak melebihi lebar elemen yang memuatnya.
+- 'padding: 50px 0;': Memberikan padding sebesar 50 piksel di atas dan bawah gambar.
+3) '.col-2 h1': adalah selector yang memilih elemen heading (h1) yang berada dalam elemen dengan kelas "col-2."
+  - 'font-size: 50px;': Mengatur ukuran font menjadi 50 piksel.
+  - 'line-height: 60px;': Mengatur tinggi baris menjadi 60 piksel.
+  - 'margin: 25px 0;': Memberikan margin sebesar 25 piksel di atas dan bawah teks heading.
+
+![image](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/124480469/20be2153-7c70-40f7-a22d-56c1a3fb5b19)
+
+1) '.container': adalah selector yang memilih elemen dengan kelas "container."
+2) 'max-width: 1300px;': Mengatur lebar maksimum elemen dengan kelas "container" menjadi 1300 piksel.
+3) 'margin: auto;': Memberikan margin otomatis ke kanan dan kiri elemen dengan kelas "container" untuk menjaga kontennya tetap di tengah.
+4) 'padding-left: 25px; padding-right: 25px;': Memberikan padding sebesar 25 piksel di sisi kiri dan kanan elemen.
+
+![image](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/124480469/714e1f5d-7e57-4e28-a0aa-32a4c3c59310)
+
+1) '.row': adalah selector yang memilih elemen dengan kelas "row."
+- 'display: flex;': Mengatur elemen dengan kelas "row" agar menggunakan model tata letak flex.
+- 'align-items: center;': Membuat elemen dengan kelas "row" secara vertikal terpusat.
+- flex-wrap: wrap;: Mengizinkan elemen-elemen dalam elemen dengan kelas "row" untuk mengalir ke baris baru jika Butuh lebih banyak ruang:
+  	- justify-content: space-around;: Mengatur penyebaran elemen-elemen dalam elemen dengan kelas "row" sehingga mereka akan terbagi dengan sejumlah ruang yang sama di sekitarnya.
+
+![image](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/124480469/67c06cc5-0618-49f7-b8b3-541a4bf57915)
+
+1) '.header': adalah selector yang memilih elemen dengan kelas "header."
+- 'background: radial-gradient(#fff, #ffd6d6);': Mengatur latar belakang elemen dengan efek gradient radial dari putih ke warna merah muda terang.
+2) '.categories': adalah selector yang memilih elemen dengan kelas "categories."
+- 'margin: 70px 0;': Memberikan margin sebesar 70 piksel di atas dan bawah elemen dengan kelas "categories."
+
+![image](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/124480469/94d760da-6eb3-422a-88d6-ef77b3eca76d)
+
+1) '.footer': adalah selector yang memilih elemen dengan kelas "footer."
+2) 'background: #111;': Mengatur latar belakang elemen footer menjadi warna hitam (#111).
+3) 'font-size: 14px;': Mengatur ukuran font menjadi 14 piksel untuk teks di dalam footer.
+4) 'padding: 30px 0;': Memberikan padding sebesar 30 piksel di atas dan bawah elemen footer.
+5) 'width: flex;': Mengubah elemen footer menjadi elemen flex untuk tata letak yang lebih fleksibel.
+6) 'justify-content: center;': Membuat elemen footer secara horizontal terpusat.
+
+![image](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/124480469/18f7e9ea-0b64-44f5-8365-d3d68ed48831)
+
+1) '.sosialicon a:hover': adalah selector yang mengatur tampilan ikon sosial saat kursor mouse mengarah ke atasnya (hover).
+2) 'background-color: #111;': Mengubah warna latar belakang ikon menjadi hitam (#111) saat kursor mouse berada di atasnya.
+3) 'transition: 0.5s;': Mengatur transisi berkecepatan 0,5 detik untuk perubahan warna latar belakang.
+
+![image](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/124480469/b6f6cdaf-20cc-4197-bd06-8614f90472a5)
+
+1) '.footerbottom': adalah selector yang memilih elemen dengan kelas "footerbottom."
+- 'padding: 30px;': Memberikan padding sebesar 30 piksel pada elemen dengan kelas "footerbottom."
+- text-align: center;: Mengatur teks di dalam elemen footerbottom agar diberi rata tengah secara horizontal.
+2) '.footerbottom p': adalah selector yang memilih elemen paragraf yang berada dalam elemen dengan kelas "footerbottom."
+- color: #fff;: Mengatur warna teks paragraf menjadi putih (#fff).
 
 E) Product
 
