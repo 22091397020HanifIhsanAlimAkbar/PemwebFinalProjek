@@ -205,7 +205,8 @@ Hasaris Store mengusung konsep desain yang ramah untuk digunakan oleh pengguna. 
 Antarmuka Perangkat Lunak
 Tampilan Beranda
 
-![Uploading tmpilan awal.png…]()
+![image](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/144761618/0824b22b-63bd-4733-a245-71dd62c33bec)
+
 
 
 Tampilan Produk
