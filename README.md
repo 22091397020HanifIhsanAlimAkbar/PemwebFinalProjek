@@ -1094,3 +1094,35 @@ b) body
 1) '.navbar ul li a:hover': adalah selector yang mengatur tampilan tautan saat kursor mouse mengarah ke atasnya (hover).
 - 'background-color: #daeaf6;': Mengubah warna latar belakang tautan menjadi biru muda saat kursor mouse di atasnya.
 - 'color: #000000;': Mengubah warna teks tautan menjadi hitam saat kursor mouse di atasnya.
+
+E) Product
+
+1) Product.html
+
+   ![image](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/144761618/4c7d0758-b0b7-477e-89ec-3f6ae9ac52c7)
+
+1) <head>: Ini adalah elemen kepala dokumen HTML yang berisi informasi tentang dokumen, seperti karakter set dan tautan ke berkas CSS.
+
+2) <body>: Ini adalah elemen utama yang berisi semua konten yang akan ditampilkan pada halaman web.
+
+3) .header: Ini adalah elemen div dengan kelas "header," yang umumnya digunakan untuk mengelompokkan elemen-elemen yang terkait dengan bagian atas halaman, seperti header navigasi dan logo.
+
+4) .container: Ini adalah elemen div dengan kelas "container," yang digunakan untuk mengelompokkan dan mengatur konten di tengah halaman. Ini juga memberikan latar belakang putih dan bayangan pada konten utama.
+
+5) .navbar: Ini adalah elemen div dengan kelas "navbar," yang berisi navigasi situs web, seperti tautan ke halaman lain. Navigasi ini umumnya digunakan untuk membantu pengguna menjelajahi situs web Anda.
+
+6) .logo: Ini adalah elemen div dengan kelas "logo," yang berisi gambar logo situs web.
+
+7) <nav>: Ini adalah elemen navigasi yang berisi daftar tautan ke halaman lain di situs web.
+
+8) <ul>: Ini adalah elemen daftar yang berisi daftar item navigasi.
+
+9) <li>: Ini adalah elemen daftar item yang berisi tautan ke halaman lain di situs web.
+
+10) <a>: Ini adalah elemen tautan yang mengarahkan ke halaman lain dalam situs web.
+
+111) <h2>: Ini adalah elemen judul tingkat kedua yang digunakan untuk menampilkan judul "Contact Us" dan "Contact Form" pada halaman.
+
+
+   
+
