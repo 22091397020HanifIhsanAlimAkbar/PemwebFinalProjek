@@ -1277,4 +1277,23 @@ a) Head
 7.	`<link rel="stylesheet" href="about.css">`: Ini adalah elemen tautan stylesheet (CSS) yang menghubungkan halaman HTML ini dengan berkas CSS yang disebut "about.css." Berkas CSS ini akan digunakan untuk mengatur tampilan dan gaya halaman web.
 8.	`<link href="images/logo-removebg-preview.png" rel="icon">`: Ini adalah elemen tautan ikon (favicon). Ini menghubungkan halaman web dengan berkas gambar "logo-removebg-preview.png" yang akan digunakan sebagai ikon yang ditampilkan di bilah judul browser atau tab halaman web. Ikon ini adalah representasi visual singkat dari halaman web atau merek.
 
+b) body
+
+ ![image](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/121718997/fdd643ea-d769-4f40-b0a1-64fbd059d6eb)
+
+
+1.	`<div class="header">`: Ini adalah elemen div dengan kelas "header." Elemen ini mungkin digunakan untuk mengelompokkan dan menggambarkan elemen-elemen yang termasuk dalam header halaman web, seperti logo dan menu navigasi.
+2.	`<div class="container">`: Ini adalah elemen div dengan kelas "container." Elemen ini mungkin digunakan untuk mengelompokkan elemen-elemen dalam header ke dalam suatu wadah atau kontainer, yang bisa membantu mengatur tata letak dan ruang di dalam header.
+3.	`<section id="home">`: Ini adalah elemen section dengan atribut `id` "home." Elemen section ini digunakan untuk membagi halaman web menjadi bagian-bagian yang berbeda dan mungkin digunakan untuk menggambarkan bagian "home" dari halaman web.
+4.	`<div class="navbar">`: Ini adalah elemen div dengan kelas "navbar." Elemen ini mungkin digunakan untuk menggambarkan menu navigasi atau bar navigasi halaman web. Navigasi ini akan berisi tautan-tautan ke halaman lain dalam situs web.
+5.	`<div class="logo">`: Ini adalah elemen div dengan kelas "logo." Elemen ini mungkin digunakan untuk menggambarkan logo atau gambar merek. Logo ini akan muncul di bagian atas header.
+6.	`<img src="images/logo-removebg-preview.png" width="125px">`: Ini adalah elemen gambar (img) yang digunakan untuk menampilkan gambar logo. Atribut `src` mengarahkan ke berkas gambar "logo-removebg-preview.png," dan atribut `width` mengatur lebar gambar menjadi 125 piksel.
+7.	`<nav>`: Ini adalah elemen nav yang digunakan untuk menggambarkan elemen navigasi. Di dalamnya akan ada tautan-tautan menu navigasi.
+8.	`<ul>`: Ini adalah elemen ul (unordered list) yang digunakan untuk membuat daftar yang tidak terurut. Di dalamnya akan ada elemen-elemen li (list item) yang berisi tautan menu.
+9.	`<li><a href="halaman_kedua.html">Home</a></li>`: Ini adalah elemen li yang berisi tautan (a) ke halaman kedua dengan teks "Home." Ini adalah salah satu item menu navigasi.
+10.	`<li><a href="product.html">Products</a></li>`: Ini adalah elemen li yang berisi tautan ke halaman "Products" dalam situs web dengan teks "Products."
+11.	`<li><a href="about.html">About</a></li>`: Ini adalah elemen li yang berisi tautan ke halaman "About" dengan teks "About."
+12.	`<li><a href="contact.html">Contact</a></li>`: Ini adalah elemen li yang berisi tautan ke halaman "Contact" dengan teks "Contact."
+
+
 
