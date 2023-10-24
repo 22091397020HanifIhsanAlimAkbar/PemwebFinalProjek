@@ -412,12 +412,13 @@ h4 {
     color: #fff;
     padding: 8px 30px;
     margin: 30px 0;
-    border-radius: 30px;
+    border-radius: 25px;
 }
 
 #checkout-button:hover{
 background: #563434;
 }
+
 .box .col-5 {
     width: 25%;
     padding: 20px;
