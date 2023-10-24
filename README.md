@@ -379,7 +379,20 @@ b) body
 16.	`<a href="login.html" class="btn">Explore Now &#8594;</a>`: Ini adalah tautan `<a>` dengan atribut `href` yang mengarahkan ke halaman "login.html" dan diberi kelas "btn," yang mungkin digunakan untuk membuat tautan terlihat seperti tombol.
 17.	`<div class="col-2">`: Ini adalah div dengan kelas "col-2" yang mungkin digunakan untuk mengatur konten dalam kolom kedua di dalam baris.
 18.	`<img src="images/lovepik-lovers-shopping-png-image_400680411_wh860-removebg-preview.png">`: Ini adalah elemen gambar `<img>` yang menampilkan gambar dari berkas "lovepik-lovers-shopping-png-image_400680411_wh860-removebg-preview.png."
-   
+
+![image](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/121718997/2bd05cfa-065f-4435-9e02-eff757de8121)
+
+1.	`</section>`: Ini adalah tag penutup untuk elemen `<section>`. Ini menandakan akhir dari bagian yang telah diberi id "home."
+2.	`<section id="categories">`: Ini adalah elemen `<section>` yang memiliki id "categories." Ini adalah awal dari sebuah bagian dalam halaman yang berkaitan dengan kategori.
+3.	`<div class="small-container">`: Ini adalah div dengan kelas "small-container" yang digunakan untuk mengatur konten dalam sebuah wadah dengan lebar yang lebih terbatas
+4.	`<div class="row">`: Ini adalah div dengan kelas "row" yang digunakan untuk mengatur elemen dalam baris.
+5.	`<div class="col-3">`: Ini adalah div dengan kelas "col-3," yang mungkin digunakan untuk mengatur konten dalam tiga kolom di dalam baris.
+6.	`<img src="images/category-1.jpg">`: Ini adalah elemen gambar `<img>` yang menampilkan gambar dari berkas "category-1.jpg." Mungkin ini adalah representasi visual dari kategori produk.
+7.	`</div>`: Ini adalah penutup untuk elemen div "col-3." (Kode yang serupa untuk gambar kategori "category-2.jpg" dan "category-3.jpg.")
+8.	`<div class="small-container">`: Ini adalah div dengan kelas "small-container" yang mungkin digunakan untuk mengatur konten produk dalam wadah dengan lebar terbatas.
+9.	`<h2 class="title">Featured Products</h2>`: Ini adalah elemen heading level 2 (h2) yang berisi teks "Featured Products." Ini mungkin adalah judul yang menandakan bahwa berikutnya akan ditampilkan produk-produk unggulan.
+
+
 A. Laman login
 1. HTML
 
