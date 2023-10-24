@@ -470,7 +470,7 @@ B. CSS
 
 ![image](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/121718997/d0948324-d34c-4f98-a6a7-a55d3c6e2dbd)
 
-. `a`: Ini adalah selektor untuk elemen tautan (link) dalam dokumen.
+1. `a`: Ini adalah selektor untuk elemen tautan (link) dalam dokumen.
    - `text-decoration: none;`: Ini menghapus dekorasi tautan standar, seperti garis bawah, yang biasanya muncul pada tautan.
    - `color: #555;`: Ini mengatur warna teks untuk tautan menjadi abu-abu (#555). Ini akan memengaruhi warna teks tautan dalam seluruh halaman.
 2. `p`: Ini adalah selektor untuk elemen teks paragraf (paragraph) dalam dokumen.
@@ -497,7 +497,7 @@ B. CSS
 
 ![image](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/121718997/b1d1e9a3-6da2-48dc-ab8f-aa86b8a23180)
 
-. `.btn`: Ini adalah selektor untuk elemen dengan kelas "btn," yang mungkin digunakan untuk menggambarkan tombol (button) dalam tata letak halaman.
+1. `.btn`: Ini adalah selektor untuk elemen dengan kelas "btn," yang mungkin digunakan untuk menggambarkan tombol (button) dalam tata letak halaman.
    - `display: inline-block;`: Ini mengatur elemen "btn" sebagai elemen inline-block, yang memungkinkan elemen tersebut untuk berada dalam satu baris secara horizontal dan memiliki lebar sesuai kontennya.
    - `background: #ff523b;`: Ini mengatur latar belakang elemen "btn" menjadi warna merah (#ff523b).
    - `color: #fff;`: Ini mengatur warna teks pada elemen "btn" menjadi putih (#fff).
@@ -519,7 +519,7 @@ B. CSS
 
 ![image](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/121718997/2da87351-c35c-41f3-91c4-f46fe6c3d8cd)
 
-. `.col-3`: Ini adalah selektor untuk elemen dengan kelas "col-3," yang mungkin digunakan untuk menggambarkan kolom dalam tata letak halaman.
+1. `.col-3`: Ini adalah selektor untuk elemen dengan kelas "col-3," yang mungkin digunakan untuk menggambarkan kolom dalam tata letak halaman.
    - `flex-basis: 30%;`: Ini mengatur lebar dasar elemen "col-3" menjadi 30% dari lebar total elemennya. Ini memberikan elemen "col-3" sebagian besar lebar dalam tata letak.
    - `min-width: 250px;`: Ini mengatur lebar minimum untuk elemen "col-3" menjadi 250 piksel, sehingga elemen ini tidak akan menjadi terlalu sempit bahkan jika lebar tampilan layar lebih kecil.
    - `margin-bottom: 30px;`: Ini memberikan margin sebesar 30 piksel di bawah elemen "col-3," menciptakan ruang antara kolom-kolom dalam tata letak.
@@ -535,6 +535,32 @@ B. CSS
    - `min-width: 200px;`: Ini mengatur lebar minimum untuk elemen "col-4" menjadi 200 piksel, sehingga elemen ini tidak akan menjadi terlalu sempit bahkan jika lebar tampilan layar lebih kecil.
    - `margin-bottom: 50px;`: Ini memberikan margin sebesar 50 piksel di bawah elemen "col-4," menciptakan ruang antara kolom-kolom dalam tata letak.
    - `transition: transform 0.5s;`: Ini mengatur efek transisi yang akan terjadi saat elemen "col-4" mengalami perubahan transformasi. Dalam hal ini, elemen "col-4" akan mengalami transformasi dalam waktu 0,5 detik. Transformasi biasanya digunakan untuk animasi dan perubahan tampilan elemen saat interaksi pengguna.
+
+![image](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/121718997/f169f8c4-94ec-41a7-87e0-57067400fefa)
+
+1. `.title`: Ini adalah selektor untuk elemen dengan kelas "title," yang mungkin digunakan untuk menggambarkan judul atau kepala dalam tata letak halaman.
+   - `text-align: center;`: Ini mengatur teks dalam elemen "title" agar terpusat secara horizontal di tengah elemen.
+   - `margin: 0 auto 80px;`: Ini memberikan margin 80 piksel di bawah elemen "title" dan mengatur margin horizontal ke otomatis. Margin ini menciptakan ruang antara elemen "title" dan elemen-elemen lain di bawahnya.
+   - `position: relative;`: Ini mengatur posisi elemen "title" menjadi relatif terhadap posisinya yang sebenarnya dalam tata letak halaman. Ini akan memengaruhi elemen "title" dan elemen lain di dalamnya yang memiliki posisi absolut.
+   - `line-height: 60px;`: Ini mengatur tinggi baris (line height) teks dalam elemen "title" menjadi 60 piksel, menciptakan jarak vertikal antar baris yang lebih besar.
+   - `color: #555;`: Ini mengatur warna teks dalam elemen "title" menjadi abu-abu (#555).
+2. `.title::after`: Ini adalah pseudo-elemen (::after) yang diterapkan pada elemen dengan kelas "title." Pseudo-elemen digunakan untuk menambahkan elemen tambahan ke dalam elemen utama.
+   - `content: '';`: Ini menunjukkan bahwa pseudo-elemen ini akan menambahkan konten kosong.
+   - `background: #ff523b;`: Ini mengatur latar belakang pseudo-elemen menjadi warna merah (#ff523b).
+   - `width: 80px;`: Ini mengatur lebar pseudo-elemen menjadi 80 piksel.
+   - `height: 5px;`: Ini mengatur tinggi pseudo-elemen menjadi 5 piksel, menciptakan elemen horizontal yang menjadi garis bawah pada elemen "title."
+   - `border-radius: 5px;`: Ini mengatur sudut pseudo-elemen sehingga terlihat bulat dengan radius sudut sebesar 5 piksel.
+   - `position: absolute;`: Ini mengatur pseudo-elemen sebagai elemen dengan posisi absolut, yang memungkinkan untuk menentukan posisi sesuai dengan elemen induknya.
+   - `left: 50%;`: Ini mengatur posisi horizontal pseudo-elemen di tengah elemen "title."
+   - `bottom: 0;`: Ini mengatur pseudo-elemen agar berada di bagian bawah elemen "title."
+   - `transform: translate(-50%);`: Ini menggeser (translate) pseudo-elemen horizontal sejauh -50% dari lebar sendiri ke kiri, sehingga pseudo-elemen akan tepat di tengah elemen "title."
+3. `h4`: Ini adalah selektor untuk elemen teks heading level 4 (h4) dalam tata letak halaman.
+   - `color: #555;`: Ini mengatur warna teks pada elemen h4 menjadi abu-abu (#555).
+   - `font-weight: normal;`: Ini mengatur tebal font h4 menjadi normal, menghilangkan tebal teks yang biasanya diberikan oleh elemen h4.
+4. `.col-4`: Ini adalah selektor untuk elemen dengan kelas "col-4," yang mungkin digunakan untuk menggambarkan kolom dalam tata letak halaman.
+   - `font-size: 14px;`: Ini mengatur ukuran font elemen "col-4" menjadi 14 piksel.
+   - `.col-4:hover`: Ini adalah aturan gaya yang diterapkan pada elemen "col-4" ketika elemen ini dihover.
+     - `transform: translateY(-5px);`: Ini mengubah tampilan elemen "col-4" dengan menggesernya ke atas sejauh -5 piksel saat dihover. Ini menciptakan efek visual naik sedikit saat interaksi pengguna terhadap elemen tersebut.
 
 
 A. Laman login
