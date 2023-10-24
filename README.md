@@ -1472,3 +1472,19 @@ b) body
 8.	`<div class="col-2">`: Ini adalah elemen div dengan kelas "col-2," yang merupakan kolom kedua dari dua kolom yang digunakan untuk menampilkan konten dalam halaman "About."
 9.	`<h1>Dress to Impress with Hasarisstore</h1>`: Ini adalah elemen heading level 1 (h1) yang berisi teks "Dress to Impress with Hasarisstore." Ini adalah judul atau pernyataan utama yang mungkin menjadi fokus dari konten "About."
 10.	`<p>Sebuah website untuk pengguna yang sedang mencari barang kebutuhan fashion Pria dan Wanita ...</p>`: Ini adalah elemen teks paragraf (p) yang berisi deskripsi atau penjelasan tentang situs web. Paragraf ini menjelaskan tujuan dan konteks dari situs web, seperti produk yang ditawarkan dan manfaatnya bagi pengguna.
+
+![image](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/121718997/12117150-045c-43fc-9e1b-13873ae0171c)
+
+1.	`<h2 class="title"> Profil</h2>`: Ini adalah elemen heading level 2 (h2) dengan kelas "title" yang berisi teks "Profil." Elemen ini digunakan untuk menampilkan judul "Profil" di halaman web, dan kelas "title" mungkin digunakan untuk memberikan aturan gaya tertentu pada judul.
+2.	`<div class="profil">`: Ini adalah elemen div dengan kelas "profil." Elemen ini mungkin digunakan untuk menggambarkan bagian konten yang berhubungan dengan profil atau informasi mengenai individu-individu tertentu.
+3.	`<div class="small-container">`: Ini adalah elemen div dengan kelas "small-container." Elemen ini mungkin digunakan untuk mengelompokkan konten-konten dalam suatu kontainer kecil yang membatasi lebar konten untuk tampilan yang lebih teratur.
+4.	`<div class="row">`: Ini adalah elemen div dengan kelas "row." Elemen ini mungkin digunakan untuk menggambarkan baris (row) dari elemen-elemen yang akan menampilkan profil individu-individu.
+5.	`<div class="col-3">`: Ini adalah elemen div dengan kelas "col-3," yang mungkin digunakan untuk menggambarkan tiga kolom yang akan menampilkan profil individu-individu.
+6.	`<img src="images/anisa.jpg">`: Ini adalah elemen gambar (img) dengan atribut `src` yang mengarahkan ke berkas gambar "anisa.jpg." Elemen ini mungkin digunakan untuk menampilkan gambar individu pertama.
+7.	`<h2>Ihda Anisa Ulfa</h2>`: Ini adalah elemen heading level 2 (h2) yang berisi nama "Ihda Anisa Ulfa." Elemen ini digunakan untuk menampilkan nama individu pertama.
+8.	`<img src="images/hanif.jpg">`: Ini adalah elemen gambar (img) dengan atribut `src` yang mengarahkan ke berkas gambar "hanif.jpg." Elemen ini mungkin digunakan untuk menampilkan gambar individu kedua.
+9.	`<h2>Hanif Ihsan Alim A</h2>`: Ini adalah elemen heading level 2 (h2) yang berisi nama "Hanif Ihsan Alim A." Elemen ini digunakan untuk menampilkan nama individu kedua.
+10.	`<img src="images/nuris.jpg">`: Ini adalah elemen gambar (img) dengan atribut `src` yang mengarahkan ke berkas gambar "nuris.jpg." Elemen ini mungkin digunakan untuk menampilkan gambar individu ketiga.
+11.	`<h2>Nurissa’idah</h2>`: Ini adalah elemen heading level 2 (h2) yang berisi nama "Nurissa’idah." Elemen ini digunakan untuk menampilkan nama individu ketiga.
+
+
