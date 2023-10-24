@@ -357,6 +357,28 @@ a) head
 •	`<link rel="stylesheet" href="style.css">`: Ini adalah tautan (link) ke berkas eksternal dengan tipe "stylesheet" yang digunakan untuk memuat gaya (CSS) dari berkas "style.css." Ini memungkinkan halaman web untuk mengambil aturan gaya dari berkas eksternal ini, sehingga Anda dapat mengatur tampilan halaman dengan lebih terperinci.
 •	`<link href="images/logo-removebg-preview.png" rel="icon">`: Ini adalah tautan ke berkas gambar yang akan digunakan sebagai ikon (favicon) untuk halaman web. Ikon ini akan muncul di tab browser ketika halaman web dibuka.
 
+b) body
+
+![image](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/121718997/368d27fa-3043-445f-a07f-281ba534cd84)
+
+1.	`<div class="header">`: Ini adalah div dengan kelas "header" yang berfungsi untuk mengelompokkan dan mengatur elemen-elemen yang terkait dengan bagian header dari halaman web.
+2.	`<div class="container">`: Ini adalah div dengan kelas "container" yang digunakan untuk mengelompokkan dan mengatur konten dalam sebuah wadah atau kotak, biasanya untuk mengontrol lebar konten agar tidak terlalu lebar di layar besar.
+3.	`<section id="home">`: Ini adalah elemen `<section>` dengan atribut "id" yang bernilai "home." Ini adalah bagian dari halaman yang ditandai sebagai "home" dan mungkin digunakan sebagai tanda tempat yang dapat diakses melalui tautan atau pengaturan CSS.
+4.	`<div class="navbar">`: Ini adalah div dengan kelas "navbar" yang mengelompokkan elemen-elemen yang berhubungan dengan navigasi halaman web.
+5.	`<div class="logo">`: Ini adalah div dengan kelas "logo" yang berisi gambar logo situs yang ditampilkan dengan lebar 125 piksel.
+6.	`<nav>`: Ini adalah elemen `<nav>` yang umumnya digunakan untuk mengelompokkan tautan-tautan navigasi.
+7.	`<ul>`: Ini adalah daftar yang disusun dalam elemen `<ul>` (unordered list). Daftar ini berisi beberapa tautan navigasi.
+8.	`<li><a href="#home">Home</a></li>`: Ini adalah elemen daftar `<li>` yang berisi tautan `<a>` ke bagian halaman dengan id "home." Ini adalah tautan "Home" dalam menu navigasi.
+9.	`<li><a href="#categories">Category</a></li>`: Ini adalah elemen daftar `<li>` yang berisi tautan `<a>` ke bagian halaman dengan id "categories." Ini adalah tautan "Category" dalam menu navigasi.
+10.	`<li><a href="#contact">Contact</a></li>`: Ini adalah elemen daftar `<li>` yang berisi tautan `<a>` ke bagian halaman dengan id "contact." Ini adalah tautan "Contact" dalam menu navigasi.
+11.	`<li><a href="login.html">Login</a></li>`: Ini adalah elemen daftar `<li>` yang berisi tautan `<a>` yang mengarahkan pengguna ke halaman "login.html" saat diklik. Ini adalah tautan "Login" dalam menu navigasi.
+12.	`<div class="row">`: Ini adalah div dengan kelas "row" yang digunakan untuk mengatur elemen dalam baris.
+13.	`<div class="col-2">`: Ini adalah div dengan kelas "col-2" yang mungkin digunakan untuk mengatur konten dalam dua kolom di dalam baris.
+14.	`<h1>Give Your Workout <br> A New Style!</h1>`: Ini adalah elemen heading level 1 (h1) yang berisi teks. Teks ini digunakan untuk judul utama.
+15.	`<p>Success is easy, what makes not successful is laziness</p>`: Ini adalah elemen paragraph (p) yang berisi teks yang mungkin berfungsi sebagai deskripsi atau kutipan.
+16.	`<a href="login.html" class="btn">Explore Now &#8594;</a>`: Ini adalah tautan `<a>` dengan atribut `href` yang mengarahkan ke halaman "login.html" dan diberi kelas "btn," yang mungkin digunakan untuk membuat tautan terlihat seperti tombol.
+17.	`<div class="col-2">`: Ini adalah div dengan kelas "col-2" yang mungkin digunakan untuk mengatur konten dalam kolom kedua di dalam baris.
+18.	`<img src="images/lovepik-lovers-shopping-png-image_400680411_wh860-removebg-preview.png">`: Ini adalah elemen gambar `<img>` yang menampilkan gambar dari berkas "lovepik-lovers-shopping-png-image_400680411_wh860-removebg-preview.png."
    
 A. Laman login
 1. HTML
