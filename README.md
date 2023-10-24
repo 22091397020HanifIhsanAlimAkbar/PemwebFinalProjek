@@ -360,7 +360,24 @@ Lampiran C : Daftar Fitur Yang Akan Ditentukan
 Pada lampiran ini berisi mengenai fitur-fitur yang belum ditentukan pada website Hasaris store, antara lain yaitu pembuatan IP agar website Hasaris store agar dapat digunakan pada aplikasi mobile, dan membuat Hasaris store menjadi aplikasi yang dapat digunakan pada android.
 
 PENJELASAN SCRIPT PROGRAM
+A. Laman Index
 
+1. HTML
+
+a) head
+
+![image](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/121718997/b67e28a8-84ed-41f5-aa8c-dc0f90d627f2)
+
+1. `<!DOCTYPE html>`: Ini adalah deklarasi dokumen yang mengindikasikan bahwa halaman ini adalah dokumen HTML. Ini adalah elemen wajib yang ditempatkan di bagian atas dokumen HTML.
+2. `<html lang="en">`: Ini adalah elemen root dari halaman HTML, yang menyatakan bahwa halaman ini ditulis dalam bahasa Inggris ("en" adalah kode bahasa Inggris). Semua elemen HTML akan berada di dalam elemen `<html>` ini.
+3. `<head>`: Ini adalah bagian kepala dari dokumen HTML, yang berisi informasi-informasi terkait dengan halaman web, seperti metadata dan tautan ke berkas eksternal. Semua elemen dalam bagian `<head>` ini tidak akan ditampilkan di halaman web itu sendiri, tetapi digunakan untuk mengatur tampilan dan perilaku halaman.
+•	`<meta charset="UTF-8">`: Ini adalah elemen meta yang menentukan pengkodean karakter yang digunakan oleh halaman web. UTF-8 adalah pengkodean karakter yang umum digunakan untuk mendukung berbagai karakter dari berbagai bahasa.
+•	`<meta name="viewport" content="width=device-width, initial-scale=1.0">`: Ini adalah elemen meta yang mengatur tampilan halaman web di perangkat mobile. Dengan mengatur `viewport`, halaman akan menyesuaikan lebar tampilan dengan lebar perangkat dan mengatur tingkat pembesaran awal (scale) ke 1.0.
+•	 `<title>HasarisStore</title>`: Ini adalah judul halaman web yang akan ditampilkan di tab browser. Isi dalam elemen `<title>` adalah "HasarisStore."
+•	`<link rel="stylesheet" href="style.css">`: Ini adalah tautan (link) ke berkas eksternal dengan tipe "stylesheet" yang digunakan untuk memuat gaya (CSS) dari berkas "style.css." Ini memungkinkan halaman web untuk mengambil aturan gaya dari berkas eksternal ini, sehingga Anda dapat mengatur tampilan halaman dengan lebih terperinci.
+•	`<link href="images/logo-removebg-preview.png" rel="icon">`: Ini adalah tautan ke berkas gambar yang akan digunakan sebagai ikon (favicon) untuk halaman web. Ikon ini akan muncul di tab browser ketika halaman web dibuka.
+
+   
 A. Laman login
 1. HTML
 
