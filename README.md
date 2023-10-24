@@ -1261,7 +1261,99 @@ Kartu-kartu produk ini akan dibuat dinamis menggunakan JavaScript.
 
 2) Product.css
 
-   
+   ![cssprd1](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/144761618/eb19e8cc-5d13-445f-acb1-a225dd56d720)
+
+      1)  Resetting Styles:
+        Setiap elemen pada halaman memiliki margin, padding, dan kotak model yang diatur ulang ke nilai awal (0) dengan margin: 0;, padding: 0;, dan box-sizing: border-box;.
+        Seluruh teks pada halaman akan menggunakan jenis huruf Arial dan jenis huruf cadangan sans-serif jika Arial tidak tersedia dengan font-family: 'Arial', sans-serif;.
+
+   2)  Navbar Styles:
+        Menyusun elemen-elemen dalam elemen dengan kelas "navbar" menjadi tata letak baris dengan display: flex;.
+        Elemen-elemen dalam elemen "nav" akan mengisi ruang yang tersedia dengan flex: 1;, dan teks di dalamnya akan sejajar ke kanan dengan text-align: right;.
+
+   3)  Navigation Menu Styles:
+        Elemen-elemen dalam elemen "nav ul" akan ditampilkan dalam satu baris dengan display: inline-block;, dan daftar gaya tidak akan ditampilkan dengan list-style-type: none;.
+        Elemen-elemen dalam elemen "nav ul li" akan ditampilkan dalam satu baris dengan jarak kanan antara mereka dengan display: inline-block; dan margin-right: 20px;.
+
+   4)  Styles for Hyperlinks in Navbar:
+        Hyperlink di dalam elemen dengan kelas "navbar" akan memiliki gaya padding, tampilan blok dalam satu baris, teks tanpa dekorasi tautan (link) dengan warna teks abu-abu (#555).
+        Ketika mouse mengarah ke hyperlink, latar belakang akan berubah menjadi biru (#daeaf6) dengan teks warna hitam (#000000).
+
+   5)  Container and Row Styles:
+        Elemen dengan kelas "container" memiliki lebar maksimum, dan padding di sisi kiri dan kanan.
+        Elemen dengan kelas "row" akan menggunakan tata letak baris dengan elemen-elemen yang saling sejajar dan disusun rapi.
+
+   6)  Column Styles:
+        Elemen dengan kelas "col-2" akan memiliki lebar fleksibel, dengan lebar minimum dan gambar di dalamnya akan menyesuaikan lebar maksimum.
+
+   7)  Search Container Styles:
+        Elemen dengan id "search-container" akan memiliki beberapa gaya untuk input pencarian, termasuk tampilan latar belakang dan fokus yang berbeda.
+
+  8)  Product Grid Styles:
+        Elemen dengan id "products" akan disusun dalam tata letak grid dengan tiga kolom.
+        Elemen-elemen dengan kelas "card" yang mewakili produk akan memiliki latar belakang putih, bayangan, dan beberapa gaya lainnya.
+
+   9)  Cart Styles:
+        Elemen dengan id "cart-container" akan memiliki gaya untuk tampilan keranjang belanja, termasuk latar belakang, bayangan, dan warna teks.
+
+  10)   Button Styles:
+        Elemen dengan kelas "button-value" akan memiliki beberapa gaya yang membuatnya terlihat seperti tombol.
+        Elemen dengan kelas "add-to-cart" akan memiliki gaya khusus saat digerakkan.
+
+	![css](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/144761618/37b18ca3-df36-423b-8fc3-25de9bc90b11)
+        ![CSS2](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/144761618/c87152ab-326b-4c58-914c-009c3badcf8d)
+
+    1) Gaya Header:
+        Elemen dengan kelas "header" memiliki latar belakang berbentuk gradien radial dari putih ke merah muda pucat.
+
+    2) Gaya Kategori (Categories):
+        Elemen dengan kelas "categories" memiliki margin atas dan bawah sebesar 70px.
+
+    3) Gaya Kolom (col-3):
+        Elemen dengan kelas "col-3" digunakan untuk mengatur tampilan kolom dengan lebar minimum, lebar fleksibel (flex-basis), dan margin bawah.
+
+    4) Gaya Gambar dalam Kolom (col-3 img):
+        Gambar dalam elemen dengan kelas "col-3" akan memiliki lebar sejajar dengan elemen yang mengandungnya.
+
+    5) Gaya Kontainer Kecil (Small Container):
+        Elemen dengan kelas "small-container" memiliki lebar maksimum, terletak di tengah, dan memiliki padding serta padding di sisi kanan.
+
+    6) Gaya Kolom (col-4):
+        Elemen dengan kelas "col-4" digunakan untuk mengatur tampilan kolom dengan lebar minimum, padding, margin bawah, dan efek transformasi saat dihover.
+
+    7) Gaya Gambar dalam Kolom (col-4 img):
+        Gambar dalam elemen dengan kelas "col-4" akan memiliki lebar 100%.
+
+   8)  Gaya Judul (Title):
+        Elemen dengan kelas "title" memiliki tampilan tengah, garis bawah, dan beberapa efek gaya lainnya.
+
+   9)  Gaya H4:
+        Elemen "h4" memiliki warna teks dan bobot huruf normal.
+
+   10) Gaya Footer:
+        Elemen dengan kelas "footer" memiliki latar belakang, ukuran font, padding, dan justifikasi.
+
+   11) Gaya Ikon Sosial Media (Sosialicon):
+        Ikon media sosial dalam elemen dengan kelas "sosialicon" memiliki beberapa gaya, termasuk perubahan latar belakang saat dihover.
+
+   12) Gaya Tombol Checkout (checkout-button):
+        Tombol dengan id "checkout-button" memiliki tampilan latar belakang, warna teks, padding, dan beberapa gaya saat dihover.
+
+   13) Gaya Tombol Umum (button):
+        Tombol pada halaman memiliki latar belakang, warna teks, padding, dan beberapa efek gaya saat dihover.
+
+   14) Gaya Kotak (Box):
+        Elemen dalam kotak memiliki berbagai gaya, termasuk warna latar belakang dan warna teks.
+
+   15) Gaya untuk Item Keranjang (Cart Styles):
+        Gaya yang digunakan dalam elemen keranjang belanja, termasuk tampilan elemen-elemen keranjang dan gaya tombol hapus.
+
+   16) Gaya untuk Pencarian (Search Styles):
+        Gaya yang digunakan dalam elemen pencarian, termasuk input pencarian, tombol pencarian, dan gaya saat dihover.
+
+   17) Sidebar Styles:
+        Elemen dengan kelas "sidebar" adalah bagian tetap di sisi kanan, yang mungkin digunakan untuk menu atau konten tambahan.
+
 
 4) Product Scipt.js
 
@@ -1376,51 +1468,53 @@ G) Contact
 <div class="sosialicon">: Ini adalah elemen yang berisi tautan ke berbagai platform media sosial. Namun, saat ini tautan ke media sosial tersebut masih kosong.
 
 <div class="footerbottom">: Ini adalah elemen yang berisi informasi hak cipta dan desainer situs web. Hak cipta tahun 2023 dan desainer yang disebutkan dalam elemen ini adalah "HasarisStore."
+	
 3) Contact.css
 
-   ![csss](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/144761618/bb89a5af-ca0d-43db-872a-2d0bbad03be1)
+  ![csss](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/144761618/e1b06ecd-f803-4bee-957e-e61f880f1dfc)
 
-   *: Ini adalah selektor universal yang mempengaruhi semua elemen pada halaman web. Dalam hal ini, itu digunakan untuk mengatur beberapa properti dasar seperti margin, padding, dan font pada semua elemen.
 
-.navbar: Ini adalah kelas yang digunakan untuk menggaya elemen header atau bagian navigasi pada halaman web. Beberapa properti yang didefinisikan termasuk pengaturan tampilan fleksibel, penyelarasan elemen, dan ukuran padding.
+1)   *: Ini adalah selektor universal yang mempengaruhi semua elemen pada halaman web. Dalam hal ini, itu digunakan untuk mengatur beberapa properti dasar seperti margin, padding, dan font pada semua elemen.
 
-nav: Ini adalah gaya untuk elemen <nav> yang ada dalam elemen dengan kelas .navbar. Ini mengatur penataan elemen ke arah kanan dengan properti text-align.
+2) .navbar: Ini adalah kelas yang digunakan untuk menggaya elemen header atau bagian navigasi pada halaman web. Beberapa properti yang didefinisikan termasuk pengaturan tampilan fleksibel, penyelarasan elemen, dan ukuran padding.
 
-nav ul: Ini menggaya elemen <ul> yang ada dalam elemen <nav>. Ini mengatur ul ini sebagai elemen blok dan menghilangkan daftar bawaan.
+3) nav: Ini adalah gaya untuk elemen <nav> yang ada dalam elemen dengan kelas .navbar. Ini mengatur penataan elemen ke arah kanan dengan properti text-align.
 
-nav ul li: Ini menggaya elemen-elemen <li> dalam daftar. Ini mengatur penataan elemen-elemen daftar ke dalam satu baris dengan jarak kanan sekitar 20px.
+4) nav ul: Ini menggaya elemen <ul> yang ada dalam elemen <nav>. Ini mengatur ul ini sebagai elemen blok dan menghilangkan daftar bawaan.
 
-.navbar ul li a: Ini menggaya tautan (<a>) yang ada dalam elemen-elemen daftar di dalam navigasi. Ini mengatur tampilan tautan dengan memberikan padding, menghilangkan dekorasi tautan bawaan, dan mengatur warna teks.
+5) nav ul li: Ini menggaya elemen-elemen <li> dalam daftar. Ini mengatur penataan elemen-elemen daftar ke dalam satu baris dengan jarak kanan sekitar 20px.
 
-.navbar ul li a:hover: Ini menggaya tautan saat digerakkan (hover). Ketika tautan diarahkan, latar belakangnya akan berubah warna menjadi #daeaf6, dan warna teksnya akan menjadi hitam.
+6) .navbar ul li a: Ini menggaya tautan (<a>) yang ada dalam elemen-elemen daftar di dalam navigasi. Ini mengatur tampilan tautan dengan memberikan padding, menghilangkan dekorasi tautan bawaan, dan mengatur warna teks.
 
-.header: Ini menggaya elemen dengan kelas .header. Ini mengatur latar belakang elemen header menggunakan gradien radial dari putih ke warna #ffd6d6.
+7) .navbar ul li a:hover: Ini menggaya tautan saat digerakkan (hover). Ketika tautan diarahkan, latar belakangnya akan berubah warna menjadi #daeaf6, dan warna teksnya akan menjadi hitam.
 
-.title: Ini menggaya elemen dengan kelas .title. Ini mengatur tampilan judul halaman dengan posisi teks di tengah, jarak bawah sekitar 80px, dan garis bawah yang dibuat menggunakan pseudo-elemen ::after.
+8) .header: Ini menggaya elemen dengan kelas .header. Ini mengatur latar belakang elemen header menggunakan gradien radial dari putih ke warna #ffd6d6.
 
-.title::after: Ini menggaya pseudo-elemen yang ditambahkan ke elemen dengan kelas .title. Ini memberikan latar belakang warna #ff523b dengan lebar 80px dan tinggi 5px.
+9) .title: Ini menggaya elemen dengan kelas .title. Ini mengatur tampilan judul halaman dengan posisi teks di tengah, jarak bawah sekitar 80px, dan garis bawah yang dibuat menggunakan pseudo-elemen ::after.
 
-.contact-info: Ini menggaya elemen dengan kelas .contact-info. Ini mengatur tampilan elemen tersebut sebagai fleks container dengan penataan kolom dan menyusun elemen-elemen anak secara vertikal.
+10) .title::after: Ini menggaya pseudo-elemen yang ditambahkan ke elemen dengan kelas .title. Ini memberikan latar belakang warna #ff523b dengan lebar 80px dan tinggi 5px.
 
-.contact-item: Ini menggaya elemen dengan kelas .contact-item. Ini mengatur elemen-elemen anak dalam elemen dengan kelas .contact-info, seperti ikon dan teks kontak. Ikon memiliki font-size 24px dan memiliki margin kanan sekitar 10px.
+11) .contact-info: Ini menggaya elemen dengan kelas .contact-info. Ini mengatur tampilan elemen tersebut sebagai fleks container dengan penataan kolom dan menyusun elemen-elemen anak secara vertikal.
 
-.offer: Ini menggaya elemen dengan kelas .offer. Ini memberikan latar belakang elemen menggunakan gradien radial dan memberikan jarak atas sekitar 80px serta padding 30px.
+12) .contact-item: Ini menggaya elemen dengan kelas .contact-item. Ini mengatur elemen-elemen anak dalam elemen dengan kelas .contact-info, seperti ikon dan teks kontak. Ikon memiliki font-size 24px dan memiliki margin kanan sekitar 10px.
 
-form: Ini menggaya elemen formulir. Ini mengatur teks menjadi rata kiri, memberikan lebar maksimum formulir, dan memusatkan formulir dalam kontainer. Ini juga mengatur beberapa properti elemen-elemen formulir seperti input dan textarea.
+13) .offer: Ini menggaya elemen dengan kelas .offer. Ini memberikan latar belakang elemen menggunakan gradien radial dan memberikan jarak atas sekitar 80px serta padding 30px.
 
-.form-group: Ini menggaya elemen dengan kelas .form-group. Ini mengatur jarak sekitar 10px antara grup elemen formulir.
+14) form: Ini menggaya elemen formulir. Ini mengatur teks menjadi rata kiri, memberikan lebar maksimum formulir, dan memusatkan formulir dalam kontainer. Ini juga mengatur beberapa properti elemen-elemen formulir seperti input dan textarea.
 
-label: Ini menggaya elemen label dalam formulir dengan menampilkan label sebagai blok dan memberikan font-size 18px.
+15) .form-group: Ini menggaya elemen dengan kelas .form-group. Ini mengatur jarak sekitar 10px antara grup elemen formulir.
 
-input dan textarea: Ini menggaya elemen input dan textarea dalam formulir dengan memberikan lebar 100%, padding, ukuran font, serta border dan border-radius yang menambahkan efek bingkai pada elemen input.
+16) label: Ini menggaya elemen label dalam formulir dengan menampilkan label sebagai blok dan memberikan font-size 18px.
 
-button: Ini menggaya tombol dalam formulir dengan memberikan warna latar belakang dan teks tertentu, seperti font-weight bold. Tombol ini juga mendapatkan efek perubahan warna latar belakang saat digerakkan (hover).
+17) input dan textarea: Ini menggaya elemen input dan textarea dalam formulir dengan memberikan lebar 100%, padding, ukuran font, serta border dan border-radius yang menambahkan efek bingkai pada elemen input.
 
-.footer: Ini menggaya elemen dengan kelas .footer. Ini mengatur tampilan footer dengan latar belakang warna #111, ukuran font 14px, dan padding. Namun, terdapat beberapa kesalahan dalam kode CSS ini. Properti width: flex; dan justify-content: center; pada elemen ini seharusnya disesuaikan, karena flex bukan nilai yang valid untuk properti width. Saya sarankan menggunakan width: 100%; untuk mengisi lebar penuh.
+18) button: Ini menggaya tombol dalam formulir dengan memberikan warna latar belakang dan teks tertentu, seperti font-weight bold. Tombol ini juga mendapatkan efek perubahan warna latar belakang saat digerakkan (hover).
 
-.sosialicon: Ini menggaya elemen dengan kelas .sosialicon. Ini adalah bagian dari footer yang akan berisi tautan ke media sosial. Saat ini, tautan tersebut masih kosong.
+19) .footer: Ini menggaya elemen dengan kelas .footer. Ini mengatur tampilan footer dengan latar belakang warna #111, ukuran font 14px, dan padding. Namun, terdapat beberapa kesalahan dalam kode CSS ini. Properti width: flex; dan justify-content: center; pada elemen ini seharusnya disesuaikan, karena flex bukan nilai yang valid untuk properti width. Saya sarankan menggunakan width: 100%; untuk mengisi lebar penuh.
 
-.sosialicon a: Ini menggaya tautan ke media sosial. Ini memberikan padding, latar belakang, dan margin pada
+20) .sosialicon: Ini menggaya elemen dengan kelas .sosialicon. Ini adalah bagian dari footer yang akan berisi tautan ke media sosial. Saat ini, tautan tersebut masih kosong.
+
+21) .sosialicon a: Ini menggaya tautan ke media sosial. Ini memberikan padding, latar belakang, dan margin pada
 
 
 F. About
@@ -1429,10 +1523,7 @@ F. About
  
 a) Head
 
-
 ![image](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/121718997/cae2ec3f-4b03-41ac-ae7a-918fc223b3bf)
-
-
 
  
 1.	`<!DOCTYPE html>`: Ini adalah deklarasi DOCTYPE HTML yang digunakan untuk menentukan jenis dokumen HTML yang digunakan, dalam hal ini, HTML versi 5 (HTML5). Ini adalah bagian yang mendefinisikan tipe dokumen dan diperlukan dalam setiap halaman HTML.
@@ -1446,10 +1537,7 @@ a) Head
 
 b) body
 
-
  ![image](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/121718997/fdd643ea-d769-4f40-b0a1-64fbd059d6eb)
-
-
 
 
 1.	`<div class="header">`: Ini adalah elemen div dengan kelas "header." Elemen ini mungkin digunakan untuk mengelompokkan dan menggambarkan elemen-elemen yang termasuk dalam header halaman web, seperti logo dan menu navigasi.
@@ -1466,10 +1554,7 @@ b) body
 12.	`<li><a href="contact.html">Contact</a></li>`: Ini adalah elemen li yang berisi tautan ke halaman "Contact" dengan teks "Contact."
 
 
-
 ![image](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/121718997/45423946-8807-4e72-9654-5d5c2c856c9c)
-
-
 
 1.	`</section>`: Ini adalah penutup dari elemen `<section>` yang mungkin digunakan untuk menandai akhir dari bagian "home" atau sebelumnya di halaman web. Ini menunjukkan bahwa elemen-elemen berikutnya termasuk dalam bagian "About."
 2.	`<h2 class="title"> About</h2>`: Ini adalah elemen heading level 2 (h2) dengan kelas "title" yang berisi teks "About." Elemen ini digunakan untuk menampilkan judul "About" di halaman web, dan kelas "title" mungkin digunakan untuk memberikan aturan gaya tertentu pada judul.
@@ -1481,150 +1566,3 @@ b) body
 8.	`<div class="col-2">`: Ini adalah elemen div dengan kelas "col-2," yang merupakan kolom kedua dari dua kolom yang digunakan untuk menampilkan konten dalam halaman "About."
 9.	`<h1>Dress to Impress with Hasarisstore</h1>`: Ini adalah elemen heading level 1 (h1) yang berisi teks "Dress to Impress with Hasarisstore." Ini adalah judul atau pernyataan utama yang mungkin menjadi fokus dari konten "About."
 10.	`<p>Sebuah website untuk pengguna yang sedang mencari barang kebutuhan fashion Pria dan Wanita ...</p>`: Ini adalah elemen teks paragraf (p) yang berisi deskripsi atau penjelasan tentang situs web. Paragraf ini menjelaskan tujuan dan konteks dari situs web, seperti produk yang ditawarkan dan manfaatnya bagi pengguna.
-
-
-![image](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/121718997/12117150-045c-43fc-9e1b-13873ae0171c)
-
-
-
-1.	`<h2 class="title"> Profil</h2>`: Ini adalah elemen heading level 2 (h2) dengan kelas "title" yang berisi teks "Profil." Elemen ini digunakan untuk menampilkan judul "Profil" di halaman web, dan kelas "title" mungkin digunakan untuk memberikan aturan gaya tertentu pada judul.
-2.	`<div class="profil">`: Ini adalah elemen div dengan kelas "profil." Elemen ini mungkin digunakan untuk menggambarkan bagian konten yang berhubungan dengan profil atau informasi mengenai individu-individu tertentu.
-3.	`<div class="small-container">`: Ini adalah elemen div dengan kelas "small-container." Elemen ini mungkin digunakan untuk mengelompokkan konten-konten dalam suatu kontainer kecil yang membatasi lebar konten untuk tampilan yang lebih teratur.
-4.	`<div class="row">`: Ini adalah elemen div dengan kelas "row." Elemen ini mungkin digunakan untuk menggambarkan baris (row) dari elemen-elemen yang akan menampilkan profil individu-individu.
-5.	`<div class="col-3">`: Ini adalah elemen div dengan kelas "col-3," yang mungkin digunakan untuk menggambarkan tiga kolom yang akan menampilkan profil individu-individu.
-6.	`<img src="images/anisa.jpg">`: Ini adalah elemen gambar (img) dengan atribut `src` yang mengarahkan ke berkas gambar "anisa.jpg." Elemen ini mungkin digunakan untuk menampilkan gambar individu pertama.
-7.	`<h2>Ihda Anisa Ulfa</h2>`: Ini adalah elemen heading level 2 (h2) yang berisi nama "Ihda Anisa Ulfa." Elemen ini digunakan untuk menampilkan nama individu pertama.
-8.	`<img src="images/hanif.jpg">`: Ini adalah elemen gambar (img) dengan atribut `src` yang mengarahkan ke berkas gambar "hanif.jpg." Elemen ini mungkin digunakan untuk menampilkan gambar individu kedua.
-9.	`<h2>Hanif Ihsan Alim A</h2>`: Ini adalah elemen heading level 2 (h2) yang berisi nama "Hanif Ihsan Alim A." Elemen ini digunakan untuk menampilkan nama individu kedua.
-10.	`<img src="images/nuris.jpg">`: Ini adalah elemen gambar (img) dengan atribut `src` yang mengarahkan ke berkas gambar "nuris.jpg." Elemen ini mungkin digunakan untuk menampilkan gambar individu ketiga.
-11.	`<h2>Nurissa’idah</h2>`: Ini adalah elemen heading level 2 (h2) yang berisi nama "Nurissa’idah." Elemen ini digunakan untuk menampilkan nama individu ketiga.
-
-
-![image](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/121718997/ef2cf339-1573-4b9e-8d7a-ead70a6d6c08)
-
-
-
-1.	`<div class="footer">`: Ini adalah elemen div dengan kelas "footer." Elemen ini mewakili bagian footer halaman web. Footer adalah bagian terakhir dari halaman web yang biasanya berisi informasi tambahan seperti tautan, kontak, atau hak cipta.
-2.	`<div class="sosialicon">`: Ini adalah elemen div dengan kelas "sosialicon." Meskipun dalam kode yang Anda berikan elemen ini tampak kosong, biasanya, elemen seperti ini akan digunakan untuk menampilkan ikon atau tautan ke akun media sosial atau platform lain yang terkait dengan situs web. Elemen ini mungkin digunakan untuk menggambarkan tautan sosial.
-3.	`<div class="footerbottom">`: Ini adalah elemen div dengan kelas "footerbottom." Elemen ini mewakili bagian bawah footer, yang biasanya berisi informasi hak cipta, informasi desainer situs web, atau tautan ke halaman terkait.
-4.	`<p>copyright &copy;2023: Designed by <span class="designer">HasarisStore</span></p>`: Ini adalah elemen paragraf (p) yang berisi informasi hak cipta dan informasi desainer situs web. Simbol "&copy;" mewakili tanda hak cipta, dan tahun "2023" menunjukkan tahun berlakunya hak cipta. Selanjutnya, ada teks "Designed by" yang diikuti oleh elemen span dengan kelas "designer" yang mungkin berisi nama desainer atau perusahaan yang merancang situs web (dalam hal ini, "HasarisStore").
-5.	`</div>`: Ini adalah penutup dari elemen "footer," yang menandai akhir dari bagian footer pada halaman web.
-6.	`<!--------- footer -------->`: Ini adalah komentar HTML yang digunakan untuk memberikan catatan atau penjelasan tambahan kepada pengembang atau pihak lain yang melihat kode. Dalam hal ini, komentar ini menandakan bahwa ini adalah bagian "footer."
-7.	`</body>`: Ini adalah penutup dari elemen `<body>`, yang menunjukkan akhir dari konten utama halaman web.
-8.	`</html>`: Ini adalah penutup dari elemen `<html>`, yang menandakan akhir dari dokumen HTML.
-
-2. about.css
-
-
-![image](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/121718997/08ed8a6f-13be-433b-ac78-2687e12fda7d)
-
-
-
-1. `*`: Ini adalah pemilih universal dalam CSS, yang berarti aturan yang didefinisikan di bawah ini akan berlaku untuk semua elemen dalam halaman web.
-2. `margin: 0;`, `padding: 0;`: Ini mengatur margin dan padding untuk semua elemen menjadi 0. Ini digunakan untuk menghilangkan margin dan padding bawaan yang biasanya diterapkan oleh browser pada elemen-elemen HTML. Ini membantu mengatur tampilan elemen-elemen secara konsisten.
-3. `box-sizing: border-box;`: Ini mengatur model kotak (box model) untuk semua elemen dalam halaman web menjadi "border-box." Dalam model kotak ini, lebar dan tinggi elemen mencakup padding dan batas (border), sehingga memudahkan perhitungan ukuran elemen.
-4. `.navbar`: Ini adalah selektor kelas yang menggambarkan elemen dengan kelas "navbar." Aturan CSS di bawah ini akan berlaku untuk elemen yang memiliki kelas ini.
-5. `display: flex;`: Ini mengatur tampilan elemen dengan kelas "navbar" menjadi tampilan fleksibel. Tampilan fleksibel memungkinkan elemen-elemen anak di dalamnya untuk diatur dalam suatu baris atau kolom dan dapat diatur ulang sesuai kebutuhan tampilan.
-6. `align-items: center;`: Ini mengatur elemen-elemen di dalam "navbar" untuk selalu berada di tengah vertikal (vertically center). Ini berlaku untuk elemen-elemen yang menjadi anak dari elemen dengan kelas "navbar."
-7. `padding: 20px;`: Ini mengatur padding (jarak antara konten dan batas elemen) untuk elemen dengan kelas "navbar" sebesar 20 piksel.
-8. `nav`: Ini adalah selektor elemen yang menggambarkan elemen "nav" (navigasi) dalam halaman web.
-9. `flex: 1;`: Ini mengatur elemen "nav" untuk memanfaatkan fleksibilitas tampilan yang telah diatur oleh elemen dengan kelas "navbar." Ini mengalokasikan ruang yang tersisa dalam elemen "navbar" kepada elemen "nav."
-
-10. `text-align: right;`: Ini mengatur teks dalam elemen "nav" agar terletak di sebelah kanan elemen tersebut. Ini akan memengaruhi tampilan tautan navigasi di dalam elemen "nav" dengan posisi kanan.
-
-
-![image](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/121718997/8467513c-55d9-4090-9429-b510c82da40e)
-
-
-
-1. `nav ul`: Ini adalah selektor CSS yang menargetkan elemen "ul" (unordered list) yang berada dalam elemen "nav." Aturan-aturan CSS di bawah ini akan berlaku untuk elemen "ul" dalam navigasi.
-2. `display: inline-block;`: Ini mengatur elemen "ul" agar ditampilkan dalam blok inline. Ini mengubah perilaku elemen "ul" dari tampilan blok (block) menjadi tampilan inline, sehingga daftar item dalam navigasi akan ditampilkan secara horizontal.
-3. `list-style-type: none;`: Ini menghilangkan tanda bullet (tanda titik atau tanda lain) yang biasanya muncul di depan daftar item dalam elemen "ul." Dengan mengatur ini menjadi "none," tanda bullet tidak akan ditampilkan.
-4. `nav ul li`: Ini adalah selektor CSS yang menargetkan elemen "li" (list item) yang berada dalam elemen "ul" dalam navigasi.
-5. `display: inline-block;`: Ini mengatur elemen "li" agar ditampilkan dalam blok inline, yang sama seperti pada elemen "ul." Ini menjadikan daftar item dalam navigasi tampil secara horizontal.
-6. `margin-right: 20px;`: Ini mengatur jarak (margin) sebesar 20 piksel di sisi kanan dari setiap daftar item. Ini memberikan ruang antara setiap item dalam navigasi.
-7. `.navbar ul li a`: Ini adalah selektor yang menargetkan tautan (elemen "a") yang berada dalam elemen "li" dalam elemen "ul" yang berada dalam elemen dengan kelas "navbar."
-8. `padding: 20px 20px;`: Ini mengatur padding sebesar 20 piksel di atas dan bawah, serta 20 piksel di sebelah kiri dan kanan dari setiap tautan. Ini memberikan ruang di sekitar tautan dalam navigasi.
-9. `display: inline-block;`: Ini mengatur tautan agar ditampilkan sebagai blok inline, yang sama seperti pada elemen "ul" dan "li." Ini memungkinkan tautan untuk tampil secara horizontal.
-10. `.navbar ul li a:hover`: Ini adalah selektor yang menargetkan tautan ketika pengguna mengarahkan kursor mouse ke atasnya (ketika tautan dalam keadaan "hover")
-11. `background-color: #daeaf6;`: Ini mengatur latar belakang tautan ketika pengguna mengarahkan kursor mouse ke atasnya menjadi warna #daeaf6.
-12. `color: #000000;`: Ini mengatur warna teks tautan ketika pengguna mengarahkan kursor mouse ke atasnya menjadi hitam (#000000).
-
-
-![image](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/121718997/490d907c-0322-40e0-9ffc-52ccbcba67ef)
-
-
-
-1. `a`: Ini adalah pemilih CSS yang menargetkan tautan (link) dalam halaman web.
-   - `text-decoration: none;`: Ini menghilangkan dekorasi tautan seperti garis bawah (underline). Ini membuat tautan menjadi teks biasa tanpa garis bawah.
-   - `color: #555;`: Ini mengatur warna teks tautan menjadi #555, yang merupakan kode warna abu-abu tua.
-2. `p`: Ini adalah pemilih CSS yang menargetkan elemen-elemen paragraf (p) dalam halaman web.
-   - `color: #555;`: Ini mengatur warna teks elemen paragraf menjadi #555, yang juga merupakan kode warna abu-abu tua.
-3. `container`: Ini adalah pemilih CSS yang menargetkan elemen dengan kelas "container."
-   - `max-width: 1300px;`: Ini mengatur lebar maksimum elemen dengan kelas "container" menjadi 1300 piksel. Ini dapat digunakan untuk mengendalikan lebar konten dalam halaman web.
-   - `margin: auto;`: Ini mengatur elemen dengan kelas "container" agar berada di tengah halaman web secara horizontal dengan menggunakan margin otomatis di kiri dan kanan.
-   - `padding-left: 25px;` dan `padding-right: 25px;`: Ini mengatur padding sebesar 25 piksel di sebelah kiri dan kanan elemen dengan kelas "container." Padding adalah jarak antara konten dan batas elemen.
-4. `row`: Ini adalah pemilih CSS yang menargetkan elemen dengan kelas "row."
-   - `display: flex;`: Ini mengatur elemen dengan kelas "row" agar menggunakan tampilan fleksibel, yang memungkinkan pengaturan tata letak yang lebih fleksibel dalam konteks elemen ini.
-   - `align-items: center;`: Ini mengatur elemen-elemen dalam kelas "row" agar selalu berada di tengah vertikal. Ini berguna untuk pengaturan vertikal dalam tata letak.
-   - `flex-wrap: wrap;`: Ini mengatur elemen-elemen dalam kelas "row" agar bisa dibungkus ke baris berikutnya jika lebarnya melebihi ruang yang tersedia.
-   - `justify-content: space-around;`: Ini mengatur elemen-elemen dalam kelas "row" agar tersusun dengan jarak sekitar yang merata di sekitar mereka. Ini dapat digunakan untuk membuat ruang di antara elemen-elemen.
-5. `.col-2`: Ini adalah pemilih CSS yang menargetkan elemen dengan kelas "col-2."
-   - `flex-basis: 50%;`: Ini mengatur lebar dasar elemen dengan kelas "col-2" menjadi 50% dari lebar container induknya.
-   - `min-width: 300px;`: Ini menetapkan lebar minimum elemen dengan kelas "col-2" menjadi 300 piksel. Ini memastikan bahwa elemen ini tidak akan lebih sempit dari 300 piksel.
-6. `.col-2 img`: Ini adalah pemilih CSS yang menargetkan gambar yang berada di dalam elemen dengan kelas "col-2."
-   - `max-width: 100%;`: Ini memastikan bahwa gambar di dalam elemen "col-2" tidak akan melebihi lebar elemen tersebut. Ini membantu menjaga gambar agar tetap responsif.
-   - `padding: 50px 0;`: Ini mengatur padding sebesar 50 piksel di atas dan bawah gambar. Ini memberikan ruang antara gambar dan elemen-elemen lain di sekitarnya.
-7. `.col-2 h1`: Ini adalah pemilih CSS yang menargetkan elemen berjudul (heading) yang berada di dalam elemen dengan kelas "col-2."
-   - `font-size: 50px;`: Ini mengatur ukuran font elemen berjudul menjadi 50 piksel.
-   - `line-height: 60px;`: Ini mengatur tinggi baris (line-height) elemen berjudul menjadi 60 piksel. Ini memengaruhi jarak antara baris dalam teks.
-   - `margin: 25px 0;`: Ini mengatur margin sebesar 25 piksel di atas dan bawah elemen berjudul. Ini memberikan ruang di atas dan di bawah teks judul.
-
-
-![image](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/121718997/2fa8e418-0104-4781-9460-7b668a14eb4f)
-
-
-
-1. `.header`: Ini adalah pemilih CSS yang menargetkan elemen dengan kelas "header."
-   - `background: radiSal-gradient(#fff, #ffd6d6);`: Ini mengatur latar belakang elemen dengan kelas "header" menggunakan gradient radial. Gradient ini berubah dari putih (#fff) di tengah ke merah muda (#ffd6d6) di luar. Ini menciptakan efek latar belakang yang menarik pada elemen "header."
-2. `.categories`: Ini adalah pemilih CSS yang menargetkan elemen dengan kelas "categories."
-   - `margin: 70px 0;`: Ini memberikan margin sebesar 70 piksel di atas dan di bawah elemen dengan kelas "categories." Ini memberikan ruang di atas dan di bawah elemen ini dalam halaman web.
-3. `.col-3`: Ini adalah pemilih CSS yang menargetkan elemen dengan kelas "col-3."
-   - `flex-basis: 30%;`: Ini mengatur lebar dasar elemen dengan kelas "col-3" menjadi 30% dari lebar container induknya.
-   - `min-width: 250px;`: Ini menetapkan lebar minimum elemen dengan kelas "col-3" menjadi 250 piksel. Ini memastikan bahwa elemen ini tidak akan lebih sempit dari 250 piksel.
-   - `margin-bottom: 30px;`: Ini memberikan margin sebesar 30 piksel di bawah elemen "col-3." Ini menciptakan jarak vertikal antara elemen "col-3."
-4. `.col-3 img`: Ini adalah pemilih CSS yang menargetkan gambar yang berada di dalam elemen dengan kelas "col-3."
-   - `width: 100%;`: Ini mengatur lebar gambar agar mencapai 100% lebar elemen "col-3." Ini memastikan gambar mengisi elemen sepenuhnya.
-   - `border-radius: 100%;`: Ini mengatur sudut-sudut gambar sehingga menjadi bulat. Ini menciptakan efek gambar bulat.
-   - `filter: grayscale(100%);`: Ini menerapkan efek grayscale (skala abu-abu) pada gambar dengan tingkat 100%. Ini mengubah gambar menjadi hitam-putih saat elemen "col-3" dimuat.
-5. `.col-3:hover img`: Ini adalah pemilih CSS yang mengatur tampilan gambar ketika pengguna mengarahkan kursor mouse ke elemen "col-3."
-   - `filter: grayscale(0);`: Saat pengguna mengarahkan kursor ke elemen "col-3," filter grayscale dihapus, sehingga gambar menjadi berwarna. Ini menciptakan efek interaktif yang mengubah gambar dari hitam-putih menjadi berwarna saat dihover.
-6. `.col-3 h2`: Ini adalah pemilih CSS yang menargetkan elemen-elemen judul (heading) h2 dalam elemen dengan kelas "col-3."
-   - `text-align: center;`: Ini mengatur teks dalam elemen h2 agar menjadi pusat (teks rata tengah). Ini mengubah tata letak teks ke pusat dalam elemen "col-3."
-
-
-![image](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/121718997/25cefcb2-903f-489c-9874-cb3a5542bfb3)
-
-
-
-1. `.col-2 .offer-img`: Ini adalah pemilih CSS yang menargetkan elemen dengan kelas "offer-img" yang berada dalam elemen dengan kelas "col-2."
-   - `padding: 50px;`: Ini memberikan elemen dengan kelas "offer-img" padding sebesar 50 piksel. Padding adalah jarak antara konten elemen dan batasnya. Dalam hal ini, ini menciptakan ruang ekstra di sekitar elemen "offer-img."
-2. `.footer`: Ini adalah pemilih CSS yang menargetkan elemen dengan kelas "footer."
-   - `background: #111;`: Ini mengatur latar belakang elemen "footer" menjadi warna gelap (#111).
-   - `font-size: 14px;`: Ini mengatur ukuran font teks dalam elemen "footer" menjadi 14 piksel.
-   - `padding: 30px 0;`: Ini memberikan padding sebesar 30 piksel di atas dan bawah elemen "footer." Ini menciptakan jarak di atas dan di bawah elemen "footer."
-   - `width: flex;`: Ini adalah nilai yang tidak valid. Kemungkinan maksudnya adalah `display: flex;`, yang mengatur elemen "footer" agar menggunakan model tata letak flexbox.
-   - `justify-content: center;`: Ini mengatur konten di dalam elemen "footer" agar berada di tengah horizontal elemen. Ini adalah salah satu properti tata letak yang digunakan dalam tata letak flexbox.
-3. `.sosialicon`: Ini adalah pemilih CSS yang menargetkan elemen dengan kelas "sosialicon."
-   - `display: flex;`: Ini mengatur elemen "sosialicon" agar menggunakan model tata letak flexbox. Ini memungkinkan elemen-elemen di dalamnya untuk tertata dalam baris secara horizontal.
-   - `justify-content: center;`: Ini mengatur elemen-elemen dalam "sosialicon" agar berada di tengah horizontal elemen "footer."
-4. `.sosialicon a:hover`: Ini adalah pemilih CSS yang menargetkan tautan (elemen "a") dalam elemen dengan kelas "sosialicon" ketika pengguna mengarahkan kursor mouse ke atasnya (ketika tautan dalam keadaan "hover").
-   - `background-color: #111;`: Ini mengatur latar belakang tautan saat di-hover menjadi warna gelap (#111).
-   - `transition: 0.5s;`: Ini mengatur transisi (animasi) dengan durasi 0.5 detik ketika pengguna mengarahkan kursor mouse ke tautan. Ini menciptakan efek perubahan warna latar belakang yang halus saat tautan di-hover.
-5. `.footerbottom`: Ini adalah pemilih CSS yang menargetkan elemen dengan kelas "footerbottom."
-   - `padding: 30px;`: Ini memberikan elemen "footerbottom" padding sebesar 30 piksel. Ini menciptakan jarak di sekitar elemen ini.
-6. `.footerbottom p`: Ini adalah pemilih CSS yang menargetkan elemen-elemen paragraf (p) dalam elemen dengan kelas "footerbottom."
-   - `color: #fff;`: Ini mengatur warna teks dalam elemen-elemen paragraf menjadi putih (#fff).
-
-
-
