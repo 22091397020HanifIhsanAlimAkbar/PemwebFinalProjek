@@ -1120,27 +1120,78 @@ E) Product
   ![contact1](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/144761618/ad4f2e3c-9cd2-4793-9de1-2ebc2de0e7d1)
 
 
-1) <head>: Ini adalah elemen kepala dokumen HTML yang berisi informasi tentang dokumen, seperti karakter set dan tautan ke berkas CSS.
+1) <!DOCTYPE html>: Ini adalah deklarasi dokumen (document type declaration) yang menentukan jenis dokumen HTML yang digunakan, dalam hal ini, HTML versi 5.
 
-2) <body>: Ini adalah elemen utama yang berisi semua konten yang akan ditampilkan pada halaman web.
+2) <html lang="en">: Ini adalah tag pembuka untuk elemen HTML. lang atributnya mengidentifikasi bahasa yang digunakan dalam dokumen. Dalam hal ini, "en" mengindikasikan bahwa bahasa dokumen adalah bahasa Inggris.
 
-3) .header: Ini adalah elemen div dengan kelas "header," yang umumnya digunakan untuk mengelompokkan elemen-elemen yang terkait dengan bagian atas halaman, seperti header navigasi dan logo.
+3) <head>: Ini adalah elemen kepala (head) dari dokumen HTML, yang berisi informasi-informasi terkait dengan dokumen, seperti metadata, tautan ke berkas eksternal (CSS, ikon), dan pengaturan lainnya.
 
-4) .container: Ini adalah elemen div dengan kelas "container," yang digunakan untuk mengelompokkan dan mengatur konten di tengah halaman. Ini juga memberikan latar belakang putih dan bayangan pada konten utama.
+4) <meta charset="UTF-8">: Ini adalah elemen meta yang mendefinisikan set karakter dokumen sebagai UTF-8 (Unicode).
+<meta name="viewport" content="width=device-width, initial-scale=1.0">: Ini adalah elemen meta yang digunakan untuk mengatur tampilan pada perangkat bergerak (responsif).
+<title>HasarisStore</title>: Ini adalah judul halaman web yang akan ditampilkan di tab peramban (browser).
+<link rel="stylesheet" href="product.css">: Ini adalah tautan ke berkas CSS eksternal yang akan digunakan untuk mengatur tampilan halaman.
+<link href="images/logo-removebg-preview.png" rel="icon">: Ini adalah tautan ke berkas gambar yang akan digunakan sebagai ikon situs (favicon) yang akan ditampilkan di tab peramban.
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">: Ini adalah tautan ke berkas CSS dari Font Awesome, yang digunakan untuk menghadirkan ikon-ikon di halaman web.
+5) <body>: Ini adalah elemen tubuh (body) dari dokumen HTML, yang berisi semua konten yang akan ditampilkan di halaman web. Di dalam elemen body, Anda akan menemukan struktur tampilan dari halaman web "HasarisStore."
 
-5) .navbar: Ini adalah elemen div dengan kelas "navbar," yang berisi navigasi situs web, seperti tautan ke halaman lain. Navigasi ini umumnya digunakan untuk membantu pengguna menjelajahi situs web Anda.
+<div class="header">: Ini adalah divisi (bagian) header atau kepala dari halaman web. Biasanya berisi elemen-elemen yang terletak di bagian atas halaman, seperti logo, menu navigasi, dan elemen-elemen lain yang terkait dengan header.
 
-6) .logo: Ini adalah elemen div dengan kelas "logo," yang berisi gambar logo situs web.
+<div class="container">: Ini adalah divisi yang mengelilingi elemen-elemen dalam header, dan biasanya digunakan untuk mengatur lebar maksimum elemen-elemen dalam header agar tetap terpusat.
 
-7) <nav>: Ini adalah elemen navigasi yang berisi daftar tautan ke halaman lain di situs web.
+<div class="navbar">: Ini adalah divisi yang berisi elemen-elemen navigasi, seperti menu dan logo, yang ditempatkan di dalam header.
 
-8) <ul>: Ini adalah elemen daftar yang berisi daftar item navigasi.
+<div class="logo">: Ini adalah divisi yang berisi logo toko "HasarisStore," mungkin diikuti oleh teks judul.
 
-9) <li>: Ini adalah elemen daftar item yang berisi tautan ke halaman lain di situs web.
+6) <nav>: Ini adalah elemen navigasi yang berisi menu navigasi situs web.
 
-10) <a>: Ini adalah elemen tautan yang mengarahkan ke halaman lain dalam situs web.
+<ul>: Ini adalah elemen daftar tak terurut (unordered list) yang berisi item-item menu navigasi.
 
-11) <h2>: Ini adalah elemen judul tingkat kedua yang digunakan untuk menampilkan judul "Contact Us" dan "Contact Form" pada halaman.
+<li><a href="halaman_kedua.html">Home</a></li>: Ini adalah item menu "Home" yang mengandung tautan (link) ke halaman "halaman_kedua.html."
+<li><a href="product.html">Products</a></li>: Ini adalah item menu "Products" yang mengandung tautan ke halaman "product.html."
+<li><a href="about.html">About</a></li>: Ini adalah item menu "About" yang mengandung tautan ke halaman "about.html."
+<li><a href="contact.html">Contact</a></li>: Ini adalah item menu "Contact" yang mengandung tautan ke halaman "contact.html."
+<a id="cart-icon" href="#cart"><img src="images/cart.png" width="30px" height="30px" alt="cart"></a>: Ini adalah gambar ikon keranjang belanja yang berfungsi sebagai tautan ke elemen dengan id "cart."
+
+![product1](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/144761618/17623e83-a1c0-43e6-a6b5-f36e1e38ab14)
+
+1) <div class="box">: Ini adalah div kontainer utama untuk seluruh konten yang terkait dengan produk dan keranjang belanja.
+
+2) <h2 class="title"> Product</h2>: Ini adalah judul halaman yang menyatakan bahwa konten halaman adalah produk.
+
+3) <div class="wrapper">: Ini adalah div kontainer yang mengelompokkan elemen-elemen terkait dengan produk, pencarian, dan keranjang belanja.
+
+4) <div id="search-container">: Ini adalah div yang berisi elemen pencarian produk.
+
+<input type="search" id="search-input" placeholder="Search product name here..">: Ini adalah elemen input untuk melakukan pencarian berdasarkan nama produk.
+<button id="search">Search</button>: Ini adalah tombol yang, ketika diklik, akan memicu pencarian produk berdasarkan teks yang dimasukkan dalam input pencarian.
+<div id="buttons">: Ini adalah div yang berisi elemen-elemen tombol untuk melakukan penyaringan produk berdasarkan kategori.
+
+Ada beberapa tombol dengan kelas "button-value" yang mewakili kategori produk (misalnya, "All," "Topwear," "Bottomwear," dan lainnya).
+Setiap tombol memiliki atribut onclick yang memanggil fungsi JavaScript filterProduct(category). Ini digunakan untuk menyaring produk berdasarkan kategori tertentu ketika tombol ditekan.
+<div id="products" class="product-container"></div>: Ini adalah div yang akan berisi kartu-kartu produk.
+
+Kartu-kartu produk ini akan dibuat dinamis menggunakan JavaScript.
+5) <div id="cart" class="cart">: Ini adalah div yang digunakan untuk menampilkan isi keranjang belanja.
+
+<h2>Shopping Cart</h2>: Ini adalah judul yang menyatakan bahwa konten ini adalah keranjang belanja.
+<div id="cart-items" class="cart-items">: Ini adalah div yang akan berisi item-item yang ditambahkan ke keranjang. Isi dari div ini akan diperbarui menggunakan JavaScript ketika produk ditambahkan atau dihapus dari keranjang.
+<div id="total-price-in-rupiah">Total Harga: Rp0</div>: Ini adalah elemen yang akan menampilkan total harga produk dalam format Rupiah. Isi dari elemen ini juga akan diperbarui menggunakan JavaScript.
+<button id="checkout-button" onclick="checkout()">Check Out</button>: Ini adalah tombol "Check Out" yang, ketika diklik, akan memanggil fungsi JavaScript checkout(). Ini akan menangani tindakan ketika pelanggan ingin melakukan pembelian produk dalam keranjang.
+
+ ![product2](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/144761618/02cadcab-cbbd-47dc-8c5b-b34593b948bc)
+
+1) <div class="footer">: Ini adalah div yang mengelompokkan elemen-elemen terkait dengan footer (bagian bawah) dari halaman web Anda.
+
+2) <div class="sosialicon">: Ini adalah div yang seharusnya berisi ikon-ikon atau tautan ke media sosial Anda. Namun, dalam contoh kode yang Anda berikan, div ini masih kosong. Anda dapat menambahkan ikon atau tautan ke platform media sosial di dalam div ini.
+
+3) <div class="footerbottom">: Ini adalah div yang berisi informasi hak cipta dan desainer atau pemilik situs web.
+
+<p>copyright &copy;2023: Designed by <span class="designer">HasarisStore</span></p>: Ini adalah elemen paragraf yang menampilkan informasi hak cipta dengan simbol hak cipta "©" dan tahun 2023. Selain itu, elemen <span> digunakan untuk menampilkan nama desainer atau pemilik situs web dengan kelas "designer." Di dalam kode ini, nama "HasarisStore" digunakan sebagai contoh. Anda dapat menggantinya sesuai dengan nama desainer atau pemilik situs web yang sesungguhnya.
+<script src="script.js"></script>: Ini adalah elemen <script> yang menghubungkan atau memasukkan file JavaScript eksternal yang disebut "script.js" ke halaman web Anda. File JavaScript ini akan berisi kode JavaScript yang akan dijalankan di sisi klien (di peramban pengguna) untuk menangani logika interaktivitas dan fungsionalitas lainnya di halaman web.
+
+4) </body>: Ini adalah tag penutup untuk elemen <body>, yang menandakan akhir dari konten halaman web.
+
+5) </html>: Ini adalah tag penutup untuk elemen <html>, yang menandakan akhir dari struktur HTML dokumen.
 
 2) Product.css
 
