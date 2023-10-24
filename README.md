@@ -360,6 +360,8 @@ PENJELASAN SCRIPT PROGRAM
 A. Laman login
 1. HTML
 
+a) head
+
 ![image](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/124480469/40287d00-26a3-4af9-a82f-296c66f8540c)
 
 1) "!DOCTYPE html": adalah deklarasi dokumen yang menentukan jenis dokumen HTML yang digunakan (HTML5).
@@ -369,6 +371,8 @@ A. Laman login
 - (meta name="viewport" content="width=device-width, initial-scale=1.0"): adalah elemen meta yang mengatur tampilan halaman web agar sesuai dengan lebar perangkat (device-width) dan skala awal (initial-scale) adalah 1.0. Ini penting untuk responsifitas desain web.
 - (link rel="stylesheet" href="login.css"): adalah tautan ke file CSS eksternal dengan nama "login.css" yang digunakan untuk mengatur tampilan halaman.
 4) "<title>Login</title>": adalah elemen yang menentukan judul halaman web yang akan ditampilkan di tab peramban.
+
+b) body
 
 ![image](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/124480469/8b0cb72e-d66e-49b5-b8d0-3c810ee2503a)
 
@@ -722,4 +726,45 @@ n) ".register-link"
 10) "display: inline-block;": Mengatur tautan agar ditampilkan sebagai elemen blok.
 11) "margin-top: 10px;": Memberikan margin atas sebesar 10 piksel pada tautan.
 
+C) Halaman Pertama
+
+1) HTML
+
+a) head
+
+![image](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/124480469/42f97385-0844-4703-9c5f-8d9f32096fa5)
+
+1) "!DOCTYPE html": adalah deklarasi dokumen yang memberi tahu browser bahwa halaman web akan menggunakan versi HTML5.
+2) "html lang="en"": mengindikasikan bahwa bahasa dokumen ini adalah bahasa Inggris.
+3) "head": Bagian "head" dari halaman web berisi informasi tentang dokumen, seperti metadata dan tautan ke berkas-berkas luar, seperti CSS (Cascading Style Sheets) dan ikon favicon.
+4) (meta charset="UTF-8"): mengatur karakter encoding (pemetaan karakter) untuk dokumen menjadi UTF-8.
+5) (meta name="viewport" content="width=device-width, initial-scale=1.0"): adalah tag meta yang mengatur tampilan halaman web agar responsif pada perangkat seluler dengan menyesuaikan lebar (width) ke lebar perangkat (device-width) dan skala awal (initial-scale) adalah 1.0.
+6) "title"HasarisStore"/title": mengatur judul halaman web, yang akan ditampilkan pada tab browser.
+7) (link rel="stylesheet" href="halaman_kedua.css"): adalah tautan ke berkas CSS eksternal yang digunakan untuk memformat tampilan halaman web.
+8) (link href="images/logo-removebg-preview.png" rel="icon"): mengaitkan gambar sebagai favicon, yang akan muncul di tab browser.
+
+b) body
+
+![image](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/124480469/87979ab8-00b5-44bf-9612-105698402824)
+
+1. "body": adalah bagian utama dari halaman web yang akan ditampilkan kepada pengguna.
+- (div class="header"): adalah div (elemen blok) dengan kelas "header" yang umumnya digunakan untuk bagian atas halaman web, berisi logo, navigasi, dan elemen header lainnya.
+-  (section id="home"): adalah elemen "section" dengan ID "home" yang digunakan untuk merinci bagian tertentu dari halaman web. Biasanya digunakan dalam mengorganisasi konten.
+- (div class="navbar"): adalah div dengan kelas "navbar" yang berisi navigasi situs web.
+- (div class="logo"): adalah div dengan kelas "logo" yang berisi logo situs web.
+- (nav): adalah elemen navigasi yang berisi daftar tautan ke halaman lain dalam situs.
+- "ul": adalah daftar tak terurut (unordered list) yang berisi tautan navigasi.
+- "li": adalah elemen daftar (list item) yang berisi tautan ke halaman lain.
+- (div class="row"): adalah div dengan kelas "row" yang digunakan untuk mengatur konten dalam baris.
+- (div class="col-2"): adalah div dengan kelas "col-2" yang digunakan untuk mengatur konten dalam dua kolom.
+- "h1" dan "p": adalah elemen heading dan paragraf yang digunakan untuk menampilkan judul dan teks pada halaman.
+- (img src="images/slide.png"): adalah elemen gambar yang menampilkan gambar "slide.png" pada halaman.
+2. (div class="footer"): adalah div dengan kelas "footer" yang mewakili bagian bawah halaman web.
+- (div class="sosialicon"): adalah div yang mungkin digunakan untuk menampilkan ikon-ikon media sosial.
+- (div class="footerbottom"): adalah div dengan kelas "footerbottom" yang berisi informasi hak cipta dan pengarang situs.
+- (p)copyright &copy;2023: Designed by (span class="designer")HasarisStore(/span)(/p): adalah elemen paragraf yang berisi informasi hak cipta dan pengarang situs.
+- (/body): Menandai akhir dari elemen body, yang menutup semua konten utama halaman web.
+- (/html): Menandai akhir dari elemen HTML, menutup seluruh dokumen HTML.
+
+2) css
 
