@@ -1580,6 +1580,8 @@ b) body
 
 ![image](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/121718997/25cefcb2-903f-489c-9874-cb3a5542bfb3)
 
+
+
 1. `.col-2 .offer-img`: Ini adalah pemilih CSS yang menargetkan elemen dengan kelas "offer-img" yang berada dalam elemen dengan kelas "col-2."
    - `padding: 50px;`: Ini memberikan elemen dengan kelas "offer-img" padding sebesar 50 piksel. Padding adalah jarak antara konten elemen dan batasnya. Dalam hal ini, ini menciptakan ruang ekstra di sekitar elemen "offer-img."
 2. `.footer`: Ini adalah pemilih CSS yang menargetkan elemen dengan kelas "footer."
