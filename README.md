@@ -1514,4 +1514,18 @@ b) body
 
 10. `text-align: right;`: Ini mengatur teks dalam elemen "nav" agar terletak di sebelah kanan elemen tersebut. Ini akan memengaruhi tampilan tautan navigasi di dalam elemen "nav" dengan posisi kanan.
 
+![image](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/121718997/8467513c-55d9-4090-9429-b510c82da40e)
+
+1. `nav ul`: Ini adalah selektor CSS yang menargetkan elemen "ul" (unordered list) yang berada dalam elemen "nav." Aturan-aturan CSS di bawah ini akan berlaku untuk elemen "ul" dalam navigasi.
+2. `display: inline-block;`: Ini mengatur elemen "ul" agar ditampilkan dalam blok inline. Ini mengubah perilaku elemen "ul" dari tampilan blok (block) menjadi tampilan inline, sehingga daftar item dalam navigasi akan ditampilkan secara horizontal.
+3. `list-style-type: none;`: Ini menghilangkan tanda bullet (tanda titik atau tanda lain) yang biasanya muncul di depan daftar item dalam elemen "ul." Dengan mengatur ini menjadi "none," tanda bullet tidak akan ditampilkan.
+4. `nav ul li`: Ini adalah selektor CSS yang menargetkan elemen "li" (list item) yang berada dalam elemen "ul" dalam navigasi.
+5. `display: inline-block;`: Ini mengatur elemen "li" agar ditampilkan dalam blok inline, yang sama seperti pada elemen "ul." Ini menjadikan daftar item dalam navigasi tampil secara horizontal.
+6. `margin-right: 20px;`: Ini mengatur jarak (margin) sebesar 20 piksel di sisi kanan dari setiap daftar item. Ini memberikan ruang antara setiap item dalam navigasi.
+7. `.navbar ul li a`: Ini adalah selektor yang menargetkan tautan (elemen "a") yang berada dalam elemen "li" dalam elemen "ul" yang berada dalam elemen dengan kelas "navbar."
+8. `padding: 20px 20px;`: Ini mengatur padding sebesar 20 piksel di atas dan bawah, serta 20 piksel di sebelah kiri dan kanan dari setiap tautan. Ini memberikan ruang di sekitar tautan dalam navigasi.
+9. `display: inline-block;`: Ini mengatur tautan agar ditampilkan sebagai blok inline, yang sama seperti pada elemen "ul" dan "li." Ini memungkinkan tautan untuk tampil secara horizontal.
+10. `.navbar ul li a:hover`: Ini adalah selektor yang menargetkan tautan ketika pengguna mengarahkan kursor mouse ke atasnya (ketika tautan dalam keadaan "hover")
+11. `background-color: #daeaf6;`: Ini mengatur latar belakang tautan ketika pengguna mengarahkan kursor mouse ke atasnya menjadi warna #daeaf6.
+12. `color: #000000;`: Ini mengatur warna teks tautan ketika pengguna mengarahkan kursor mouse ke atasnya menjadi hitam (#000000).
 
