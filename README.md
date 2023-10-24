@@ -431,6 +431,19 @@ b) body
 11.	`<div class="footerbottom">`: Ini adalah div dengan kelas "footerbottom" yang mungkin digunakan untuk menampilkan informasi hak cipta dan perancang halaman.
 12.	`<p>copyright &copy;2023: Designed by <span class="designer">HasarisStore</span></p>`: Ini adalah elemen paragraph (p) yang menampilkan informasi hak cipta ("copyright") dengan tanda hak cipta (&copy;) untuk tahun 2023, serta keterangan bahwa halaman tersebut didesain oleh "HasarisStore."
 
+B. CSS
+
+![image](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/121718997/942d684a-273c-4f61-a41c-9d4b0f01193f)
+
+1. `*`: Ini adalah selektor universal yang berarti aturan gaya ini akan diterapkan pada semua elemen di halaman web.
+2. `margin: 0;`, `padding: 0;`: Ini mengatur margin dan padding untuk semua elemen di halaman menjadi 0. Margin adalah ruang di sekitar elemen, sedangkan padding adalah ruang di sekitar konten elemen. Dengan mengatur nilai margin dan padding ke 0, kita menghilangkan ruang tambahan default yang biasanya ada pada elemen-elemen HTML. Ini membantu mengontrol dengan lebih baik tata letak elemen-elemen.
+3. `box-sizing: border-box;`: Ini mengatur model kotak (box model) untuk elemen-elemen HTML. Dengan mengatur `box-sizing` menjadi "border-box," lebar dan tinggi elemen termasuk dalam perhitungan, yang berarti bahwa margin dan padding juga diakomodasi dalam lebar dan tinggi elemen. Ini membantu dalam menghindari ketidakcocokan ukuran elemen.
+4. `html`: Ini adalah selektor untuk elemen `<html>`, yang mengatur aturan gaya khusus untuk elemen tersebut.
+   - `font-size: 100%;`: Ini mengatur ukuran font elemen HTML menjadi 100% dari ukuran default. Ini adalah praktik umum untuk mengatur ukuran font dasar halaman ke ukuran yang konsisten dan dapat diubah dengan lebih mudah melalui CSS.
+   - `scroll-behavior: smooth;`: Ini mengatur perilaku pengguliran (scrolling behavior) saat pengguna menggulir halaman. Nilai "smooth" memberikan efek animasi yang halus ketika halaman digulir, sehingga transisi antar bagian halaman menjadi lebih lancar.
+   - `scroll-padding-top: 6rem;`: Ini mengatur jarak (padding) yang akan ditambahkan di atas elemen yang menjadi tujuan pengguliran saat menggunakan tautan navigasi dengan pengguliran halus. Dalam hal ini, jarak sebesar 6 rem (unit pengukuran berdasarkan ukuran font) ditambahkan di atas elemen tersebut. Ini memastikan bahwa elemen yang menjadi tujuan pengguliran akan muncul dengan jarak tertentu dari atas layar, sehingga kontennya tidak tersembunyi di bawah bilah navigasi.
+
+
 
 A. Laman login
 1. HTML
