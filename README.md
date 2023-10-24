@@ -517,6 +517,25 @@ B. CSS
 6. `.categories`: Ini adalah selektor untuk elemen dengan kelas "categories," yang mungkin digunakan untuk menggambarkan bagian kategori pada halaman web.
    - `margin: 70px 0;`: Ini memberikan margin sebesar 70 piksel di atas dan bawah elemen "categories," menciptakan ruang di atas dan di bawah bagian kategori dalam tata letak halaman.
 
+![image](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/121718997/2da87351-c35c-41f3-91c4-f46fe6c3d8cd)
+
+. `.col-3`: Ini adalah selektor untuk elemen dengan kelas "col-3," yang mungkin digunakan untuk menggambarkan kolom dalam tata letak halaman.
+   - `flex-basis: 30%;`: Ini mengatur lebar dasar elemen "col-3" menjadi 30% dari lebar total elemennya. Ini memberikan elemen "col-3" sebagian besar lebar dalam tata letak.
+   - `min-width: 250px;`: Ini mengatur lebar minimum untuk elemen "col-3" menjadi 250 piksel, sehingga elemen ini tidak akan menjadi terlalu sempit bahkan jika lebar tampilan layar lebih kecil.
+   - `margin-bottom: 30px;`: Ini memberikan margin sebesar 30 piksel di bawah elemen "col-3," menciptakan ruang antara kolom-kolom dalam tata letak.
+2. `.col-3 img`: Ini adalah selektor untuk gambar (elemen `<img>`) yang berada di dalam elemen "col-3."
+   - `width: 100%;`: Ini mengatur lebar gambar menjadi 100% dari lebar elemen "col-3," sehingga gambar akan mengikuti lebar elemen "col-3."
+3. `.small-container`: Ini adalah selektor untuk elemen dengan kelas "small-container," yang mungkin digunakan untuk mengelompokkan konten dalam suatu wadah kecil.
+   - `max-width: 1080px;`: Ini mengatur lebar maksimum elemen "small-container" menjadi 1080 piksel, yang berarti bahwa elemen ini tidak akan melebar lebih dari itu.
+   - `margin: auto;`: Ini mengatur margin elemen "small-container" menjadi otomatis, sehingga elemen akan terpusat secara horizontal di tengah layar.
+   - `padding: 25px;`, `padding-right: 25px;`: Ini memberikan padding 25 piksel di sisi kiri dan kanan elemen "small-container." Padding adalah ruang antara konten elemen dan batas elemen tersebut.
+4. `.col-4`: Ini adalah selektor untuk elemen dengan kelas "col-4," yang mungkin digunakan untuk menggambarkan kolom dalam tata letak halaman.
+   - `flex-basis: 25%;`: Ini mengatur lebar dasar elemen "col-4" menjadi 25% dari lebar total elemennya. Ini memberikan elemen "col-4" sebagian lebar dalam tata letak.
+   - `padding: 10px;`: Ini memberikan padding sebesar 10 piksel di sekeliling elemen "col-4," menciptakan ruang antara elemen dan elemen-elemen lain di dalam kolom.
+   - `min-width: 200px;`: Ini mengatur lebar minimum untuk elemen "col-4" menjadi 200 piksel, sehingga elemen ini tidak akan menjadi terlalu sempit bahkan jika lebar tampilan layar lebih kecil.
+   - `margin-bottom: 50px;`: Ini memberikan margin sebesar 50 piksel di bawah elemen "col-4," menciptakan ruang antara kolom-kolom dalam tata letak.
+   - `transition: transform 0.5s;`: Ini mengatur efek transisi yang akan terjadi saat elemen "col-4" mengalami perubahan transformasi. Dalam hal ini, elemen "col-4" akan mengalami transformasi dalam waktu 0,5 detik. Transformasi biasanya digunakan untuk animasi dan perubahan tampilan elemen saat interaksi pengguna.
+
 
 A. Laman login
 1. HTML
