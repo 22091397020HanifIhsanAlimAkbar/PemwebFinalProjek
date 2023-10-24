@@ -1,0 +1,171 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Arial', sans-serif;
+}
+
+.navbar {
+    display: flex;
+    align-items: center;
+    padding: 20px;
+}
+
+nav {
+    flex: 1;
+    text-align: right;
+}
+
+nav ul {
+    display: inline-block;
+    list-style-type: none;
+}
+
+nav ul li {
+    display: inline-block;
+    margin-right: 20px;
+}
+
+.navbar ul li a {
+    padding: 20px 20px;
+    display: inline-block;
+    text-decoration: none;
+    color: #555;
+}
+
+.navbar ul li a:hover {
+    background-color: #daeaf6;
+    color: #000000;
+}
+.header{
+    background: radial-gradient(#fff, #ffd6d6);
+   
+}
+.title{
+    text-align: center;
+    margin: 0 auto 80px;
+    position: relative;
+    line-height: 60px;
+    color: #555;
+}
+.title::after{
+    content: '';
+    background: #ff523b;
+    width: 80px;
+    height: 5px;
+    border-radius: 5px;
+    position: absolute;
+    left: 50%;
+    bottom: 0;
+    transform: translate(-50%);
+}
+
+
+.contact-info {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.contact-item {
+    display: flex;
+    align-items: center;
+    margin: 10px;
+}
+
+.contact-item i {
+    font-size: 24px;
+    margin-right: 10px;
+}
+
+.contact-item p {
+    font-size: 18px;
+}
+.offer{
+    background: radial-gradient(#fff, #ffd6d6);
+    margin-top:  80px;
+    padding: 30px 0;
+}
+
+
+form {
+    text-align: left;
+    max-width: 600px; /* Menambahkan lebar maksimum untuk form */
+    margin: 0 auto;  /* Pusatkan form dalam kontainer */
+}
+
+.form-group {
+    margin: 10px 0;
+}
+
+label {
+    display: block;
+    font-size: 18px;
+}
+
+input,
+textarea {
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+textarea {
+    resize: vertical;
+}
+
+button {
+    background-color: #ff6f61;
+    color: #fff;
+    padding: 12px 24px;
+    border: none;
+    border-radius: 25px;
+    cursor: pointer;
+    font-weight: bold;
+    font-size: 16px;
+    transition: background-color 0.3s ease-in-out;
+}
+
+button:hover {
+    background-color: #ff9191;
+}
+.footer {
+    background: #111;
+    font-size: 14px;
+    padding: 30px 0;
+    width: flex;
+    justify-content: center;
+}
+
+.sosialicon {
+    display: flex;
+    justify-content: center;
+}
+
+.sosialicon a {
+    text-decoration: none;
+    padding: 10px;
+    background-color: #fff;
+    margin: 10px;
+    border-radius: 50%;
+}
+
+.sosialicon a img {
+    opacity: 0.9;
+}
+
+.sosialicon a:hover {
+    background-color: #111;
+    transition: 0.5s;
+}
+
+.footerbottom {
+    padding: 30px;
+    text-align: center;
+}
+
+.footerbottom p {
+    color: #fff;
+}
