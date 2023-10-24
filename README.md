@@ -222,9 +222,28 @@ Tampilan Contact
 
 ![contact](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/144761618/a05a89a2-c7c9-4f15-b574-f0dad1b1e266)
 
-
 Tampilan Login
 
+![Screenshot (90)](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/144761618/45cd93a5-bad2-43b9-8d9f-0b502103cfca)
+
+Tampilan Registrasi
+
+![Screenshot (91)](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/144761618/6ce8b343-7030-4648-9fe1-b4f40dba4e12)
+
+
+Tampilan Halaman Kedua
+
+![Screenshot (92)](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/144761618/f8a33cea-2895-447e-90fe-61745d8c27ab)
+
+
+Tampilan Product
+
+Tampilan About 
+
+![Screenshot (96)](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/144761618/388147af-1b86-4cb9-9729-bd72da6fe2da)
+
+
+Tampilan Contact
 
 
 Antarmuka Komunikasi
