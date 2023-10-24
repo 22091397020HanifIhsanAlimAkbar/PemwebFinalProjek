@@ -240,6 +240,11 @@ Tampilan Product
 
 Tampilan About 
 
+![Screenshot (93)](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/144761618/5ff673b9-8ee4-4a90-94e6-b2d4998cbd1a)
+
+![Screenshot (93)](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/144761618/24c0e4b2-abac-46e5-b276-a2f615efc3af)
+
+
 ![Screenshot (96)](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/144761618/388147af-1b86-4cb9-9729-bd72da6fe2da)
 
 
