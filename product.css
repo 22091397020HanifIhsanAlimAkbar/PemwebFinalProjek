@@ -418,7 +418,21 @@ h4 {
 #checkout-button:hover{
 background: #563434;
 }
+button {
+    background-color: #ff6f61;
+    color: #fff;
+    padding: 12px 24px;
+    border: none;
+    border-radius: 25px;
+    cursor: pointer;
+    font-weight: bold;
+    font-size: 16px;
+    transition: background-color 0.3s ease-in-out;
+}
 
+button:hover {
+    background-color: #ff9191;
+}
 .box .col-5 {
     width: 25%;
     padding: 20px;
