@@ -1300,8 +1300,10 @@ Kartu-kartu produk ini akan dibuat dinamis menggunakan JavaScript.
         Elemen dengan kelas "button-value" akan memiliki beberapa gaya yang membuatnya terlihat seperti tombol.
         Elemen dengan kelas "add-to-cart" akan memiliki gaya khusus saat digerakkan.
 
-	![css](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/144761618/37b18ca3-df36-423b-8fc3-25de9bc90b11)
-        ![CSS2](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/144761618/c87152ab-326b-4c58-914c-009c3badcf8d)
+![css](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/144761618/374066a0-a286-49c9-b015-3ef5abc970b4)
+ ![CSS2](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/144761618/f2d0290f-098c-4ee0-855b-703246325552)
+
+
 
     1) Gaya Header:
         Elemen dengan kelas "header" memiliki latar belakang berbentuk gradien radial dari putih ke merah muda pucat.
