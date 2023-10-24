@@ -1103,7 +1103,7 @@ b) body
 1) 'nav ul': adalah selector yang memilih elemen <ul> yang berada dalam elemen "nav".
    - 'display: inline-block;': Mengubah elemen "ul" menjadi inline-block, sehingga daftar tautan akan ditampilkan secara horizontal.
    - 'list-style-type: none;': Menghilangkan jenis daftar (bullet points) dari daftar tautan.
-2) 'nav ul li': adalah selector yang memilih elemen-elemen "li" yang berada dalam elemen "ul" di dalam elemen "nav".
+2) nav ul li: adalah selector yang memilih elemen-elemen "li" yang berada dalam elemen "ul" di dalam elemen "nav".
    - 'display: inline-block;': Mengubah elemen-elemen "li" menjadi inline-block sehingga tautan akan ditampilkan secara horizontal.
    - margin-right: 20px;: Memberikan margin sebesar 20 piksel di sebelah kanan setiap elemen "li".
 
@@ -1112,72 +1112,6 @@ b) body
 1) '.navbar ul li a:hover': adalah selector yang mengatur tampilan tautan saat kursor mouse mengarah ke atasnya (hover).
 - 'background-color: #daeaf6;': Mengubah warna latar belakang tautan menjadi biru muda saat kursor mouse di atasnya.
 - 'color: #000000;': Mengubah warna teks tautan menjadi hitam saat kursor mouse di atasnya.
-
-![image](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/124480469/d9195088-7a5f-467f-acf8-3fb4fe7c7144)
-
-1) 'a': adalah selector yang memilih semua elemen `(a) (tautan) di halaman web.
-2) 'text-decoration: none;': Menghilangkan dekorasi bawaan tautan, seperti garis bawah.
-3) 'color: #555;': Mengatur warna teks tautan menjadi abu-abu (#555).
-4) 'p': adalah selector yang memilih semua elemen `(p) (paragraf) di halaman web.
-- 'color: #555;': Mengatur warna teks paragraf menjadi abu-abu (#555).
-
-![image](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/124480469/de491f9a-b2fd-40d8-9cdf-41c150fd722b)
-
-1) '.col-2': adalah selector yang memilih elemen dengan kelas "col-2."
-- 'flex-basis: 50%;': Memberikan elemen dengan kelas "col-2" fleksibilitas sehingga akan mengambil setengah dari lebar yang tersedia dalam kontainernya.
-- min-width: 300px;: Menentukan lebar minimum elemen dengan kelas "col-2" agar tidak menyusut terlalu sempit.
-2) '.col-2 img': adalah selector yang memilih gambar yang berada dalam elemen dengan kelas "col-2."
-- 'max-width: 100%;': Mengatur gambar agar tidak melebihi lebar elemen yang memuatnya.
-- 'padding: 50px 0;': Memberikan padding sebesar 50 piksel di atas dan bawah gambar.
-3) '.col-2 h1': adalah selector yang memilih elemen heading (h1) yang berada dalam elemen dengan kelas "col-2."
-  - 'font-size: 50px;': Mengatur ukuran font menjadi 50 piksel.
-  - 'line-height: 60px;': Mengatur tinggi baris menjadi 60 piksel.
-  - 'margin: 25px 0;': Memberikan margin sebesar 25 piksel di atas dan bawah teks heading.
-
-![image](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/124480469/20be2153-7c70-40f7-a22d-56c1a3fb5b19)
-
-1) '.container': adalah selector yang memilih elemen dengan kelas "container."
-2) 'max-width: 1300px;': Mengatur lebar maksimum elemen dengan kelas "container" menjadi 1300 piksel.
-3) 'margin: auto;': Memberikan margin otomatis ke kanan dan kiri elemen dengan kelas "container" untuk menjaga kontennya tetap di tengah.
-4) 'padding-left: 25px; padding-right: 25px;': Memberikan padding sebesar 25 piksel di sisi kiri dan kanan elemen.
-
-![image](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/124480469/714e1f5d-7e57-4e28-a0aa-32a4c3c59310)
-
-1) '.row': adalah selector yang memilih elemen dengan kelas "row."
-- 'display: flex;': Mengatur elemen dengan kelas "row" agar menggunakan model tata letak flex.
-- 'align-items: center;': Membuat elemen dengan kelas "row" secara vertikal terpusat.
-- flex-wrap: wrap;: Mengizinkan elemen-elemen dalam elemen dengan kelas "row" untuk mengalir ke baris baru jika Butuh lebih banyak ruang:
-  	- justify-content: space-around;: Mengatur penyebaran elemen-elemen dalam elemen dengan kelas "row" sehingga mereka akan terbagi dengan sejumlah ruang yang sama di sekitarnya.
-
-![image](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/124480469/67c06cc5-0618-49f7-b8b3-541a4bf57915)
-
-1) '.header': adalah selector yang memilih elemen dengan kelas "header."
-- 'background: radial-gradient(#fff, #ffd6d6);': Mengatur latar belakang elemen dengan efek gradient radial dari putih ke warna merah muda terang.
-2) '.categories': adalah selector yang memilih elemen dengan kelas "categories."
-- 'margin: 70px 0;': Memberikan margin sebesar 70 piksel di atas dan bawah elemen dengan kelas "categories."
-
-![image](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/124480469/94d760da-6eb3-422a-88d6-ef77b3eca76d)
-
-1) '.footer': adalah selector yang memilih elemen dengan kelas "footer."
-2) 'background: #111;': Mengatur latar belakang elemen footer menjadi warna hitam (#111).
-3) 'font-size: 14px;': Mengatur ukuran font menjadi 14 piksel untuk teks di dalam footer.
-4) 'padding: 30px 0;': Memberikan padding sebesar 30 piksel di atas dan bawah elemen footer.
-5) 'width: flex;': Mengubah elemen footer menjadi elemen flex untuk tata letak yang lebih fleksibel.
-6) 'justify-content: center;': Membuat elemen footer secara horizontal terpusat.
-
-![image](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/124480469/18f7e9ea-0b64-44f5-8365-d3d68ed48831)
-
-1) '.sosialicon a:hover': adalah selector yang mengatur tampilan ikon sosial saat kursor mouse mengarah ke atasnya (hover).
-2) 'background-color: #111;': Mengubah warna latar belakang ikon menjadi hitam (#111) saat kursor mouse berada di atasnya.
-3) 'transition: 0.5s;': Mengatur transisi berkecepatan 0,5 detik untuk perubahan warna latar belakang.
-
-![image](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/124480469/b6f6cdaf-20cc-4197-bd06-8614f90472a5)
-
-1) '.footerbottom': adalah selector yang memilih elemen dengan kelas "footerbottom."
-- 'padding: 30px;': Memberikan padding sebesar 30 piksel pada elemen dengan kelas "footerbottom."
-- text-align: center;: Mengatur teks di dalam elemen footerbottom agar diberi rata tengah secara horizontal.
-2) '.footerbottom p': adalah selector yang memilih elemen paragraf yang berada dalam elemen dengan kelas "footerbottom."
-- color: #fff;: Mengatur warna teks paragraf menjadi putih (#fff).
 
 E) Product
 
@@ -1332,3 +1266,92 @@ Fungsi checkout():
 
 6) Ini digunakan untuk menangani tindakan "Check Out." Pada contoh ini, hanya muncul pesan peringatan yang menyatakan terima kasih atas pembelian, tetapi dalam pengembangan lebih lanjut, Anda dapat menyimpan pesanan pelanggan ke server atau melakukan tindakan lain yang sesuai.
 Setelah "Check Out," keranjang dibersihkan dan tampilan keranjang diperbarui dengan memanggil fungsi updateCart().
+
+G) Contact
+
+1) Contact.html
+
+   ![htmll contact](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/144761618/8874b492-4f40-413f-8795-09f813ee700c)
+
+
+   !) Elemen-elemen dalam <head>:
+
+<meta>: Mendefinisikan karakter set (UTF-8) dan viewport untuk responsifitas tampilan pada perangkat berbeda.
+<link>: Menghubungkan file CSS contact.css untuk mengatur tampilan halaman.
+<link>: Menghubungkan ikon situs yang akan ditampilkan di tab peramban.
+<title>: Menentukan judul halaman web yang akan ditampilkan di tab peramban.
+
+2) Elemen-elemen dalam <body>:
+
+<div class="header">: Ini adalah elemen yang menandai bagian header halaman. Biasanya berisi logo dan menu navigasi.
+
+<div class="container">: Ini adalah elemen kontainer yang digunakan untuk membatasi lebar konten dan menempatkannya di tengah halaman.
+
+<div class="navbar">: Elemen ini mengandung logo dan menu navigasi. Ini memiliki tampilan header yang mencakup logo perusahaan, seperti "HasarisStore," dan menu navigasi ke halaman lain seperti "Home," "Products," "About," dan "Contact."
+
+<h2 class="title"> Contact Us</h2>: Ini adalah judul halaman dengan kelas title. Judul ini adalah "Contact Us" dan terletak di tengah halaman.
+
+<div class="contact-info">: Ini adalah elemen yang berisi informasi kontak, seperti alamat, nomor telepon, dan alamat email. Setiap informasi kontak ditempatkan dalam elemen dengan kelas contact-item.
+
+<form>: Ini adalah elemen formulir yang digunakan untuk mengirim pesan ke pemilik situs web. Aksi formulir ditetapkan sebagai "#" (halaman saat ini) dan metodenya adalah "post."
+
+<div class="form-group">: Ini adalah elemen yang mengelompokkan setiap label dan elemen input dalam formulir. Setiap elemen formulir, seperti nama, email, dan pesan, dikelompokkan dalam elemen dengan kelas form-group.
+
+<label>: Ini adalah elemen label untuk setiap elemen input dalam formulir. Ini memberikan deskripsi atau petunjuk tentang input yang diperlukan.
+
+<input>: Ini adalah elemen input yang digunakan untuk memasukkan teks, seperti nama dan email. Setiap elemen input memiliki atribut id, name, dan required.
+
+<textarea>: Ini adalah elemen textarea yang digunakan untuk memasukkan pesan yang lebih panjang. Ini juga memiliki atribut id, name, dan required.
+
+<button>: Ini adalah tombol "Send" yang digunakan untuk mengirim formulir. Tombol ini memiliki atribut type "submit."
+
+<div class="footer">: Ini adalah elemen yang menandai bagian footer halaman, biasanya berisi informasi tambahan seperti tautan media sosial dan keterangan hak cipta.
+
+<div class="sosialicon">: Ini adalah elemen yang berisi tautan ke berbagai platform media sosial. Namun, saat ini tautan ke media sosial tersebut masih kosong.
+
+<div class="footerbottom">: Ini adalah elemen yang berisi informasi hak cipta dan desainer situs web. Hak cipta tahun 2023 dan desainer yang disebutkan dalam elemen ini adalah "HasarisStore."
+3) Contact.css
+
+   ![csss](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/144761618/bb89a5af-ca0d-43db-872a-2d0bbad03be1)
+
+   *: Ini adalah selektor universal yang mempengaruhi semua elemen pada halaman web. Dalam hal ini, itu digunakan untuk mengatur beberapa properti dasar seperti margin, padding, dan font pada semua elemen.
+
+.navbar: Ini adalah kelas yang digunakan untuk menggaya elemen header atau bagian navigasi pada halaman web. Beberapa properti yang didefinisikan termasuk pengaturan tampilan fleksibel, penyelarasan elemen, dan ukuran padding.
+
+nav: Ini adalah gaya untuk elemen <nav> yang ada dalam elemen dengan kelas .navbar. Ini mengatur penataan elemen ke arah kanan dengan properti text-align.
+
+nav ul: Ini menggaya elemen <ul> yang ada dalam elemen <nav>. Ini mengatur ul ini sebagai elemen blok dan menghilangkan daftar bawaan.
+
+nav ul li: Ini menggaya elemen-elemen <li> dalam daftar. Ini mengatur penataan elemen-elemen daftar ke dalam satu baris dengan jarak kanan sekitar 20px.
+
+.navbar ul li a: Ini menggaya tautan (<a>) yang ada dalam elemen-elemen daftar di dalam navigasi. Ini mengatur tampilan tautan dengan memberikan padding, menghilangkan dekorasi tautan bawaan, dan mengatur warna teks.
+
+.navbar ul li a:hover: Ini menggaya tautan saat digerakkan (hover). Ketika tautan diarahkan, latar belakangnya akan berubah warna menjadi #daeaf6, dan warna teksnya akan menjadi hitam.
+
+.header: Ini menggaya elemen dengan kelas .header. Ini mengatur latar belakang elemen header menggunakan gradien radial dari putih ke warna #ffd6d6.
+
+.title: Ini menggaya elemen dengan kelas .title. Ini mengatur tampilan judul halaman dengan posisi teks di tengah, jarak bawah sekitar 80px, dan garis bawah yang dibuat menggunakan pseudo-elemen ::after.
+
+.title::after: Ini menggaya pseudo-elemen yang ditambahkan ke elemen dengan kelas .title. Ini memberikan latar belakang warna #ff523b dengan lebar 80px dan tinggi 5px.
+
+.contact-info: Ini menggaya elemen dengan kelas .contact-info. Ini mengatur tampilan elemen tersebut sebagai fleks container dengan penataan kolom dan menyusun elemen-elemen anak secara vertikal.
+
+.contact-item: Ini menggaya elemen dengan kelas .contact-item. Ini mengatur elemen-elemen anak dalam elemen dengan kelas .contact-info, seperti ikon dan teks kontak. Ikon memiliki font-size 24px dan memiliki margin kanan sekitar 10px.
+
+.offer: Ini menggaya elemen dengan kelas .offer. Ini memberikan latar belakang elemen menggunakan gradien radial dan memberikan jarak atas sekitar 80px serta padding 30px.
+
+form: Ini menggaya elemen formulir. Ini mengatur teks menjadi rata kiri, memberikan lebar maksimum formulir, dan memusatkan formulir dalam kontainer. Ini juga mengatur beberapa properti elemen-elemen formulir seperti input dan textarea.
+
+.form-group: Ini menggaya elemen dengan kelas .form-group. Ini mengatur jarak sekitar 10px antara grup elemen formulir.
+
+label: Ini menggaya elemen label dalam formulir dengan menampilkan label sebagai blok dan memberikan font-size 18px.
+
+input dan textarea: Ini menggaya elemen input dan textarea dalam formulir dengan memberikan lebar 100%, padding, ukuran font, serta border dan border-radius yang menambahkan efek bingkai pada elemen input.
+
+button: Ini menggaya tombol dalam formulir dengan memberikan warna latar belakang dan teks tertentu, seperti font-weight bold. Tombol ini juga mendapatkan efek perubahan warna latar belakang saat digerakkan (hover).
+
+.footer: Ini menggaya elemen dengan kelas .footer. Ini mengatur tampilan footer dengan latar belakang warna #111, ukuran font 14px, dan padding. Namun, terdapat beberapa kesalahan dalam kode CSS ini. Properti width: flex; dan justify-content: center; pada elemen ini seharusnya disesuaikan, karena flex bukan nilai yang valid untuk properti width. Saya sarankan menggunakan width: 100%; untuk mengisi lebar penuh.
+
+.sosialicon: Ini menggaya elemen dengan kelas .sosialicon. Ini adalah bagian dari footer yang akan berisi tautan ke media sosial. Saat ini, tautan tersebut masih kosong.
+
+.sosialicon a: Ini menggaya tautan ke media sosial. Ini memberikan padding, latar belakang, dan margin pada
