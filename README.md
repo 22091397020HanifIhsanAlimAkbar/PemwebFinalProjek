@@ -1099,7 +1099,8 @@ E) Product
 
 1) Product.html
 
-   ![image](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/144761618/4c7d0758-b0b7-477e-89ec-3f6ae9ac52c7)
+  ![contact1](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/144761618/ad4f2e3c-9cd2-4793-9de1-2ebc2de0e7d1)
+
 
 1) <head>: Ini adalah elemen kepala dokumen HTML yang berisi informasi tentang dokumen, seperti karakter set dan tautan ke berkas CSS.
 
@@ -1121,8 +1122,20 @@ E) Product
 
 10) <a>: Ini adalah elemen tautan yang mengarahkan ke halaman lain dalam situs web.
 
-111) <h2>: Ini adalah elemen judul tingkat kedua yang digunakan untuk menampilkan judul "Contact Us" dan "Contact Form" pada halaman.
+11) <h2>: Ini adalah elemen judul tingkat kedua yang digunakan untuk menampilkan judul "Contact Us" dan "Contact Form" pada halaman.
 
+3) Scipt.js
+
+   ![sc1](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/144761618/af85fd90-542f-4467-9469-5c4578bd5134)
+
+1) data: Ini adalah array yang berisi daftar produk. Setiap elemen dalam array adalah objek yang mewakili satu produk.
+
+2) Setiap objek produk memiliki atribut berikut:
+
+3) productName: Ini adalah string yang menyimpan nama produk, seperti "Regular White T-Shirt" atau "Dark Blue Shirt."
+4) category: Ini adalah string yang mengelompokkan produk ke dalam kategori tertentu, seperti "Topwear," "Bottomwear," "Watch," "Jacket," atau "Shoes."
+5) price: Ini adalah string yang menyimpan harga produk dalam format harga (misalnya, "30000" untuk Rp 30.000).
+6) image: Ini adalah string yang berisi alamat gambar yang digunakan untuk menampilkan gambar produk.
 
    
 
