@@ -1045,3 +1045,9 @@ b) body
 2) 'display: flex;': Mengatur elemen dengan kelas "navbar" untuk menggunakan model tata letak flex, yang memungkinkan tata letak elemen menjadi flexbox. Ini berguna untuk menyusun elemen-elemen dalam baris secara horizontal.
 3) 'align-items: center;': Membuat elemen dengan kelas "navbar" untuk secara vertikal terpusat (center) dalam kontainernya.
 4) 'padding: 20px;': Memberikan padding sebesar 20 piksel di sekitar elemen dengan kelas "navbar."
+
+![image](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/124480469/249da4d4-162f-4e2a-b8ad-f6972a7f07d1)
+
+1) 'nav' : adalah selector yang memilih elemen 'nav' di halaman web.
+2) 'flex: 1;' : Memberikan elemen 'nav' fleksibilitas sehingga akan memanfaatkan sebanyak mungkin ruang yang tersedia dalam elemen dengan kelas "navbar."
+3) 'text-align: right;' : Mengatur teks dalam elemen 'nav' agar diberi rata kanan (kanan).
