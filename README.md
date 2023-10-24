@@ -341,6 +341,7 @@ Lampiran C : Daftar Fitur Yang Akan Ditentukan
 Pada lampiran ini berisi mengenai fitur-fitur yang belum ditentukan pada website Hasaris store, antara lain yaitu pembuatan IP agar website Hasaris store agar dapat digunakan pada aplikasi mobile, dan membuat Hasaris store menjadi aplikasi yang dapat digunakan pada android.
 
 PENJELASAN SCRIPT PROGRAM
+
 A. Laman Index
 
 1. index.html
@@ -1008,6 +1009,8 @@ b) body
 
 ![image](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/124480469/87979ab8-00b5-44bf-9612-105698402824)
 
+![image](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/124480469/6e4eddd9-95dc-4742-8a0c-525275089932)
+
 1. "body": adalah bagian utama dari halaman web yang akan ditampilkan kepada pengguna.
 - (div class="header"): adalah div (elemen blok) dengan kelas "header" yang umumnya digunakan untuk bagian atas halaman web, berisi logo, navigasi, dan elemen header lainnya.
 -  (section id="home"): adalah elemen "section" dengan ID "home" yang digunakan untuk merinci bagian tertentu dari halaman web. Biasanya digunakan dalam mengorganisasi konten.
@@ -1029,3 +1032,16 @@ b) body
 
 2) halaman_kedua.css
 
+![image](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/124480469/9f57c209-9f8e-4aa1-976f-bd7641349660)
+
+1) '*': adalah selector universal yang memilih semua elemen di halaman web.
+2) 'margin: 0;': Menghapus margin (ruang kosong) dari semua elemen.
+3) 'padding: 0;': Menghapus padding (ruang dalam elemen) dari semua elemen.
+4) 'box-sizing: border-box;': Mengatur model kotak elemen (box model) menjadi "border-box," sehingga lebar dan tinggi elemen sekarang mencakup padding dan border, bukan hanya kontennya. Ini membantu dalam mengatur elemen dengan lebih baik dalam desain responsif.
+
+![image](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/124480469/bb078e19-3db8-4e89-88e9-cfae07c5e3b7)
+
+1) '.navbar': adalah selector yang memilih elemen dengan kelas "navbar" di halaman web Anda.
+2) 'display: flex;': Mengatur elemen dengan kelas "navbar" untuk menggunakan model tata letak flex, yang memungkinkan tata letak elemen menjadi flexbox. Ini berguna untuk menyusun elemen-elemen dalam baris secara horizontal.
+3) 'align-items: center;': Membuat elemen dengan kelas "navbar" untuk secara vertikal terpusat (center) dalam kontainernya.
+4) 'padding: 20px;': Memberikan padding sebesar 20 piksel di sekitar elemen dengan kelas "navbar."
