@@ -1,16 +1,16 @@
 ![image](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/124480469/4bb7faea-117a-449d-a9d6-8721369e61d6)
 
 Daftar Isi
-Pengantar	1
-Tujuan	1
-Konvensi Dokumen	1
-Audiens Yang Dituju	1
-Lingkup Produk	2
-Referensi	2
-Deskripsi Keseluruhan	3
-Perspektif Produk	3
-Fungsi Produk	3
-Kelas dan Karakteristik Pengguna	3
+1. Pengantar
+   1.1 Tujuan
+   1.2 Konvensi Dokumen
+   1.3 Audiens Yang Dituju
+   1.4 Lingkup Produk
+   1.5 Referensi
+2. Deskripsi Keseluruhan
+   2.1 Perspektif Produk
+   2.2 Fungsi Produk
+   2.3 Kelas dan Karakteristik Pengguna	3
 Lingkungan Pengembangan	4
 Kendala Desain dan Implementasi	4
 Dokumentasi Pengguna	4
@@ -30,7 +30,8 @@ Persyaratan Keamanan Pengguna	12
 Persyaratan Keamanan Website	13
 Atribut Kualitas Perangkat Lunak	13
 Proses Bisnis	14
-Persyaratan Lainnya	14
+Persyaratan Lainnya
+
 
 
 
