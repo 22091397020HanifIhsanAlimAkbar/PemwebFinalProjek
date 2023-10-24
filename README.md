@@ -443,6 +443,31 @@ B. CSS
    - `scroll-behavior: smooth;`: Ini mengatur perilaku pengguliran (scrolling behavior) saat pengguna menggulir halaman. Nilai "smooth" memberikan efek animasi yang halus ketika halaman digulir, sehingga transisi antar bagian halaman menjadi lebih lancar.
    - `scroll-padding-top: 6rem;`: Ini mengatur jarak (padding) yang akan ditambahkan di atas elemen yang menjadi tujuan pengguliran saat menggunakan tautan navigasi dengan pengguliran halus. Dalam hal ini, jarak sebesar 6 rem (unit pengukuran berdasarkan ukuran font) ditambahkan di atas elemen tersebut. Ini memastikan bahwa elemen yang menjadi tujuan pengguliran akan muncul dengan jarak tertentu dari atas layar, sehingga kontennya tidak tersembunyi di bawah bilah navigasi.
 
+![image](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/121718997/869f4e5b-64ab-46bd-b28c-ef94bb408145)
+
+1. `.navbar`: Ini adalah selektor kelas CSS yang mengatur aturan gaya untuk elemen dengan kelas "navbar," yang mungkin digunakan untuk menggambarkan bagian navigasi halaman web.
+   - `display: flex;`: Ini mengubah elemen "navbar" menjadi elemen kontainer dengan tata letak fleksibel (flexbox), yang memudahkan pengaturan elemen-elemen di dalamnya dalam satu baris atau kolom.
+   - `align-items: center;`: Ini mengatur elemen-elemen di dalam "navbar" agar berada di tengah secara vertikal, sehingga kontennya terpusat di tengah.
+   - `padding: 15px;`: Ini memberikan padding sebesar 15 piksel di sekitar elemen "navbar," yang memberikan ruang antara isi "navbar" dan batasnya.
+   - `background: radial-gradient(#ffd6d6, #ffd6d6);`: Ini mengatur latar belakang elemen "navbar" sebagai latar belakang dengan efek gradien radial dari warna #ffd6d6 ke warna #ffd6d6. Gradien ini menciptakan latar belakang berwarna yang mungkin cocok dengan desain situs.
+   - `width: 93%;`: Ini mengatur lebar elemen "navbar" menjadi 93% dari lebar layar, sehingga elemen ini akan menjadi elemen yang agak lebih kecil dibandingkan dengan lebar layar.
+   - `top: 0;`: Ini mengatur elemen "navbar" berada di bagian atas halaman web (posisi paling atas).
+   - `z-index: 2;`: Ini mengatur tingkat z (z-index) elemen "navbar" menjadi 2, yang menentukan posisinya di atas elemen-elemen lain yang memiliki z-index lebih rendah.
+   - `position: fixed;`: Ini mengunci elemen "navbar" di tempatnya sehingga tetap terlihat saat pengguna menggulir halaman. Ini adalah ciri khas elemen navigasi yang selalu terlihat di atas halaman.
+2. `nav`: Ini adalah selektor elemen `<nav>`, yang mungkin digunakan untuk mengatur elemen navigasi di dalam "navbar."
+   - `flex: 1;`: Ini mengatur elemen "nav" agar mengambil sebagian ruang yang tersisa dalam elemen "navbar" dengan tata letak fleksibel.
+   - `text-align: right;`: Ini mengatur teks dalam elemen "nav" agar terletak di sebelah kanan elemen, sehingga elemen navigasi diarahkan ke kanan "navbar."
+3. `nav ul`: Ini adalah selektor untuk elemen daftar tak terurut (unordered list) di dalam elemen "nav."
+   - `float: right;`: Ini mengatur elemen daftar tak terurut agar berada di sebelah kanan elemen "nav."
+4. `nav ul li`: Ini adalah selektor untuk elemen-elemen daftar dalam elemen daftar tak terurut.
+   - `display: inline-block;`: Ini mengatur elemen-elemen daftar untuk ditampilkan dalam satu baris secara horizontal, sejajar.
+   - `margin-right: 20px;`: Ini memberikan margin sebesar 20 piksel di sebelah kanan setiap elemen daftar, memberikan ruang antara elemen-elemen daftar.
+5. `.navbar ul li a`: Ini adalah selektor kelas CSS yang mengatur aturan gaya untuk tautan (link) di dalam elemen daftar di "navbar."
+   - `padding: 20px 20px;`: Ini memberikan padding 20 piksel di atas dan bawah serta 20 piksel di kiri dan kanan untuk tautan, menciptakan area yang lebih besar yang dapat diklik oleh pengguna.
+6. `.navbar ul li a:hover`: Ini adalah selektor untuk tautan saat dihover (dihover adalah ketika kursor mouse berada di atas tautan).
+   - `background-color: #daeaf6;`: Ini mengubah latar belakang tautan menjadi warna #daeaf6 ketika tautan dihover.
+   - `color: #000000;`: Ini mengubah warna teks tautan menjadi hitam (#000000) ketika tautan dihover.
+
 
 
 A. Laman login
