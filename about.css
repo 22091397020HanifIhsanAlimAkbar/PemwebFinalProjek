@@ -22,6 +22,10 @@ nav ul li{
     display: inline-block;
     margin-right: 20px;
 }
+nav ul li{
+    display: inline-block;
+    margin-right: 20px;
+}
 .navbar ul li a {
     padding: 20px 20px;
     display: inline-block;
@@ -64,7 +68,7 @@ p{
 }
 
 .header{
-    background: radiSal-gradient(#fff, #ffd6d6);
+    background: radial-gradient(#fff, #ffd6d6);
 }
 .categories{
     margin: 70px 0;
