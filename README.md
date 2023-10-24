@@ -1137,5 +1137,59 @@ E) Product
 5) price: Ini adalah string yang menyimpan harga produk dalam format harga (misalnya, "30000" untuk Rp 30.000).
 6) image: Ini adalah string yang berisi alamat gambar yang digunakan untuk menampilkan gambar produk.
 
-   
+![js2](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/144761618/0b5968d0-4f6a-4c71-98d1-c68add4d7ffe)
 
+1) let cart = []: Ini adalah array yang digunakan untuk menyimpan produk yang telah ditambahkan ke keranjang belanja.
+
+2) let total = 0: Variabel ini digunakan untuk melacak total harga produk yang ada di keranjang. Awalnya, total diatur ke 0.
+
+3) function addToCart(product): Ini adalah fungsi yang digunakan untuk menambahkan produk ke keranjang. Produk yang ingin ditambahkan disediakan sebagai argumen product, dan fungsi ini memasukkannya ke dalam array cart. Setelah itu, fungsi updateCart() dipanggil untuk memperbarui tampilan keranjang.
+
+4) function removeFromCart(product): Fungsi ini digunakan untuk menghapus produk dari keranjang. Ini mencari indeks produk yang ingin dihapus dalam array cart dan menghapusnya jika ditemukan. Setelah itu, fungsi updateCart() juga dipanggil untuk memperbarui tampilan keranjang.
+
+5) function updateCart(): Fungsi ini bertanggung jawab untuk memperbarui tampilan keranjang. Ini melakukan beberapa hal berikut:
+
+Menghapus semua elemen anak dari elemen dengan ID "cart-items" untuk membersihkan tampilan keranjang.
+Menginisialisasi ulang total harga ke 0.
+Iterasi melalui produk dalam cart dan membuat elemen HTML untuk masing-masing produk yang menampilkan nama produk, harga dalam format Rupiah, dan tombol "Remove" untuk menghapus produk.
+Menghitung total harga dengan menambahkan harga produk ke total.
+Memperbarui elemen dengan ID "total-price-in-rupiah" dengan total harga dalam format Rupiah.
+function formatRupiah(angka): Ini adalah fungsi bantuan untuk mengonversi angka ke format mata uang Rupiah (Rp X,XXX,XXX). Ini mengambil angka sebagai argumen, membalikkan angka tersebut, memecahnya menjadi grup tiga digit, menambahkan titik sebagai pemisah ribuan, dan mengembalikan string dalam format Rupiah yang sesuai.
+
+![js3](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/144761618/27b67ec3-5844-4512-96fc-8865e027bd19)
+
+1) Mengatur Tombol Filter Aktif: Fungsi ini pertama-tama mencari semua elemen HTML dengan kelas .button-value (kemungkinan tombol filter) dan kemudian mengiterasinya menggunakan metode forEach. Untuk setiap tombol filter, fungsi memeriksa apakah teks tombol filter sama dengan value yang diberikan (dalam huruf besar) atau tidak. Jika sama, maka tombol filter diberi kelas active, yang biasanya digunakan untuk menandai tombol yang sedang aktif. Jika tidak sama, maka kelas active dihapus dari tombol tersebut, menunjukkan bahwa itu tidak aktif.
+
+2) Memfilter dan Menyembunyikan Produk: Setelah mengatur tombol filter yang aktif, fungsi ini mencari semua elemen HTML dengan kelas .card (kemungkinan elemen produk) dan juga mengiterasinya menggunakan metode forEach. Fungsi ini memeriksa nilai value. Jika nilai value adalah "all," maka semua produk harus ditampilkan, sehingga kelas .hide dihapus dari elemen produk (jika ada).
+
+3) Jika value bukan "all," maka fungsi memeriksa kelas elemen produk. Jika elemen produk memiliki kelas yang sesuai dengan nilai value, maka kelas .hide dihapus, sehingga produk tersebut ditampilkan. Jika tidak, maka kelas .hide ditambahkan, yang menyebabkan produk tersebut disembunyikan.
+
+4) Sebagai contoh, jika Anda ingin menampilkan hanya produk dalam kategori "Topwear," Anda dapat memanggil fungsi filterProduct("Topwear"). Ini akan mengaktifkan tombol filter "Topwear," menonaktifkan tombol filter lainnya, dan hanya menampilkan produk yang termasuk dalam kategori "Topwear."
+
+![js4](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/144761618/cbdae638-7965-4466-913b-ec9d383f6b89)
+   
+1) Event Listener untuk Tombol Pencarian ("Search"):
+
+Mendengarkan klik pada tombol pencarian dengan id "search".
+Ketika tombol pencarian diklik, kode ini mencari nilai yang dimasukkan dalam elemen input dengan id "search-input".
+Kemudian, kode mencari elemen-elemen produk dengan kelas "product-name" dan mengelompokkannya dalam variabel elements.
+Untuk setiap elemen, kode memeriksa apakah teks dalam elemen tersebut mengandung teks pencarian yang telah dimasukkan (dalam huruf besar).
+Jika teksnya cocok, elemen tersebut tetap ditampilkan; jika tidak, elemen tersebut diberi kelas "hide" untuk menyembunyikannya.
+Fungsi toggleCart():
+
+2) Fungsi ini digunakan untuk menampilkan atau menyembunyikan sidebar keranjang belanja. Jika sidebar keranjang sudah terbuka, fungsi akan menyembunyikannya, dan sebaliknya.
+Event Listener untuk Tombol "Cart" di Navbar:
+
+3) Mendengarkan klik pada ikon keranjang di navbar.
+Ketika ikon keranjang diklik, fungsi toggleCart() dipanggil untuk membuka atau menutup sidebar keranjang.
+Event window.onload:
+
+4) Ketika halaman web dimuat, ini memanggil fungsi filterProduct("all"). Ini berguna untuk menampilkan semua produk ketika halaman pertama kali dimuat.
+Generate Product Cards:
+
+5) Kode ini iterasi melalui data produk dalam objek products. Untuk setiap produk, itu membuat elemen-elemen HTML yang mewakili kartu produk. Ini termasuk gambar produk, ikon "Tambah ke Keranjang," nama produk, dan harga.
+Ini juga menambahkan kelas-kelas sesuai dengan kategori produk dan memberikan kelas "hide" pada awalnya, sehingga kartu produknya disembunyikan.
+Fungsi checkout():
+
+6) Ini digunakan untuk menangani tindakan "Check Out." Pada contoh ini, hanya muncul pesan peringatan yang menyatakan terima kasih atas pembelian, tetapi dalam pengembangan lebih lanjut, Anda dapat menyimpan pesanan pelanggan ke server atau melakukan tindakan lain yang sesuai.
+Setelah "Check Out," keranjang dibersihkan dan tampilan keranjang diperbarui dengan memanggil fungsi updateCart().
