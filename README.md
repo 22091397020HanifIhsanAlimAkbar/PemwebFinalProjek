@@ -1558,3 +1558,22 @@ b) body
    - `margin: 25px 0;`: Ini mengatur margin sebesar 25 piksel di atas dan bawah elemen berjudul. Ini memberikan ruang di atas dan di bawah teks judul.
 
 
+![image](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/121718997/2fa8e418-0104-4781-9460-7b668a14eb4f)
+
+1. `.header`: Ini adalah pemilih CSS yang menargetkan elemen dengan kelas "header."
+   - `background: radiSal-gradient(#fff, #ffd6d6);`: Ini mengatur latar belakang elemen dengan kelas "header" menggunakan gradient radial. Gradient ini berubah dari putih (#fff) di tengah ke merah muda (#ffd6d6) di luar. Ini menciptakan efek latar belakang yang menarik pada elemen "header."
+2. `.categories`: Ini adalah pemilih CSS yang menargetkan elemen dengan kelas "categories."
+   - `margin: 70px 0;`: Ini memberikan margin sebesar 70 piksel di atas dan di bawah elemen dengan kelas "categories." Ini memberikan ruang di atas dan di bawah elemen ini dalam halaman web.
+3. `.col-3`: Ini adalah pemilih CSS yang menargetkan elemen dengan kelas "col-3."
+   - `flex-basis: 30%;`: Ini mengatur lebar dasar elemen dengan kelas "col-3" menjadi 30% dari lebar container induknya.
+   - `min-width: 250px;`: Ini menetapkan lebar minimum elemen dengan kelas "col-3" menjadi 250 piksel. Ini memastikan bahwa elemen ini tidak akan lebih sempit dari 250 piksel.
+   - `margin-bottom: 30px;`: Ini memberikan margin sebesar 30 piksel di bawah elemen "col-3." Ini menciptakan jarak vertikal antara elemen "col-3."
+4. `.col-3 img`: Ini adalah pemilih CSS yang menargetkan gambar yang berada di dalam elemen dengan kelas "col-3."
+   - `width: 100%;`: Ini mengatur lebar gambar agar mencapai 100% lebar elemen "col-3." Ini memastikan gambar mengisi elemen sepenuhnya.
+   - `border-radius: 100%;`: Ini mengatur sudut-sudut gambar sehingga menjadi bulat. Ini menciptakan efek gambar bulat.
+   - `filter: grayscale(100%);`: Ini menerapkan efek grayscale (skala abu-abu) pada gambar dengan tingkat 100%. Ini mengubah gambar menjadi hitam-putih saat elemen "col-3" dimuat.
+5. `.col-3:hover img`: Ini adalah pemilih CSS yang mengatur tampilan gambar ketika pengguna mengarahkan kursor mouse ke elemen "col-3."
+   - `filter: grayscale(0);`: Saat pengguna mengarahkan kursor ke elemen "col-3," filter grayscale dihapus, sehingga gambar menjadi berwarna. Ini menciptakan efek interaktif yang mengubah gambar dari hitam-putih menjadi berwarna saat dihover.
+6. `.col-3 h2`: Ini adalah pemilih CSS yang menargetkan elemen-elemen judul (heading) h2 dalam elemen dengan kelas "col-3."
+   - `text-align: center;`: Ini mengatur teks dalam elemen h2 agar menjadi pusat (teks rata tengah). Ini mengubah tata letak teks ke pusat dalam elemen "col-3."
+
