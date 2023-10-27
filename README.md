@@ -14,7 +14,8 @@
 ## Daftar Isi
 - [Bab 1. Pendahuluan](#Bab-1-Pendahuluan)
 - [1.1 Tujuan Penulisan Dokumen](#11-Tujuan-Penulisan-Dokumen)
-
+## Bab 1. Pendahuluan
+## 1.1 Tujuan Penulisan Dokumen
 1. Pengantar
    1.1 Tujuan
    1.2 Konvensi Dokumen
