@@ -1,4 +1,15 @@
-![image](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/124480469/4bb7faea-117a-449d-a9d6-8721369e61d6)
+<div align="center">
+  <h1>	Software Requirements Specification </h1>
+  <h1>	Snack Sales Platform for College Students </h1>
+  <h2>	Versi 1.0 Disetujui </h2>
+  <h2>	Disusun Oleh : </h2>
+
+  <p>	22091397019 - Ihda Anisa Ulfa </p>
+  <p>	22091397020 - Hanif Ihsan Alim Akbar  </p>
+  <p>	22091397030 - Nurissa’idah </p>
+
+<p>	02/10/2023 </p>
+</div>
 
 Daftar Isi
 1. Pengantar
