@@ -54,8 +54,9 @@ Nama
 Tanggal
 Alasan Perubahan
 Versi
+
 ## Bab 1. Pendahuluan
-## 1.1 Tujuan Penulisan Dokumen
+## 1.1 Tujuan 
 
 
 Tujuan pembuatan website Fashion Pria dan Wanita ( Hasaris store ) antara lain :
@@ -65,6 +66,7 @@ Dapat memfasilitasi pemilik toko dalam memasarkan dan mempromosikan  produk fash
 Mempermudah dan memperlancar proses transaksi jual beli karena penjual dan pembeli tidak harus bertemu langsung untuk melakukan transaksi.
 Menyediakan informasi yang bermanfaat bagi pembeli dalam mencari produk produk yang dibutuhkan. 
 
+## 1.2 Konvensi Dokumen
 Konvensi Dokumen
 
 Website yang akan dikembangkan adalah website untuk e-commerce fashion yang dapat digunakan oleh para kaum pria dan wanita untuk mencari, menemukan, dan membeli barang kebutuhan busana dan aksesoris pria dan wanita secara mudah dan efisien. Hasaris store dapat melakukan hal-hal berikut ini :
