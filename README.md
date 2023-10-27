@@ -12,9 +12,13 @@
 </div>
 
 ## Daftar Isi
-- [Bab 1. Pendahuluan](#Bab-1-Pendahuluan)
+- [Bab 1. Pengantar](#Bab-1-Pengantar)
 - [1.1 Tujuan ](#11-Tujuan)
 - [1.2 Konvensi Dokumen](#12-Konvensi-Dokumen)
+- [1.2 Konvensi Dokumen](#12-Konvensi-Dokumen)
+- [1.2 Konvensi Dokumen](#12-Konvensi-Dokumen)
+- [1.2 Konvensi Dokumen](#12-Konvensi-Dokumen)
+- [Bab 1. Pendahuluan](#Bab-1-Pendahuluan)
 1. Pengantar
    1.1 Tujuan
    1.2 Konvensi Dokumen
