@@ -54,7 +54,7 @@ Tanggal
 Alasan Perubahan
 Versi
 <div align="center">
-## Bab 1. Pengantar
+<h1> Bab 1. Pengantar </h1>
 </div>
 ## 1.1 Tujuan 
 
