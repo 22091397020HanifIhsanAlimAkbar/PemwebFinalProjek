@@ -10,9 +10,8 @@
 
 <p>	02/10/2023 </p>
 </div>
-<div align="center">
- Daftar Isi
-</div>
+                                  ##Daftar Isi
+
 - [Bab 1. Pengantar](#Bab-1-Pengantar)
 - [1.1 Tujuan ](#11-Tujuan)
 - [1.2 Konvensi Dokumen](#12-Konvensi-Dokumen)
