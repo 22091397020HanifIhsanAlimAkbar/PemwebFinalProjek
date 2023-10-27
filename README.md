@@ -14,8 +14,7 @@
 ## Daftar Isi
 - [Bab 1. Pendahuluan](#Bab-1-Pendahuluan)
 - [1.1 Tujuan Penulisan Dokumen](#11-Tujuan-Penulisan-Dokumen)
-## Bab 1. Pendahuluan
-## 1.1 Tujuan Penulisan Dokumen
+
 1. Pengantar
    1.1 Tujuan
    1.2 Konvensi Dokumen
@@ -76,8 +75,8 @@ Versi
 
 
 Pengantar
-
-Tujuan
+## Bab 1. Pengantar
+## 1.1 Tujuan Penulisan Dokumen
 
 Tujuan pembuatan website Fashion Pria dan Wanita ( Hasaris store ) antara lain :
 Menghasilkan sebuah website untuk pengguna yang sedang mencari barang kebutuhan fashion Pria dan Wanita dan memudahkan pemilik toko Hasaris untuk memasarkan dan mempromosikan barang toko kebutuhan fashion pria dan wanita.
