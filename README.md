@@ -1,6 +1,6 @@
 <div align="center">
   <h1>	Software Requirements Specification </h1>
-  <h1>	Snack Sales Platform for College Students </h1>
+  <h1>	Website HasarisStore (Fashion) </h1>
   <h2>	Versi 1.0 Disetujui </h2>
   <h2>	Disusun Oleh : </h2>
 
