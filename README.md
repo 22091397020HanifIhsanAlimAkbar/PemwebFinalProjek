@@ -11,7 +11,10 @@
 <p>	02/10/2023 </p>
 </div>
 
-Daftar Isi
+## Daftar Isi
+- [Bab 1. Pendahuluan](#Bab-1-Pendahuluan)
+- [1.1 Tujuan Penulisan Dokumen](#11-Tujuan-Penulisan-Dokumen)
+
 1. Pengantar
    1.1 Tujuan
    1.2 Konvensi Dokumen
