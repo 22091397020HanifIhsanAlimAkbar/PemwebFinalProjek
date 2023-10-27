@@ -53,10 +53,8 @@ Nama
 Tanggal
 Alasan Perubahan
 Versi
-<div align="center">
-<h1> Bab 1. Pengantar </h1>
-</div>
-## 1.1 Tujuan
+## Bab 1. Pendahuluan
+## 1.1 Tujuan Penulisan Dokumen
 
 
 Tujuan pembuatan website Fashion Pria dan Wanita ( Hasaris store ) antara lain :
