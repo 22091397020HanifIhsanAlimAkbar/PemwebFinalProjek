@@ -20,16 +20,9 @@
 - [1.5 Referensi](#15-Referensi)
 - [Bab 2. Deskripsi Keseluruhan](#Bab-2-Deskripsi-Keseluruhan)
 - [2.1 Perspektif Produki](#21-Perspektif-Produk)
-1. Pengantar
-   1.1 Tujuan
-   1.2 Konvensi Dokumen
-   1.3 Audiens Yang Dituju
-   1.4 Lingkup Produk
-   1.5 Referensi
-2. Deskripsi Keseluruhan
-   2.1 Perspektif Produk
-   2.2 Fungsi Produk
-   2.3 Kelas dan Karakteristik Pengguna	3
+- [2.2 Fungsi Produk](#22-Fungsi-Produk)
+- [2.3 Kelas dan Karakteristik Pengguna	3](#23-Kelas-dan-Karakteristik-Pengguna-3)
+
 Lingkungan Pengembangan	4
 Kendala Desain dan Implementasi	4
 Dokumentasi Pengguna	4
