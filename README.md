@@ -119,19 +119,19 @@ Widyahardh. Pengertian E – Commerce
 2014. DOKUMEN SPESIFIKASI KEBUTUHAN PERANGKAT LUNAK : Taking Order Application for Sales (TOAS) untuk PT Fashion Eservice Indonesia. Universitas Negeri Malang.
 	2012. Seminar Nasional Teknologi Informasi & Komunikasi Terapan 2012 	(Semantik 2012) : DOKUMENTASI SEBAGAI BAGIAN DARI 		PERANGKAT LUNAK 
 
-Deskripsi Keseluruhan
+## Bab 2. Deskripsi Keseluruhan
 
-Perspektif Produk
+## 2.1 Perspektif Produk
 
 Sudah banyak website sejenis ini akan tetapi Hasaris store memiliki banyak penunjang di dalamnya seperti peningkatan keamanan bagi penggunanya, responsif terhadap berbagai perangkat, waktu muat yang cepat dan kinerja yang lancar, Desain visual dan estetika website yang menarik dan mencerminkan merek Hasaris store serta tampilan yang memudahkan para penggunanya. Website lain tidak memiliki keunggulan seperti yang dimiliki oleh Hasaris store ini, dimana website lain kebanyakan tampilannya membosankan dan tidak user friendly. koleksi produk hasaris store sangat beragam dan selaras dengan tren fashion terkini. Maka dari itu website Hasaris store ini dibuat agar dapat menciptakan suasana baru untuk website jual beli barang fashion serta pelanggan toko Hasaris.
 
-Fungsi Produk
+## 2.2 Fungsi Produk
 
 Seperti yang sudah dijelaskan sebelumnya banyak bisnis yang tidak hanya bergantung pada website E-commerce besar di Indonesia. Para penjual juga membutuhkan website E-commerce sendiri. Seperti Hasaris store memiliki fungsi utama yaitu menjual dan mempromosikan produk barang Fashion dengan jauh lebih mudah.
 
 Dengan kendali penuh, maka bisnis yang akan dijalankan juga bisa lebih dikenal dan mampu menarik minat konsumen. Website Hasaris store dibuat secara user friendly agar mempermudah dalam meningkatkan pengalaman berkunjung pengguna.
 
-Kelas dan Karakteristik Pengguna
+## 2.3 Kelas dan Karakteristik Pengguna
 
 Website Hasaris store memiliki beberapa tingkatan hak akses untuk setiap penggunanya antara lain :
 Customer : Hak akses untuk pembeli
