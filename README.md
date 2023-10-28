@@ -182,14 +182,14 @@ Sistem informasi berbasis website ini dapat diakses jika terdapat koneksi intern
 Catatan produk akan diantar apabila customer mempersetujui harga ongkir sesuai dengan pihak ketiga yaitu perusahaan jasa pengantaran.
 Pembayaran sudah terintegrasi dengan beberapa pihak
 
-Persyaratan Antarmuka
+## Bab 3. Persyaratan Antarmuka
 
-Antarmuka Pengguna
+## 3.1 Antarmuka Pengguna
 
 Hasaris Store mengusung konsep desain yang ramah untuk digunakan oleh pengguna. Navigasinya cukup mudah dan pengguna tidak akan kesulitan dalam berpindah halaman. Warna dibuat agar tidak norak dan dibuat agar nyaman dimata.
 
 
-Antarmuka Perangkat Keras
+## 3.2 Antarmuka Perangkat Keras
 
 Adapun antarmuka perangkat keras yang digunakan untuk mengakses website Hasaris store antara lain:
 Smartphone : Hardware untuk mengakses situs Hasaris store.
@@ -199,7 +199,7 @@ Mouse / trackpad : Untuk mempermudah navigasi pengguna.
 Hasaris Store mengusung konsep desain yang ramah untuk digunakan oleh pengguna. Navigasinya cukup mudah dan pengguna tidak akan kesulitan dalam berpindah halaman. Warna dibuat agar tidak norak dan dibuat agar nyaman dimata.
 
 
-Antarmuka Perangkat Lunak
+## 3.3 Antarmuka Perangkat Lunak
 Tampilan Beranda
 
 ![image](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/144761618/0824b22b-63bd-4733-a245-71dd62c33bec)
@@ -266,7 +266,7 @@ Tampilan Contact
 ![Screenshot (88)](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/144761618/5df87ed2-097b-4ba8-b315-4306664e3cdc)
 
 
-Antarmuka Komunikasi
+## 3.4 Antarmuka Komunikasi
 
 Website Hasaris store ini membutuhkan laptop atau smartphone yang terhubung ke jaringan internet. TCP/IP digunakan sebagai standar komunikasi data yang dipakai dalam proses tukar menukar data antar perangkat yang terhubung dalam jaringan.
 Fitur Sistem
