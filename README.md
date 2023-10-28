@@ -121,8 +121,12 @@ Dokumen ini merujuk pada hasil observasi yang berkaitan dengan kebutuhan dan men
 Widyahardh. Pengertian E – Commerce
 2014. DOKUMEN SPESIFIKASI KEBUTUHAN PERANGKAT LUNAK : Taking Order Application for Sales (TOAS) untuk PT Fashion Eservice Indonesia. Universitas Negeri Malang.
 	2012. Seminar Nasional Teknologi Informasi & Komunikasi Terapan 2012 	(Semantik 2012) : DOKUMENTASI SEBAGAI BAGIAN DARI 		PERANGKAT LUNAK 
+<div align="center">
 
 ## Bab 2. Deskripsi Keseluruhan
+
+</div>
+
 
 ## 2.1 Perspektif Produk
 
@@ -186,7 +190,12 @@ Sistem informasi berbasis website ini dapat diakses jika terdapat koneksi intern
 Catatan produk akan diantar apabila customer mempersetujui harga ongkir sesuai dengan pihak ketiga yaitu perusahaan jasa pengantaran.
 Pembayaran sudah terintegrasi dengan beberapa pihak
 
+<div align="center">
+	
 ## Bab 3. Persyaratan Antarmuka
+
+</div>
+
 
 ## 3.1 Antarmuka Pengguna
 
@@ -204,6 +213,7 @@ Hasaris Store mengusung konsep desain yang ramah untuk digunakan oleh pengguna. 
 
 
 ## 3.3 Antarmuka Perangkat Lunak
+
 Tampilan Beranda
 
 ![image](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/144761618/0824b22b-63bd-4733-a245-71dd62c33bec)
@@ -275,7 +285,12 @@ Tampilan Contact
 Website Hasaris store ini membutuhkan laptop atau smartphone yang terhubung ke jaringan internet. TCP/IP digunakan sebagai standar komunikasi data yang dipakai dalam proses tukar menukar data antar perangkat yang terhubung dalam jaringan.
 Fitur Sistem
 
+<div align="center">
+
 ## Bab 4.Fitur Sistem
+
+</div>
+
 
 ## 4.1 Deskripsi dan Prioritas
 
@@ -306,7 +321,12 @@ Fitur search 	: Mencari produk yang diinginkan
 
 ![image](https://github.com/hanifmhsunesa/PemwebFinalProjek/assets/124480469/1c4043c6-1c88-4f0c-8478-562ed6a1d4fd)
 
+<div align="center">
+
 ## Bab 5. Persyaratan Fungsional Lainnya
+
+</div>
+
 
 ## 5.1 Persyaratan Performa
 
