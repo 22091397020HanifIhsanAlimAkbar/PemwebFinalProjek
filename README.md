@@ -11,7 +11,9 @@
 <p>	02/10/2023 </p>
 </div>
 <div align="center">
+	
 ## Daftar Isi
+
 </div>
 
 - [Bab 1. Pengantar](#Bab-1-Pengantar)
