@@ -271,7 +271,10 @@ Tampilan Contact
 Website Hasaris store ini membutuhkan laptop atau smartphone yang terhubung ke jaringan internet. TCP/IP digunakan sebagai standar komunikasi data yang dipakai dalam proses tukar menukar data antar perangkat yang terhubung dalam jaringan.
 Fitur Sistem
 
-Deskripsi dan Prioritas
+## Bab 4.Fitur Sistem
+
+## 4.1 Deskripsi dan Prioritas
+
 Fitur Fitur Menu Beranda
 Fitur menu beranda merupakan fitur utama pada Website Hasaris store. Dengan fitur ini, customer dapat melihat beberapa tampilan, seperti rekomendasi produk paling laris dan produk terfavorit. Pada tampilan beranda juga ada beberapa pilihan kategori untuk customer.
 Fitur Menu Produk
@@ -284,14 +287,8 @@ Fitur Menu Login
 Fitur menu login merupakan proses customer untuk mendapatkan hak akses.Dengan adanya fitur ini, customer dapat menggunakan hak akses lebih optimal.
 
 
+## 4.2 Fitur Sistem
 
-
-
-
-
-
-
-Fitur Sistem
 Login	: Masuk ke sistem Hasaris store jika sudah mendaftar.
 Daftar	: Membuat akun jika belum mempunyai.
 Dashboard	: Halaman yang bisa diakses oleh penjual atau admin untuk mengelola produk dan data transaksi.
@@ -301,11 +298,11 @@ Tambah produk	: Fitur Admin Hasaris store untuk menambahkan produknya.
 Transaksi	: Melihat data transaksi pembeli 
 Fitur search 	: Mencari produk yang diinginkan
 
-Persyaratan Fungsional
+## 4.3 Persyaratan Fungsional
 
 ![image](https://github.com/hanifmhsunesa/PemwebFinalProjek/assets/124480469/1c4043c6-1c88-4f0c-8478-562ed6a1d4fd)
 
-Persyaratan Fungsional Lainnya
+## Bab 5. Persyaratan Fungsional Lainnya
 
 Persyaratan Performa
 
