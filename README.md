@@ -345,7 +345,7 @@ Website sudah menggunakan domain.com dan SSL sebagai sertifikasi keamanan websit
 
 
 
-Persyaratan Lainnya
+## Bab 6. Persyaratan Lainnya
 
 Lampiran A : Glosarium
 
