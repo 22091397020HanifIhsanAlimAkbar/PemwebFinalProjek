@@ -93,17 +93,6 @@ Admin dapat mengirim data transaksi kepada pembeli.
 Admin dapat menambah dan menghapus user.
 Admin dapat melihat detail pesanan pembeli.
 
-
-
-
-
-
-
-
-
-
-
-
 ## 1.3	Audiens Yang Dituju
 
 Dokumen ini ditujukan untuk pengembang website e-commerce Business-to-Consumer (B2C) Hasaris store. SRS ini, dibagi menjadi beberapa bagian, antara lain :
