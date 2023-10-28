@@ -66,8 +66,12 @@ Nama
 Tanggal
 Alasan Perubahan
 Versi
+<div align="center">
 
 ## Bab 1. Pendahuluan
+
+</div>
+
 ## 1.1 Tujuan 
 
 
