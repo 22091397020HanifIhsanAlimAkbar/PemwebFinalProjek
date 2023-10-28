@@ -93,7 +93,7 @@ Admin dapat mengirim data transaksi kepada pembeli.
 Admin dapat menambah dan menghapus user.
 Admin dapat melihat detail pesanan pembeli.
 
-## 1.3	Audiens Yang Dituju
+## 1.3 Audiens Yang Dituju
 
 Dokumen ini ditujukan untuk pengembang website e-commerce Business-to-Consumer (B2C) Hasaris store. SRS ini, dibagi menjadi beberapa bagian, antara lain :
 Pengembang website yang ingin mencari referensi mengenai sistem e- commerce Business-to-Consumer (B2C).
@@ -110,7 +110,7 @@ Tas
 Aksesoris wanita dan pria
 Meskipun cakupan dari website Hasaris store ini cukup luas, namun, dapat membantu toko Hasaris membangun identitas merek yang kuat dan mengaitkannya dengan gaya, kualitas, dan kepercayaan diri dalam berpakaian untuk pria dan wanita. Ini membuat merek menjadi lebih mudah dikenali dan diingat oleh pelanggan.
 
-## 1.5.  Referensi
+## 1.5. Referensi
 
 Dokumen ini merujuk pada hasil observasi yang berkaitan dengan kebutuhan dan mencakup data secara umum, diperlukannya dan penulis dokumen berdasarkan pada :
 2021. Apa itu E-commerce? Berikut Pengertian, Jenis, serta Manfaatnya!
