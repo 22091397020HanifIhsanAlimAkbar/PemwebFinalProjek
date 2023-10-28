@@ -34,7 +34,7 @@
 
 - [2.2 Fungsi Produk](#22-Fungsi-Produk)
 
-- [2.3 Kelas dan Karakteristik Pengguna	3](#23-Kelas-dan-Karakteristik-Pengguna)
+- [2.3 Kelas dan Karakteristik Pengguna](#23-Kelas-dan-Karakteristik-Pengguna)
 
 Lingkungan Pengembangan	4
 Kendala Desain dan Implementasi	4
