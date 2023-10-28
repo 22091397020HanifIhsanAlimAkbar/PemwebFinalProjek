@@ -139,7 +139,7 @@ Karakteristik pengguna :
 Customer : Dapat login dan melakukan transaksi jual beli seperti memasukan produk ke keranjang dan melakukan checkout. 
 Seller / admin : Dapat mengakses halaman dashboard penjual yang berguna untuk mengupload produk yang ingin dijual dan melihat transaksi barang apa saja yang sudah di checkout customer dan dapat mengontrol semua hak akses pengguna.
 
-Lingkungan Pengembangan
+## 2.4 Lingkungan Pengembangan
 
 Website Hasaris store memiliki beberapa teknologi yang dipakai untuk mengembangkan website ini, antara lain :
 Bahasa Pemrograman
@@ -149,12 +149,12 @@ Javascript
 Software Pengembangan
 VSCode : Software Pemrograman
 
-Kendala Desain dan Implementasi
+## 2.5 Kendala Desain dan Implementasi
 
 Halangan atau tantangan dari website ini adalah perlu menggunakan jaringan internet 	untuk mengakses website ini, apabila tidak ada jaringan internet maka website ini 
 tidak akan bekerja.
 
-Dokumentasi Pengguna
+## 2.6 Dokumentasi Pengguna
 
 SRS ini dibagi menjadi beberapa bagian, yaitu :
 Pendahuluan yang berisi gambaran umum dari seluruh dokumen SRS. Pendahuluan SRS berisikan bagian-bagian berikut:
@@ -171,7 +171,8 @@ Fungsi Produk berisi fungsi utama dari perangkat lunak.
 Kebutuhan Non Fungsional berisi bagian yang menspesifikasikan ukuran kuantitatif yang harus dipenuhi perangkat lunak.
 
 
-Asumsi dan Dependensi
+## 2.7 Asumsi dan Dependensi
+
 Asumsi:
 Admin memiliki otoritas penuh dalam pendataan barang dan pengolahan orderan dari customer.
 Admin harus mengetahui riset produk dan deskripsinya.
