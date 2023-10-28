@@ -304,21 +304,22 @@ Fitur search 	: Mencari produk yang diinginkan
 
 ## Bab 5. Persyaratan Fungsional Lainnya
 
-Persyaratan Performa
+## 5.1 Persyaratan Performa
 
 Persyaratan hardware dan software :
 Minimum windows 7 atau lebih
 Google chrome atau browser versi terbaru
 Akses internet
 
-Persyaratan Keamanan Pengguna
+## 5.2 Persyaratan Keamanan Pengguna
 
 Data diri dan password pengguna terjamin keamanannya karena tidak bisa diakses oleh sembarang orang dan password sudah di enkripsi.
-Persyaratan Keamanan Website
+
+## 5.3 Persyaratan Keamanan Website
 
 Website sudah menggunakan domain.com dan SSL sebagai sertifikasi keamanan website agar tidak mudah diretas oleh pihak yang tidak bertanggung jawab.
 
-Proses Bisnis
+## 5.5 Proses Bisnis
 
 Dari banyaknya jenis proses bisnis yang ada, aktivitas transaksi antara penjual dan pembeli merupakan salah satu hal dasar yang harus dipahami.
 
