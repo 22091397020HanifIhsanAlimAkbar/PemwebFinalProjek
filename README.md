@@ -367,9 +367,13 @@ Persyaratan Keamanan Website
 
 Website sudah menggunakan domain.com dan SSL sebagai sertifikasi keamanan website agar tidak mudah diretas oleh pihak yang tidak bertanggung jawab.
 
-
-
+<div align="center">
+	
 ## Bab 6. Persyaratan Lainnya
+
+</div>
+
+
 
 Lampiran A : Glosarium
 
