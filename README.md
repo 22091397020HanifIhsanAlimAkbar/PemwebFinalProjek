@@ -79,7 +79,6 @@ Mempermudah dan memperlancar proses transaksi jual beli karena penjual dan pembe
 Menyediakan informasi yang bermanfaat bagi pembeli dalam mencari produk produk yang dibutuhkan. 
 
 ## 1.2 Konvensi Dokumen
-Konvensi Dokumen
 
 Website yang akan dikembangkan adalah website untuk e-commerce fashion yang dapat digunakan oleh para kaum pria dan wanita untuk mencari, menemukan, dan membeli barang kebutuhan busana dan aksesoris pria dan wanita secara mudah dan efisien. Hasaris store dapat melakukan hal-hal berikut ini :
 Pembeli dapat mencari dan memilih barang.
