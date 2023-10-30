@@ -1260,8 +1260,8 @@ E) Product
 
 - 'ul': adalah elemen daftar tak terurut (unordered list) yang berisi item-item menu navigasi.
 
-- '<li><a href="halaman_kedua.html">Home</a></li>': adalah item menu "Home" yang mengandung tautan (link) ke halaman "halaman_kedua.html."
-- '<li><a href="product.html">Products</a></li>': adalah item menu "Products" yang mengandung tautan ke halaman "product.html."
+- '(li)(a href="halaman_kedua.html")Home(/a)(/li)': adalah item menu "Home" yang mengandung tautan (link) ke halaman "halaman_kedua.html."
+- '(li)(a href="product.html")Products(/a)(/li)': adalah item menu "Products" yang mengandung tautan ke halaman "product.html."
 '<li><a href="about.html">About</a></li>': adalah item menu "About" yang mengandung tautan ke halaman "about.html."
 '<li><a href="contact.html">Contact</a></li>': Ini adalah item menu "Contact" yang mengandung tautan ke halaman "contact.html."
 '<a id="cart-icon" href="#cart"><img src="images/cart.png" width="30px" height="30px" alt="cart"></a>': adalah gambar ikon keranjang belanja yang berfungsi sebagai tautan ke elemen dengan id "cart."
