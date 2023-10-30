@@ -60,17 +60,17 @@
 
 - [4.2 Fitur Sistem](#42-Fitur-Sistem)
 
-- [4.3 Persyaratan Fungsional](#43-Persyaratan-Fungsional
+- [4.3 Persyaratan Fungsional](#43-Persyaratan-Fungsional}
 
-- [Bab 5. Persyaratan Antarmuka](#Bab-3-Persyaratan-Antarmuka)
+- [Bab 5. Persyaratan Fungsional Lainnya](#Bab-5-Persyaratan-Fungsional-Lainnya)
 
-- [3.4 Antarmuka Komunikasi](#34-Antarmuka-Komunikasi)
+- [5.1 Persyaratan Performa](#51-Persyaratan-Performa)
 
-- [3.4 Antarmuka Komunikasi](#34-Antarmuka-Komunikasi)
+- [5.2 Persyaratan Keamanan Pengguna](#52-Persyaratan-Keamanan-Pengguna)
 
-- [3.4 Antarmuka Komunikasi](#34-Antarmuka-Komunikasi)
+- [5.3 Persyaratan Keamanan Website](#53-Persyaratan=Keamanan-Website)
 
-- [3.4 Antarmuka Komunikasi](#34-Antarmuka-Komunikasi)
+- [5.4 Atribut Kualitas Perangkat Lunak](#54-Atribut-Kualitas-Perangkat-Lunak)
 
 
 Persyaratan Fungsional	12
