@@ -76,8 +76,8 @@
 
 | Nama          | Tanggal          | Alasan Perubahan        | Versi        |
 |-------------------------------|----------------|-----------------------------|----------------------------------------|
-|User/ Mahasiswa(Penjual Produk)|Jual produk, tambahkan gambar produk, tetapkan harga produk|Registrasi, login, cek produk terjual|Mengisi data registrasi yang sesuai|
-|)||||
+|||||
+|||||
 
 
 <div align="center">
