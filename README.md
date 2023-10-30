@@ -74,17 +74,12 @@
 
 - [Bab 6. Persyaratan Lainnya](#Bab-6-Persyaratan-Lainnya)
 
-Persyaratan Lainnya
+| Nama          | Tanggal          | Alasan Perubahan        | Versi        |
+|-------------------------------|----------------|-----------------------------|----------------------------------------|
+|User/ Mahasiswa(Penjual Produk)|Jual produk, tambahkan gambar produk, tetapkan harga produk|Registrasi, login, cek produk terjual|Mengisi data registrasi yang sesuai|
+|)||||
 
 
-
-
-Riwayat Perubahan
-
-Nama
-Tanggal
-Alasan Perubahan
-Versi
 <div align="center">
 
 ## Bab 1. Pendahuluan
