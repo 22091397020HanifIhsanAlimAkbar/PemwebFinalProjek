@@ -54,15 +54,15 @@
 
 - [3.4 Antarmuka Komunikasi](#34-Antarmuka-Komunikasi)
 
-- [Bab 3. Persyaratan Antarmuka	](#Bab-3-Persyaratan-Antarmuka)
+- [Bab 4. Fitur Sistem](#Bab-4-Fitur-Sistem)
 
-- [3.4 Antarmuka Komunikasi](#34-Antarmuka-Komunikasi)
+- [4.1 Deskripsi dan Prioritas](#41-Deskripsi-dan-Prioritas)
 
-- [3.4 Antarmuka Komunikasi](#34-Antarmuka-Komunikasi)
+- [4.2 Fitur Sistem](#42-Fitur-Sistem)
 
-- [3.4 Antarmuka Komunikasi](#34-Antarmuka-Komunikasi)
+- [4.3 Persyaratan Fungsional](#43-Persyaratan-Fungsional
 
-- [Bab 3. Persyaratan Antarmuka	](#Bab-3-Persyaratan-Antarmuka)
+- [Bab 5. Persyaratan Antarmuka](#Bab-3-Persyaratan-Antarmuka)
 
 - [3.4 Antarmuka Komunikasi](#34-Antarmuka-Komunikasi)
 
