@@ -36,10 +36,15 @@
 
 - [2.3 Kelas dan Karakteristik Pengguna](#23-Kelas-dan-Karakteristik-Pengguna)
 
-Lingkungan Pengembangan	4
-Kendala Desain dan Implementasi	4
-Dokumentasi Pengguna	4
-Asumsi dan Dependensi	5
+- [2.4 Lingkungan Pengembangan](#24-Lingkungan-Pengembangan)
+
+- [2.5 Kendala Desain dan Implementasi](#25-Kendala-Desain-dan-Implementasi)
+
+- [2.6 Dokumentasi Pengguna](#26-Dokumentasi-Pengguna)
+
+- [2.7 Asumsi dan Dependensi](#27-Asumsi-dan-Dependensi)
+
+
 Persyaratan Antarmuka	6
 Antarmuka Pengguna	6
 Antarmuka Perangkat Keras	6
