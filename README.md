@@ -1234,7 +1234,7 @@ E) Product
   ![contact1](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/144761618/ad4f2e3c-9cd2-4793-9de1-2ebc2de0e7d1)
 
 
-1) <!DOCTYPE html>: Ini adalah deklarasi dokumen (document type declaration) yang menentukan jenis dokumen HTML yang digunakan, dalam hal ini, HTML versi 5.
+1) '<!DOCTYPE html>': Ini adalah deklarasi dokumen (document type declaration) yang menentukan jenis dokumen HTML yang digunakan, dalam hal ini, HTML versi 5.
 
 2) <html lang="en">: Ini adalah tag pembuka untuk elemen HTML. lang atributnya mengidentifikasi bahasa yang digunakan dalam dokumen. Dalam hal ini, "en" mengindikasikan bahwa bahasa dokumen adalah bahasa Inggris.
 
