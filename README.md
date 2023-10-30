@@ -1234,37 +1234,37 @@ E) Product
   ![contact1](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/144761618/ad4f2e3c-9cd2-4793-9de1-2ebc2de0e7d1)
 
 
-1) '<!DOCTYPE html>': Ini adalah deklarasi dokumen (document type declaration) yang menentukan jenis dokumen HTML yang digunakan, dalam hal ini, HTML versi 5.
+1) '!DOCTYPE html': adalah deklarasi dokumen (document type declaration) yang menentukan jenis dokumen HTML yang digunakan, disini menggunakan HTML versi 5.
 
-2) <html lang="en">: Ini adalah tag pembuka untuk elemen HTML. lang atributnya mengidentifikasi bahasa yang digunakan dalam dokumen. Dalam hal ini, "en" mengindikasikan bahwa bahasa dokumen adalah bahasa Inggris.
+2) 'html lang="en"': adalah tag pembuka untuk elemen HTML. lang atributnya mengidentifikasi bahasa yang digunakan dalam dokumen. "en" mengindikasikan bahwa bahasa dokumen adalah bahasa Inggris.
 
-3) <head>: Ini adalah elemen kepala (head) dari dokumen HTML, yang berisi informasi-informasi terkait dengan dokumen, seperti metadata, tautan ke berkas eksternal (CSS, ikon), dan pengaturan lainnya.
+3) 'head': adalah elemen kepala (head) dari dokumen HTML, yang berisi informasi-informasi terkait dengan dokumen, seperti metadata, tautan ke berkas eksternal (CSS, ikon), dan pengaturan lainnya.
 
-4) <meta charset="UTF-8">: Ini adalah elemen meta yang mendefinisikan set karakter dokumen sebagai UTF-8 (Unicode).
-<meta name="viewport" content="width=device-width, initial-scale=1.0">: Ini adalah elemen meta yang digunakan untuk mengatur tampilan pada perangkat bergerak (responsif).
-<title>HasarisStore</title>: Ini adalah judul halaman web yang akan ditampilkan di tab peramban (browser).
-<link rel="stylesheet" href="product.css">: Ini adalah tautan ke berkas CSS eksternal yang akan digunakan untuk mengatur tampilan halaman.
-<link href="images/logo-removebg-preview.png" rel="icon">: Ini adalah tautan ke berkas gambar yang akan digunakan sebagai ikon situs (favicon) yang akan ditampilkan di tab peramban.
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">: Ini adalah tautan ke berkas CSS dari Font Awesome, yang digunakan untuk menghadirkan ikon-ikon di halaman web.
-5) <body>: Ini adalah elemen tubuh (body) dari dokumen HTML, yang berisi semua konten yang akan ditampilkan di halaman web. Di dalam elemen body, Anda akan menemukan struktur tampilan dari halaman web "HasarisStore."
+4) 'meta charset="UTF-8"': adalah elemen meta yang mendefinisikan set karakter dokumen sebagai UTF-8 (Unicode).
+'meta name="viewport" content="width=device-width, initial-scale=1.0"': adalah elemen meta yang digunakan untuk mengatur tampilan pada perangkat bergerak (responsif).
+- 'title'HasarisStore(/title): adalah judul halaman web yang akan ditampilkan di tab peramban (browser).
+- 'link rel="stylesheet" href="product.css"': adalah tautan ke berkas CSS eksternal yang akan digunakan untuk mengatur tampilan halaman.
+- 'link href="images/logo-removebg-preview.png" rel="icon"': adalah tautan ke berkas gambar yang akan digunakan sebagai ikon situs (favicon) yang akan ditampilkan di tab peramban.
+- 'link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css"': adalah tautan ke berkas CSS dari Font Awesome, yang digunakan untuk menghadirkan ikon-ikon di halaman web.
+5) 'body': adalah elemen tubuh (body) dari dokumen HTML, yang berisi semua konten yang akan ditampilkan di halaman web. Di dalam elemen body akan ada struktur tampilan dari halaman web "HasarisStore."
 
-<div class="header">: Ini adalah divisi (bagian) header atau kepala dari halaman web. Biasanya berisi elemen-elemen yang terletak di bagian atas halaman, seperti logo, menu navigasi, dan elemen-elemen lain yang terkait dengan header.
+- 'div class="header": adalah divisi (bagian) header atau kepala dari halaman web. Biasanya berisi elemen-elemen yang terletak di bagian atas halaman, seperti logo, menu navigasi, dan elemen-elemen lain yang terkait dengan header.
 
-<div class="container">: Ini adalah divisi yang mengelilingi elemen-elemen dalam header, dan biasanya digunakan untuk mengatur lebar maksimum elemen-elemen dalam header agar tetap terpusat.
+- 'div class="container"': adalah divisi yang mengelilingi elemen-elemen dalam header, dan biasanya digunakan untuk mengatur lebar maksimum elemen-elemen dalam header agar tetap terpusat.
 
-<div class="navbar">: Ini adalah divisi yang berisi elemen-elemen navigasi, seperti menu dan logo, yang ditempatkan di dalam header.
+- 'div class="navbar"': adalah divisi yang berisi elemen-elemen navigasi, seperti menu dan logo, yang ditempatkan di dalam header.
 
-<div class="logo">: Ini adalah divisi yang berisi logo toko "HasarisStore," mungkin diikuti oleh teks judul.
+- 'div class="logo"': adalah divisi yang berisi logo toko "HasarisStore," mungkin diikuti oleh teks judul.
 
-6) <nav>: Ini adalah elemen navigasi yang berisi menu navigasi situs web.
+6) <nav>: adalah elemen navigasi yang berisi menu navigasi situs web.
 
-<ul>: Ini adalah elemen daftar tak terurut (unordered list) yang berisi item-item menu navigasi.
+- 'ul': adalah elemen daftar tak terurut (unordered list) yang berisi item-item menu navigasi.
 
-<li><a href="halaman_kedua.html">Home</a></li>: Ini adalah item menu "Home" yang mengandung tautan (link) ke halaman "halaman_kedua.html."
-<li><a href="product.html">Products</a></li>: Ini adalah item menu "Products" yang mengandung tautan ke halaman "product.html."
-<li><a href="about.html">About</a></li>: Ini adalah item menu "About" yang mengandung tautan ke halaman "about.html."
-<li><a href="contact.html">Contact</a></li>: Ini adalah item menu "Contact" yang mengandung tautan ke halaman "contact.html."
-<a id="cart-icon" href="#cart"><img src="images/cart.png" width="30px" height="30px" alt="cart"></a>: Ini adalah gambar ikon keranjang belanja yang berfungsi sebagai tautan ke elemen dengan id "cart."
+- '<li><a href="halaman_kedua.html">Home</a></li>': adalah item menu "Home" yang mengandung tautan (link) ke halaman "halaman_kedua.html."
+- '<li><a href="product.html">Products</a></li>': adalah item menu "Products" yang mengandung tautan ke halaman "product.html."
+'<li><a href="about.html">About</a></li>': adalah item menu "About" yang mengandung tautan ke halaman "about.html."
+'<li><a href="contact.html">Contact</a></li>': Ini adalah item menu "Contact" yang mengandung tautan ke halaman "contact.html."
+'<a id="cart-icon" href="#cart"><img src="images/cart.png" width="30px" height="30px" alt="cart"></a>': adalah gambar ikon keranjang belanja yang berfungsi sebagai tautan ke elemen dengan id "cart."
 
 ![product1](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/144761618/17623e83-a1c0-43e6-a6b5-f36e1e38ab14)
 
