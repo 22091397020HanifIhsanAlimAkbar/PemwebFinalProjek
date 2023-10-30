@@ -60,7 +60,7 @@
 
 - [4.2 Fitur Sistem](#42-Fitur-Sistem)
 
-- [4.3 Persyaratan Fungsional](#43-Persyaratan-Fungsional}
+- [4.3 Persyaratan Fungsional](#43-Persyaratan-Fungsional)
 
 - [Bab 5. Persyaratan Fungsional Lainnya](#Bab-5-Persyaratan-Fungsional-Lainnya)
 
@@ -72,14 +72,8 @@
 
 - [5.4 Atribut Kualitas Perangkat Lunak](#54-Atribut-Kualitas-Perangkat-Lunak)
 
+- [Bab 6. Persyaratan Lainnya](#Bab-6-Persyaratan-Lainnya)
 
-Persyaratan Fungsional	12
-Pers yaratan Fungsional Lainnya	12
-Persyaratan Performa	12
-Persyaratan Keamanan Pengguna	12
-Persyaratan Keamanan Website	13
-Atribut Kualitas Perangkat Lunak	13
-Proses Bisnis	14
 Persyaratan Lainnya
 
 
