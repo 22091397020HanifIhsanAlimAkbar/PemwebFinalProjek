@@ -44,19 +44,19 @@
 
 - [2.7 Asumsi dan Dependensi](#27-Asumsi-dan-Dependensi)
 
-- [Bab 2. Deskripsi Keseluruhan](#Bab-2-Deskripsi-Keseluruhan)
+- [Bab 3. Persyaratan Antarmuka	](#Bab-3-Persyaratan-Antarmuka)
 
-- [2.7 Asumsi dan Dependensi](#27-Asumsi-dan-Dependensi)
+- [3.1 Antarmuka Pengguna](#31-Antarmuka-Pengguna)
 
-- [2.7 Asumsi dan Dependensi](#27-Asumsi-dan-Dependensi)
+- [3.2 Antarmuka Perangkat Keras](#32-Antarmuka-Perangkat-Keras)
 
-- [2.7 Asumsi dan Dependensi](#27-Asumsi-dan-Dependensi)
+- [3.3 Antarmuka Perangkat Lunak](#3.3-Antarmuka-Perangkat-Lunak)
 
-- [2.7 Asumsi dan Dependensi](#27-Asumsi-dan-Dependensi)
+- [3.4 Antarmuka Komunikasi](#3.4-Antarmuka-Komunikasi)
 
-- [2.7 Asumsi dan Dependensi](#27-Asumsi-dan-Dependensi)
+- [3.5 Fitur Sistem](#3.5-Fitur-Sistem)
 
-- [2.7 Asumsi dan Dependensi](#27-Asumsi-dan-Dependensi)
+- [3.6 Deskripsi dan Prioritas](#27-Deskripsi-dan-Prioritas)
 
 
 Persyaratan Antarmuka	6
