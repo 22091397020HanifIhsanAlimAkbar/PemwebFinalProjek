@@ -54,9 +54,6 @@
 
 - [3.4 Antarmuka Komunikasi](#3.4-Antarmuka-Komunikasi)
 
-- [3.5 Fitur Sistem](#3.5-Fitur-Sistem)
-
-- [3.6 Deskripsi dan Prioritas](#27-Deskripsi-dan-Prioritas)
 
 
 Persyaratan Antarmuka	6
