@@ -73,10 +73,11 @@
 - [5.4 Atribut Kualitas Perangkat Lunak](#54-Atribut-Kualitas-Perangkat-Lunak)
 
 - [Bab 6. Persyaratan Lainnya](#Bab-6-Persyaratan-Lainnya)
+  
 
 | Nama          | Tanggal          | Alasan Perubahan        | Versi        |
 |-------------------------------|----------------|-----------------------------|----------------------------------------|
-|||||
+|s||||
 |||||
 
 
