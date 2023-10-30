@@ -50,20 +50,29 @@
 
 - [3.2 Antarmuka Perangkat Keras](#32-Antarmuka-Perangkat-Keras)
 
-- [3.3 Antarmuka Perangkat Lunak](#3.3-Antarmuka-Perangkat-Lunak)
+- [3.3 Antarmuka Perangkat Lunak](#33-Antarmuka-Perangkat-Lunak)
 
-- [3.4 Antarmuka Komunikasi](#3.4-Antarmuka-Komunikasi)
+- [3.4 Antarmuka Komunikasi](#34-Antarmuka-Komunikasi)
+
+- [Bab 3. Persyaratan Antarmuka	](#Bab-3-Persyaratan-Antarmuka)
+
+- [3.4 Antarmuka Komunikasi](#34-Antarmuka-Komunikasi)
+
+- [3.4 Antarmuka Komunikasi](#34-Antarmuka-Komunikasi)
+
+- [3.4 Antarmuka Komunikasi](#34-Antarmuka-Komunikasi)
+
+- [Bab 3. Persyaratan Antarmuka	](#Bab-3-Persyaratan-Antarmuka)
+
+- [3.4 Antarmuka Komunikasi](#34-Antarmuka-Komunikasi)
+
+- [3.4 Antarmuka Komunikasi](#34-Antarmuka-Komunikasi)
+
+- [3.4 Antarmuka Komunikasi](#34-Antarmuka-Komunikasi)
+
+- [3.4 Antarmuka Komunikasi](#34-Antarmuka-Komunikasi)
 
 
-
-Persyaratan Antarmuka	6
-Antarmuka Pengguna	6
-Antarmuka Perangkat Keras	6
-Antarmuka Perangkat Lunak	7
-Antarmuka Komunikasi	11
-Fitur Sistem	11
-Deskripsi dan Prioritas	11
-Fitur Sistem	11
 Persyaratan Fungsional	12
 Pers yaratan Fungsional Lainnya	12
 Persyaratan Performa	12
