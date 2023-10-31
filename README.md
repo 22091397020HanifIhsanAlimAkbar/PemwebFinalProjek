@@ -1244,7 +1244,7 @@ E) Product
 ![producthtml1](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/144761618/8b32ff9d-a2b0-4379-afae-da94e1d4c87a)
 
 
-1)	<!DOCTYPE html>: Ini adalah deklarasi tipe dokumen (Document Type Declaration) yang menyatakan bahwa halaman web ini menggunakan standar HTML. Ini harus selalu ada di bagian atas halaman HTML.
+1)	'<!DOCTYPE html>': Ini adalah deklarasi tipe dokumen (Document Type Declaration) yang menyatakan bahwa halaman web ini menggunakan standar HTML. Ini harus selalu ada di bagian atas halaman HTML.
 2)	<html lang="en">: Ini adalah tag pembuka untuk elemen HTML dan mengindikasikan bahwa ini adalah dokumen HTML dengan bahasa Inggris (English). "en" adalah kode bahasa ISO 639-1 untuk bahasa Inggris.
 3)	<head>: Ini adalah bagian kepala dokumen HTML yang berisi informasi meta, judul halaman, serta referensi ke berkas CSS, ikon situs, dan sumber daya lainnya yang diperlukan oleh halaman web.
 4)	<meta charset="UTF-8">: Ini adalah elemen meta yang menginformasikan bahwa karakter encoding yang digunakan adalah UTF-8, yang umumnya digunakan untuk mendukung karakter internasional dalam halaman web.
