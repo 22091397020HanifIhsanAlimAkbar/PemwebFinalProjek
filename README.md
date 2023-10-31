@@ -1232,9 +1232,12 @@ b) body
 2) '.footerbottom p': adalah selector yang memilih elemen paragraf yang berada dalam elemen dengan kelas "footerbottom."
 	- color: #fff;: Mengatur warna teks paragraf menjadi putih (#fff).
 
-F) Halaman Kesdua
+D) Halaman Kedua
 
-1) halaman_kedua.html
+
+E) Halaman Contact
+
+1) contact.html
 
 a) Deklarasi Dokumen HTML dan Metadata
 
