@@ -911,14 +911,14 @@ a) head
 
 ![image](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/124480469/526c20a2-a62d-4c51-aed5-d06969f194fd)
 
-1) "!DOCTYPE html": adalah deklarasi untuk mengidentifikasi tipe dokumen HTML yang digunakan oleh halaman.
-2) (html lang="en"): adalah elemen root atau akar yang menandakan dimulainya dokumen HTML. Atribut lang="en" menunjukkan bahwa bahasa yang digunakan dalam dokumen ini adalah bahasa Inggris.
-3) "head": Bagian ini berisi informasi tentang halaman, seperti metadata dan tautan ke file eksternal, yang biasanya tidak terlihat oleh pengguna ketika mengunjungi halaman web.
-4) (meta charset="UTF-8"): Mengatur karakter encoding halaman web ke UTF-8, yang mendukung karakter internasional.
-5) (meta name="viewport" content="width=device-width, initial-scale=1.0"): adalah tag meta yang digunakan untuk mengoptimalkan tampilan halaman web pada perangkat berbasis ponsel dan tablet.
-6) (link rel="stylesheet" href="login.css"): adalah tautan ke file CSS eksternal (login.css) yang digunakan untuk mengatur tampilan halaman.
-7) (link href="images/logo-removebg-preview.png" rel="icon"): menentukan favicon, gambar kecil yang ditampilkan di tab browser.
-8) "title": menentukan "Registrasi" sebagai judul halaman web yang akan ditampilkan di tab browser.
+1) `<!DOCTYPE html>`: adalah deklarasi untuk mengidentifikasi tipe dokumen HTML yang digunakan oleh halaman.
+2) `<html lang="en">`: adalah elemen root atau akar yang menandakan dimulainya dokumen HTML. Atribut lang="en" menunjukkan bahwa bahasa yang digunakan dalam dokumen ini adalah bahasa Inggris.
+3) `<head>`: Bagian ini berisi informasi tentang halaman, seperti metadata dan tautan ke file eksternal, yang biasanya tidak terlihat oleh pengguna ketika mengunjungi halaman web.
+4) `<meta charset="UTF-8">`: Mengatur karakter encoding halaman web ke UTF-8, yang mendukung karakter internasional.
+5) `<meta name="viewport" content="width=device-width, initial-scale=1.0">`: adalah tag meta yang digunakan untuk mengoptimalkan tampilan halaman web pada perangkat berbasis ponsel dan tablet.
+6) `<link rel="stylesheet" href="login.css">`: adalah tautan ke file CSS eksternal (login.css) yang digunakan untuk mengatur tampilan halaman.
+7) `<link href="images/logo-removebg-preview.png" rel="icon">`: menentukan favicon, gambar kecil yang ditampilkan di tab browser.
+8) `<title>`: menentukan "Registrasi" sebagai judul halaman web yang akan ditampilkan di tab browser.
 
 b) body
 
@@ -926,14 +926,14 @@ b) body
 
 "body": adalah elemen yang berisi konten yang akan ditampilkan kepada pengguna di halaman web.
 
-1) (div class="login-container"): adalah kontainer utama untuk seluruh konten halaman registrasi.
-2) (div class="login-frame") dan (div class="login-content"): adalah dua elemen div yang mungkin digunakan untuk mengelompokkan konten dan tampilan halaman.
-3) "(h2)Registrasi(/h2)": adalah judul halaman yang ditampilkan kepada pengguna.
-4) Elemen-elemen (div class="input-group") digunakan untuk mengelompokkan label dan input form untuk username, email, password, dan konfirmasi password.
-5) Elemen-elemen (label) digunakan untuk memberikan label pada input form.
-6) Elemen-elemen (input) digunakan untuk memasukkan informasi seperti username, email, dan password.
-7) "(a href="login.html" class="register-link")Daftar(/a)" adalah tautan (link) yang mengarah ke halaman "login.html" dengan teks "Daftar," mungkin digunakan untuk membawa pengguna ke halaman login.
-8) (div class="login-image") berisi gambar profil atau logo yang akan ditampilkan di samping konten form registrasi.
+1) `<div class="login-container">`: adalah kontainer utama untuk seluruh konten halaman registrasi.
+2) `<div class="login-frame">` dan `<div class="login-content">`: adalah dua elemen div yang mungkin digunakan untuk mengelompokkan konten dan tampilan halaman.
+3) `<h2>Registrasi</h2>': adalah judul halaman yang ditampilkan kepada pengguna.
+4) Elemen-elemen `<div class="input-group">` digunakan untuk mengelompokkan label dan input form untuk username, email, password, dan konfirmasi password.
+5) Elemen-elemen `<label>` digunakan untuk memberikan label pada input form.
+6) Elemen-elemen `<input>` digunakan untuk memasukkan informasi seperti username, email, dan password.
+7) `<a href="login.html" class="register-link">Daftar</a>` adalah tautan (link) yang mengarah ke halaman "login.html" dengan teks "Daftar," mungkin digunakan untuk membawa pengguna ke halaman login.
+8) `<div class="login-image">` berisi gambar profil atau logo yang akan ditampilkan di samping konten form registrasi.
 
 2. registrasi.css
 
@@ -942,154 +942,155 @@ a) "body"
  
 ![image](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/124480469/9f144a6a-7c1c-44f4-a883-b15668e0392f)
 
-1) "font-family: 'Arial', sans-serif;": Mengatur jenis font teks pada halaman web ke "Arial" atau ke font sans-serif yang umum.
-2) "background: linear-gradient(to right, #ffd6d6, #ffd6d6);": Mengatur latar belakang halaman web dengan efek gradien linier dari kiri ke kanan, dengan dua warna yang sama (#ffd6d6) sehingga latar belakang memiliki warna yang seragam.
-3) "display: flex;": Menggunakan tampilan fleksibel pada elemen body, yang memudahkan pengaturan tata letak elemen di dalamnya.
-4) "justify-content: center;": Mendata elemen-elemen di dalam body secara horizontal, sehingga elemen-elemen berada di tengah halaman.
-5) "align-items: center;": Mendata elemen-elemen di dalam body secara vertikal, sehingga elemen-elemen berada di tengah halaman secara vertikal.
-6) "height: 100vh;": Mengatur tinggi body menjadi 100% dari tinggi tampilan (viewport height), sehingga body akan mengisi seluruh tinggi tampilan.
+1) `font-family: 'Arial', sans-serif;`: Mengatur jenis font teks pada halaman web ke "Arial" atau ke font sans-serif yang umum.
+2) `background: linear-gradient(to right, #ffd6d6, #ffd6d6);`: Mengatur latar belakang halaman web dengan efek gradien linier dari kiri ke kanan, dengan dua warna yang sama (#ffd6d6) sehingga latar belakang memiliki warna yang seragam.
+3) `display: flex;`: Menggunakan tampilan fleksibel pada elemen body, yang memudahkan pengaturan tata letak elemen di dalamnya.
+4) `justify-content: center;`: Mendata elemen-elemen di dalam body secara horizontal, sehingga elemen-elemen berada di tengah halaman.
+5) `align-items: center;`: Mendata elemen-elemen di dalam body secara vertikal, sehingga elemen-elemen berada di tengah halaman secara vertikal.
+6) `height: 100vh;`: Mengatur tinggi body menjadi 100% dari tinggi tampilan (viewport height), sehingga body akan mengisi seluruh tinggi tampilan.
 
 b) ".login-container"
 	adalah gaya yang diterapkan pada elemen dengan kelas "login-container."
  
 ![image](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/124480469/f36950f3-aa6f-4957-8c31-747b3917021f)
 
-1) ".login-container": Ini adalah gaya yang diterapkan pada elemen dengan kelas "login-container."
-2) "background-color: #fff;": Mengatur latar belakang elemen ini menjadi putih.
-3) "border-radius: 8px;": Memberikan elemen sudut yang melengkung (border radius) sebesar 8 piksel.
-4) "box-shadow: 0 0 20px rgba(0, 0, 0, 0.3);": Memberikan bayangan (shadow) pada elemen, sehingga terlihat lebih mendalam.
-5) "text-align: center;": Mengatur teks di dalam elemen ini menjadi terpusat.
-6) "padding: 20px;": Memberikan ruang tambahan (padding) sebesar 20 piksel di sekitar elemen.
-7) "position: relative;": Mengatur posisi elemen ini sebagai relatif terhadap posisi normalnya.
-8) "display: flex;": Menggunakan tampilan fleksibel pada elemen, yang memungkinkan penggunaan flex pada cabang elemen.
+1) `.login-container`: adalah gaya yang diterapkan pada elemen dengan kelas "login-container."
+2) `background-color: #fff;`: Mengatur latar belakang elemen ini menjadi putih.
+3) `border-radius: 8px;`: Memberikan elemen sudut yang melengkung (border radius) sebesar 8 piksel.
+4) `box-shadow: 0 0 20px rgba(0, 0, 0, 0.3);`: Memberikan bayangan (shadow) pada elemen, sehingga terlihat lebih mendalam.
+5) `text-align: center;`: Mengatur teks di dalam elemen ini menjadi terpusat.
+6) `padding: 20px;`: Memberikan ruang tambahan (padding) sebesar 20 piksel di sekitar elemen.
+7) `position: relative;`: Mengatur posisi elemen ini sebagai relatif terhadap posisi normalnya.
+8) `display: flex;`: Menggunakan tampilan fleksibel pada elemen, yang memungkinkan penggunaan flex pada cabang elemen.
 
 c) ".login-frame"
 	adalah gaya yang diterapkan pada elemen dengan kelas "login-frame."
  
  ![image](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/124480469/a7df8dbc-e97b-4ecb-add4-43a126a101c2)
  
-1) "position: absolute;": Mengatur posisi elemen ini sebagai elemen dengan posisi absolut (di luar aliran dokumen normal).
-2) "top", "left", "right", "bottom": Memberikan elemen ini jarak dari sisi atas, kiri, kanan, dan bawah dengan nilai -10 piksel, menciptakan efek border di sekitar elemen.
-3) "border: 2px solid white;": Mengatur border elemen dengan ketebalan 2 piksel dan warna putih.
-4) "border-radius: 10px;": Memberikan sudut yang melengkung pada border elemen sebesar 10 piksel.
-5) "z-index: -1;": Mengatur elemen ini memiliki z-index -1, sehingga berada di bawah elemen-elemen lain di halaman.
+1) `position: absolute;`: Mengatur posisi elemen ini sebagai elemen dengan posisi absolut (di luar aliran dokumen normal).
+2) `top`, `left`, `right`, `bottom`: Memberikan elemen ini jarak dari sisi atas, kiri, kanan, dan bawah dengan nilai -10 piksel, menciptakan efek border di sekitar elemen.
+3) `border: 2px solid white;`: Mengatur border elemen dengan ketebalan 2 piksel dan warna putih.
+4) `border-radius: 10px;`: Memberikan sudut yang melengkung pada border elemen sebesar 10 piksel.
+5) `z-index: -1;`: Mengatur elemen ini memiliki z-index -1, sehingga berada di bawah elemen-elemen lain di halaman.
 
 d) ".login-content"
 	adalah gaya yang diterapkan pada elemen dengan kelas "login-content."
 
 ![image](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/124480469/fe63196a-2f7f-4557-a93c-6c1eb30e8a4d)
 
-1) "flex: 1;": Membuat elemen ini mengisi sebanyak mungkin ruang yang tersedia di dalam ."login-container".
-2) "text-align: left;": Mengatur teks di dalam elemen ini menjadi rata kiri.
-3) "padding: 20px;": Memberikan ruang tambahan (padding) sebesar 20 piksel di sekitar elemen.
+1) `flex: 1;`: Membuat elemen ini mengisi sebanyak mungkin ruang yang tersedia di dalam ."login-container".
+2) `text-align: left;`: Mengatur teks di dalam elemen ini menjadi rata kiri.
+3) `padding: 20px;`: Memberikan ruang tambahan (padding) sebesar 20 piksel di sekitar elemen.
 
  e) ".h2"
  	adalah gaya yang diterapkan pada elemen "h2", yang merupakan judul di dalam ".login-content".
 
 ![image](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/124480469/01f299fe-95ff-4638-a12c-8d0ad99f3daf)
 
-1) "color: #ff6f61;": Mengatur warna teks judul menjadi merah muda.
-2) "font-size: 24px;": Mengatur ukuran font judul menjadi 24 piksel.
-3) "margin-bottom: 20px;": Memberikan margin bawah sebesar 20 piksel pada judul.
+1) `color: #ff6f61;`: Mengatur warna teks judul menjadi merah muda.
+2) `font-size: 24px;`: Mengatur ukuran font judul menjadi 24 piksel.
+3) `margin-bottom: 20px;`: Memberikan margin bawah sebesar 20 piksel pada judul.
 
 f) ".input-group"
 	adalah gaya yang diterapkan pada elemen dengan kelas "input-group," yang digunakan untuk mengelompokkan label dan input form.
 
 ![image](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/124480469/cf947d91-2aab-41a5-838f-0b0cd9c4b9e4)
 
-1) "margin-bottom: 20px;": Memberikan margin bawah sebesar 20 piksel pada setiap grup input.
+1) `margin-bottom: 20px;`: Memberikan margin bawah sebesar 20 piksel pada setiap grup input.
 
 g) "label"
 	adalah gaya yang diterapkan pada elemen-elemen "label".
 
 ![image](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/124480469/d681a841-8c6e-42d7-9a2b-8318842ea14a)
 
-1) "display: block;": Mengubah tampilan elemen label menjadi tampilan blok, sehingga masing-masing label dan input form akan ada di baris yang terpisah.
-2) "font-size: 14px;": Mengatur ukuran font label menjadi 14 piksel.
-3) "color: #333;": Mengatur warna teks label menjadi abu-abu.
-4) "margin-bottom: 5px;": Memberikan margin bawah sebesar 5 piksel pada label.
-5) "font-weight: bold;": Mengatur teks label menjadi tebal.
+1) `display: block;`: Mengubah tampilan elemen label menjadi tampilan blok, sehingga masing-masing label dan input form akan ada di baris yang terpisah.
+2) `font-size: 14px;`: Mengatur ukuran font label menjadi 14 piksel.
+3) `color: #333;`: Mengatur warna teks label menjadi abu-abu.
+4) `margin-bottom: 5px;`: Memberikan margin bawah sebesar 5 piksel pada label.
+5) `font-weight: bold;`: Mengatur teks label menjadi tebal.
 
-h) "input[type="text"]", "input[type="email"]", "input[type="password"]", "input[type="date"]"
+h) `input[type="text"]`, `input[type="email"]`, `input[type="password"]`, `input[type="date"]`
 	adalah gaya yang diterapkan pada elemen input dengan jenis tertentu (text, email, password, date).
 
 ![image](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/124480469/ed9ab85c-2a28-487b-b00f-28a8617d2a34)
 
-1) "width: 100%;": Mengatur lebar input menjadi 100% dari lebar elemen yang mengandungnya.
-2) "padding: 10px;": Memberikan padding sebesar 10 piksel pada input.
-3) "border: none;": Menghilangkan border bawaan pada input.
-4) "border-bottom: 2px solid #ff6f61;": Menambahkan border bawah sebesar 2 piksel pada input dengan warna merah muda.
-5) "background: transparent;": Mengatur latar belakang input menjadi transparan.
-6) "outline: none;": Menghilangkan garis luar (outline) pada saat input fokus.
-7) "color: #333;": Mengatur warna teks input menjadi abu-abu.
-8) "font-size: 16px;": Mengatur ukuran font input menjadi 16 piksel.
-9) "transition: border-bottom-color 0.3s ease-in-out;": Menerapkan efek transisi (transition) pada perubahan warna border bawah saat input berfokus.
+1) `width: 100%;`: Mengatur lebar input menjadi 100% dari lebar elemen yang mengandungnya.
+2) `padding: 10px;`: Memberikan padding sebesar 10 piksel pada input.
+3) `border: none;`: Menghilangkan border bawaan pada input.
+4) `border-bottom: 2px solid #ff6f61;``: Menambahkan border bawah sebesar 2 piksel pada input dengan warna merah muda.
+5) `background: transparent;`: Mengatur latar belakang input menjadi transparan.
+6) `outline: none;`: Menghilangkan garis luar (outline) pada saat input fokus.
+7) `color: #333;`: Mengatur warna teks input menjadi abu-abu.
+8) `font-size: 16px;`: Mengatur ukuran font input menjadi 16 piksel.
+9) `transition: border-bottom-color 0.3s ease-in-out;`: Menerapkan efek transisi (transition) pada perubahan warna border bawah saat input berfokus.
 
-i) "input[type="text"]:focus", "input[type="email"]:focus", "input[type="password"]:focus", "input[type="date"]:focus": adalah gaya yang diterapkan pada input saat mendapatkan fokus.
+i) `input[type="text"]:focus`, `input[type="email"]:focus`, `input[type="password"]:focus`, `input[type="date"]:focus`: adalah gaya yang diterapkan pada input saat mendapatkan fokus.
 
 ![image](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/124480469/02f2bdee-b1bf-4f20-8edf-75cca44a1884)
 
-1)"border-bottom-color: #ff9191;": Mengubah warna border bawah input menjadi merah muda yang lebih terang saat input berfokus.
+1) `border-bottom-color: #ff9191;`: Mengubah warna border bawah input menjadi merah muda yang lebih terang saat input berfokus.
 
 j) "button" 
 	adalah gaya yang diterapkan pada elemen-elemen tombol.
 
 ![image](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/124480469/dce8a7cf-87f1-497c-a3e1-93ebb42a8b50)
 
-1) "background-color: #ff6f61;": Mengatur warna latar belakang tombol menjadi merah muda.
-2) "color: #fff;": Mengatur warna teks tombol menjadi putih.
-3) "padding: 12px 24px;": Memberikan padding sebesar 12 piksel di atas dan bawah serta 24 piksel di sisi kiri dan kanan tombol.
-4) "border: none;": Menghilangkan border pada tombol.
-5) "border-radius: 25px;": Memberikan sudut yang sangat melengkung (border radius) pada tombol sebesar 25 piksel.
+1) `background-color: #ff6f61;`: Mengatur warna latar belakang tombol menjadi merah muda.
+2) `color: #fff;`: Mengatur warna teks tombol menjadi putih.
+3) `padding: 12px 24px;`: Memberikan padding sebesar 12 piksel di atas dan bawah serta 24 piksel di sisi kiri dan kanan tombol.
+4) `border: none;`: Menghilangkan border pada tombol.
+5) `border-radius: 25px;`: Memberikan sudut yang sangat melengkung (border radius) pada tombol sebesar 25 piksel.
 6) "cursor: pointer;": Mengubah kursor menjadi tanda panah (pointer) saat pengguna mengarahkan kursor ke tombol.
-7) "font-weight: bold;": Mengatur teks tombol menjadi tebal.
-8) "font-size: 16px;": Mengatur ukuran font teks tombol menjadi 16 piksel.
-9) "transition: background-color 0.3s ease-in-out;": Menerapkan efek transisi pada perubahan warna latar belakang tombol saat disorot.
+7) `font-weight: bold;`: Mengatur teks tombol menjadi tebal.
+8) `font-size: 16px;`: Mengatur ukuran font teks tombol menjadi 16 piksel.
+9) `transition: background-color 0.3s ease-in-out;`: Menerapkan efek transisi pada perubahan warna latar belakang tombol saat disorot.
 
 k) "button:hover"
 	adalah gaya yang diterapkan pada tombol saat tombol tersebut disorot (hover).
 
 ![image](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/124480469/490e85b1-5f7b-459a-b458-73f23743ec38)
 
-1) "background-color: #ff9191;": Mengubah warna latar belakang tombol menjadi merah muda yang lebih terang saat tombol disorot.
+1) `background-color: #ff9191;`: Mengubah warna latar belakang tombol menjadi merah muda yang lebih terang saat tombol disorot.
 
 l) ".login-image" 
 	adalah gaya yang diterapkan pada elemen dengan kelas "login-image."
 
 ![image](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/124480469/e4246f78-5b57-4653-96dc-b9557c8cc9d2)
 
-1) "flex: 1;": Membuat elemen ini mengisi sebanyak mungkin ruang yang tersedia di dalam .login-container.
-2) "text-align: center;": Mengatur teks di dalam elemen ini menjadi terpusat.
+1) `flex: 1;`: Membuat elemen ini mengisi sebanyak mungkin ruang yang tersedia di dalam .login-container.
+2) `text-align: center;`: Mengatur teks di dalam elemen ini menjadi terpusat.
 
  m) ".login-image img"
  	adalah gaya yang diterapkan pada elemen gambar di dalam ".login-image".
 
 ![image](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/124480469/055d5536-0f5d-45b0-b054-dd3562d180b7)
 
-1) "max-width: 100%;": Mengatur lebar gambar agar tidak melebihi lebar elemen yang mengandungnya.
-2) "height: auto;": Mengatur tinggi gambar agar sesuai dengan aspek rasio aslinya.
-3) "border-radius: 8px;": Memberikan sudut yang melengkung pada gambar sebesar 8 piksel.
+1) `max-width: 100%;`: Mengatur lebar gambar agar tidak melebihi lebar elemen yang mengandungnya.
+2) `height: auto;`: Mengatur tinggi gambar agar sesuai dengan aspek rasio aslinya.
+3) `border-radius: 8px;`: Memberikan sudut yang melengkung pada gambar sebesar 8 piksel.
 
-n) ".register-link"
+n) `.register-link`
 	adalah gaya yang diterapkan pada elemen dengan kelas "register-link,"  adalah tautan (link) untuk melakukan registrasi.
 
 ![image](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/124480469/8adab3af-da81-465c-a689-99c6221e698a)
 
-1) "background-color: #ff6f61;": Mengatur warna latar belakang tautan menjadi merah muda.
-2) "color: #fff;": Mengatur warna teks tautan menjadi putih.
-3) "padding: 12px 24px;": Memberikan padding sebesar 12 piksel di atas dan bawah serta 24 piksel di sisi kiri dan kanan tautan.
-4) "border: none;": Menghilangkan border pada tautan.
-5) "border-radius: 25px;": Memberikan sudut yang sangat melengkung (border radius) pada tautan sebesar 25 piksel.
-6) "cursor: pointer;": Mengubah kursor menjadi tanda panah (pointer) saat pengguna mengarahkan kursor ke tautan.
-7) "font-weight: bold;": Mengatur teks tautan menjadi tebal.
-8) "font-size: 16px;": Mengatur ukuran font teks tautan menjadi 16 piksel.
-9) "text-decoration: none;": Menghilangkan dekorasi tautan seperti garis bawah atau garis coret.
-10) "display: inline-block;": Mengatur tautan agar ditampilkan sebagai elemen blok.
-11) "margin-top: 10px;": Memberikan margin atas sebesar 10 piksel pada tautan.
+1) `background-color: #ff6f61;`: Mengatur warna latar belakang tautan menjadi merah muda.
+2) `color: #fff;`: Mengatur warna teks tautan menjadi putih.
+3) `padding: 12px 24px;`: Memberikan padding sebesar 12 piksel di atas dan bawah serta 24 piksel di sisi kiri dan kanan tautan.
+4) `border: none;`: Menghilangkan border pada tautan.
+5) `border-radius: 25px;`: Memberikan sudut yang sangat melengkung (border radius) pada tautan sebesar 25 piksel.
+6) `cursor: pointer;`: Mengubah kursor menjadi tanda panah (pointer) saat pengguna mengarahkan kursor ke tautan.
+7) `font-weight: bold;`: Mengatur teks tautan menjadi tebal.
+8) `font-size: 16px;`: Mengatur ukuran font teks tautan menjadi 16 piksel.
+9) `text-decoration: none;`: Menghilangkan dekorasi tautan seperti garis bawah atau garis coret.
+10) `display: inline-block;`: Mengatur tautan agar ditampilkan sebagai elemen blok.
+11) `margin-top: 10px;`: Memberikan margin atas sebesar 10 piksel pada tautan.
 
-D) Halaman Kedua
+ 
+E) Contact Kedua
 
-1) halaman_kedua.html
+1) contact.html
 
 a) head
 
