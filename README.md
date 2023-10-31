@@ -1215,7 +1215,7 @@ b) body
 	- 'padding: 30px;': Memberikan padding sebesar 30 piksel pada elemen dengan kelas "footerbottom."
 	- text-align: center;: Mengatur teks di dalam elemen footerbottom agar diberi rata tengah secara horizontal.
 2) '.footerbottom p': adalah selector yang memilih elemen paragraf yang berada dalam elemen dengan kelas "footerbottom."
-- color: #fff;: Mengatur warna teks paragraf menjadi putih (#fff).
+	- color: #fff;: Mengatur warna teks paragraf menjadi putih (#fff).
 
 
 
