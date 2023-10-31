@@ -1264,6 +1264,7 @@ E) Product
 18)	<li><a href="halaman_kedua.html">Home</a></li>, <li><a href="product.html">Products</a></li>, <li><a href="about.html">About</a></li>, <li><a href="contact.html">Contact</a></li>: Ini adalah elemen-elemen daftar (list items) yang berisi tautan menu ke halaman "Home," "Products," "About," dan "Contact."
 19)	<a id="cart-icon" href="#cart"><img src="images/cart.png" width="30px" height="30px" alt="cart"></a>: Ini adalah tautan menu yang memiliki ID "cart-icon" dan mengarahkan ke elemen dengan ID "cart" (mungkin bagian dari situs web yang menampilkan keranjang belanja). Tautan ini juga berisi gambar ikon keranjang belanja.
 
+
 2.	CSS
 3.	JAVA SCRIPT
 
