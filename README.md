@@ -89,7 +89,6 @@
 
 ## 1.1 Tujuan 
 
-
 Tujuan pembuatan website Fashion Pria dan Wanita ( Hasaris store ) antara lain :
 Menghasilkan sebuah website untuk pengguna yang sedang mencari barang kebutuhan fashion Pria dan Wanita dan memudahkan pemilik toko Hasaris untuk memasarkan dan mempromosikan barang toko kebutuhan fashion pria dan wanita.
 Menjadikan website ini sebagai salah satu media layanan toko online untuk mempermudah pembeli mendapatkan produk yang dicari.
