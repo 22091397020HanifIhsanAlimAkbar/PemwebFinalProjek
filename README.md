@@ -1295,12 +1295,14 @@ d) Formulir Kontak
 10) `<textarea id="message" name="message" rows="4" required></textarea>`: adalah elemen textarea yang digunakan untuk memasukkan pesan atau pesan. Atribut id digunakan untuk mengaitkan label dengan textarea, dan atribut name digunakan untuk mengidentifikasi input saat data dikirim. Atribut required menunjukkan bahwa textarea ini harus diisi. Atribut rows menentukan jumlah baris yang akan ditampilkan pada textarea.
 11) `<button type="submit">Send</button>`: adalah tombol yang digunakan untuk mengirimkan formulir. Ketika tombol "Send" ini ditekan oleh pengguna, formulir akan diirimkan ke lokasi yang ditentukan dalam atribut action pada elemen `<form>`.
 
+e) Footer dan Media Sosial
+
 ![image](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/124480469/52800393-95a7-42a6-b79d-491519ca8939)
 
-e) Footer dan Media Sosial
 
 1) `<div class="footer">`: adalah div yang mengelompokkan elemen-elemen footer situs web. Footer biasanya digunakan untuk menampilkan informasi tambahan atau tautan penting di bagian bawah halaman web.
 2) `<div class="sosialicon">`: adalah div yang mengelompokkan tautan ke ikon-ikon media sosial.
 3) `<a href=""><img src="images/Instagram-Icon.png" width="30px"></a>`: adalah tautan (anchor) tanpa teks yang mengarahkan ke halaman kosong (href=""). Di dalamnya terdapat elemen gambar (img) yang menampilkan ikon Instagram dengan lebar 30 piksel. Ini sama dengan yang sebelumnya, tetapi dengan ikon-ikon untuk platform media sosial lainnya seperti Facebook, Twitter, dan YouTube.
 4) `<div class="footerbottom">`: Ini adalah div yang mungkin digunakan untuk menampilkan informasi tambahan di bagian bawah footer.
 5) `<p>copyright &copy;2023: Designed by <span class="designer">HasarisStore</span></p>`: adalah elemen paragraf (p) yang berisi informasi hak cipta dan informasi desainer situs web. Tanda hak cipta © dan tahun "2023" ditampilkan bersama dengan nama desainer "HasarisStore" yang diapit oleh elemen span dengan kelas "designer".
+
