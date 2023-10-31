@@ -1233,3 +1233,16 @@ a) Deklarasi Dokumen HTML dan Metadata
 5) 'link rel="stylesheet" href="contact.css"': Menghubungkan file CSS eksternal dengan halaman.
 6) 'link href="images/logo-removebg-preview.png" rel="icon"': Mengatur ikon situs web (favicon).
 7) (title)Contact Us(/title): Judul halaman yang akan ditampilkan di tab browser.
+
+b) Header dan Navigasi
+
+![image](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/124480469/42ba4ba6-08a5-4305-950e-882d156ad2c4)
+
+1) 'body': adalah elemen yang mencakup seluruh konten yang akan ditampilkan di halaman web, mulai dari bagian atas hingga bagian bawah.
+2) 'div class="header"': adalah div (elemen divisi) yang mengelompokkan seluruh konten bagian atas halaman, seperti logo dan menu navigasi.
+3) 'div class="container"': adalah div yang mengelompokkan elemen-elemen dalam header. Biasanya digunakan untuk mengatur tampilan dan tata letak elemen-elemen tersebut.
+4) 'div class "navbar"': adalah div yang mengelompokkan elemen-elemen yang berhubungan dengan navigasi, seperti logo dan menu.
+5) 'div class="logo"': adalah div yang berisi gambar logo situs web. Gambar logo diambil dari "images/logo-removebg-preview.png" dengan lebar 125 piksel
+6) 'nav': adalah elemen yang mendefinisikan area menu navigasi situs web.
+7) 'ul': adalah daftar tidak terurut (unordered list) yang berisi daftar tautan menu.
+8) (li)(a href="halaman_kedua.html")Home(/a)(/li): adalah item daftar yang berisi tautan "Home" yang mengarahkan ke "halaman_kedua.html". Item-item berikutnya seperti "Products," "About," dan "Contact" juga menggunakan format yang sama.
