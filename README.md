@@ -269,14 +269,24 @@ Tampilan Product
 
 ![Screenshot (81)](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/144761618/ab65ecd4-9781-4648-9174-2a358f264824)
 
-![Screenshot (99)](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/144761618/fa297297-8fa1-4568-9792-2d73f69ea0d4)
-
-
 ![Screenshot (82)](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/144761618/bda72844-9188-404d-be78-09377760e18a)
 
 ![Screenshot (83)](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/144761618/006888cf-5369-483c-a2c0-24c2a716ed00)
 
 ![Screenshot (85)](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/144761618/3fdc2c45-b5c5-41e4-b576-bd3299f5230c)
+
+![Screenshot (100)](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/144761618/6980be08-5adb-4bd7-88da-81725d7c5833)
+
+![Screenshot (99)](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/144761618/361200f0-ba66-4ebf-baf8-1f12ef9b3e7f)
+
+![Screenshot (101)](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/144761618/f96ae28c-1c14-4488-8e10-a3f151ce8ef0)
+
+![Screenshot (102)](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/144761618/6ab39337-ebad-4131-864c-ce61c848ae0c)
+
+![Screenshot (103)](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/144761618/50f5fd7d-6a6d-4150-accb-60145608113c)
+
+
+
 
 Tampilan Product Check Out
 
