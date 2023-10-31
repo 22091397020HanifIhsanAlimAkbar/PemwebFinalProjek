@@ -1282,7 +1282,7 @@ c)  Informasi Kontak
 d) Formulir Kontak
 ![image](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/124480469/e727a24e-12c8-4e62-b678-e5d96c38f05f)
 
-1) <h2 class="title"> Contact Form</h2>: adalah elemen judul (heading) level 2 (h2) dengan kelas "title". Ini menampilkan judul "Contact Form". Biasanya digunakan untuk menunjukkan bahwa bagian berikutnya akan berisi formulir kontak
+1) '<h2 class="title"> Contact Form</h2>': adalah elemen judul (heading) level 2 (h2) dengan kelas "title". Ini menampilkan judul "Contact Form". Biasanya digunakan untuk menunjukkan bahwa bagian berikutnya akan berisi formulir kontak
 2) <div class="offer">: adalah div yang mengelompokkan elemen-elemen dalam bagian "Contact Form". Ini mungkin digunakan untuk menampilkan berbagai jenis tawaran atau informasi lainnya.
 3) <form action="#" method="post">: adalah elemen formulir HTML. Atribut action dan method menentukan apa yang terjadi ketika formulir dikirim. action="#" berarti formulir akan mengirimkan data ke halaman yang sama (current page) dan menggunakan metode HTTP POST.
 4) <div class="form-group">: adalah div yang mengelompokkan setiap elemen dalam formulir yang memiliki label.
@@ -1291,5 +1291,5 @@ d) Formulir Kontak
 7) <label for="email">Email</label>: adalah label yang terkait dengan elemen input "Email". Label ini digunakan untuk memberi tahu pengguna bahwa input ini dimaksudkan untuk memasukkan alamat email.
 8) <input type="email" id="email" name="email" required>: adalah elemen input email yang digunakan untuk memasukkan alamat email. Atribut id digunakan untuk mengaitkan label dengan input, dan atribut name digunakan untuk mengidentifikasi input saat data dikirim. Atribut required menunjukkan bahwa input ini harus diisi, dan tipe email memvalidasi bahwa yang dimasukkan adalah alamat email yang valid.
 9) <label for="message">Message</label>: adalah label yang terkait dengan elemen textarea "Message". Label ini digunakan untuk memberi tahu pengguna bahwa input ini dimaksudkan untuk memasukkan pesan atau pesan.
-10) <textarea id="message" name="message" rows="4" required></textarea>: adalah elemen textarea yang digunakan untuk memasukkan pesan atau pesan. Atribut id digunakan untuk mengaitkan label dengan textarea, dan atribut name digunakan untuk mengidentifikasi input saat data dikirim. Atribut required menunjukkan bahwa textarea ini harus diisi. Atribut rows menentukan jumlah baris yang akan ditampilkan pada textarea.
+10) '<textarea id="message" name="message" rows="4" required></textarea>': adalah elemen textarea yang digunakan untuk memasukkan pesan atau pesan. Atribut id digunakan untuk mengaitkan label dengan textarea, dan atribut name digunakan untuk mengidentifikasi input saat data dikirim. Atribut required menunjukkan bahwa textarea ini harus diisi. Atribut rows menentukan jumlah baris yang akan ditampilkan pada textarea.
 11) <button type="submit">Send</button>: Ini adalah tombol yang digunakan untuk mengirimkan formulir. Ketika tombol "Send" ini ditekan oleh pengguna, formulir akan diirimkan ke lokasi yang ditentukan dalam atribut action pada elemen <form>.
