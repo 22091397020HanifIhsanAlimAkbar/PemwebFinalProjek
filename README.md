@@ -1218,6 +1218,18 @@ b) body
 2) '.footerbottom p': adalah selector yang memilih elemen paragraf yang berada dalam elemen dengan kelas "footerbottom."
 	- color: #fff;: Mengatur warna teks paragraf menjadi putih (#fff).
 
+F) Halaman Kesdua
 
+1) halaman_kedua.html
 
+a) Deklarasi Dokumen HTML dan Metadata
 
+![image](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/124480469/6c9eca40-2975-468a-b40f-3df2f5aaf2c0)
+
+1) '!DOCTYPE html': adalah deklarasi tipe dokumen HTML yang digunakan.
+2) 'html lang="en"': Elemen root yang menunjukkan bahasa dokumen adalah bahasa Inggris.
+3) 'meta charset="UTF-8"': Pengaturan pengkodean karakter untuk dokumen HTML (UTF-8 adalah pengkodean Unicode yang umum digunakan).
+4) 'meta name="viewport" content="width=device-width, initial-scale=1.0"': Meta tag yang mengatur tampilan halaman untuk perangkat seluler dan perangkat dengan resolusi berbeda.
+5) 'link rel="stylesheet" href="contact.css"': Menghubungkan file CSS eksternal dengan halaman.
+6) 'link href="images/logo-removebg-preview.png" rel="icon"': Mengatur ikon situs web (favicon).
+7) (title)Contact Us(/title): Judul halaman yang akan ditampilkan di tab browser.
