@@ -118,13 +118,14 @@ Pengembang website yang ingin mencari referensi mengenai sistem e- commerce Busi
 Membantu menambah literatur dalam bidang web development.
 Menambah wawasan dan informasi mengenai sistem e-commerce.
 Dokumen pengajuan.
+
 ## 1.4. Lingkup Produk
 
 Cakupan dari website Hasaris store ini terbilang sangat luas. mulai dari fashion baju, celana, sepatu, tas, jaket, aksesoris wanita dan pria. Jika dikelompokkan berdasarkan keseluruhan maka ruang lingkup Hasaris dapat dibagi menjadi :
-Baju
-Celana
-Sepatu
-Tas
+1) Baju
+2) Celana
+3) Sepatu
+4) Tas
 Aksesoris wanita dan pria
 Meskipun cakupan dari website Hasaris store ini cukup luas, namun, dapat membantu toko Hasaris membangun identitas merek yang kuat dan mengaitkannya dengan gaya, kualitas, dan kepercayaan diri dalam berpakaian untuk pria dan wanita. Ini membuat merek menjadi lebih mudah dikenali dan diingat oleh pelanggan.
 
