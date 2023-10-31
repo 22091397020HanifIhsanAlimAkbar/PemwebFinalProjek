@@ -1246,3 +1246,18 @@ b) Header dan Navigasi
 6) 'nav': adalah elemen yang mendefinisikan area menu navigasi situs web.
 7) 'ul': adalah daftar tidak terurut (unordered list) yang berisi daftar tautan menu.
 8) (li)(a href="halaman_kedua.html")Home(/a)(/li): adalah item daftar yang berisi tautan "Home" yang mengarahkan ke "halaman_kedua.html". Item-item berikutnya seperti "Products," "About," dan "Contact" juga menggunakan format yang sama.
+
+c)  Informasi Kontak
+
+![image](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/124480469/90f917eb-0519-472c-a7fb-6264b5cf66b4)
+
+1) (h2 class="title") Contact Us(/h2): adalah elemen judul (heading) level 2 (h2) dengan kelas "title". Ini menampilkan judul "Contact Us". Biasanya digunakan untuk memberikan judul atau pengumuman yang menonjol.
+2) 'div class="offer"': adalah div yang mengelompokkan elemen-elemen dalam bagian "Contact Us".
+3) (div class="contact-info"): adalah div yang mengelompokkan elemen-elemen informasi kontak. Ini mungkin digunakan untuk menampilkan alamat, nomor telepon, dan alamat email.
+4) (div class="contact-item"): adalah div yang mengelompokkan setiap item informasi kontak, seperti alamat, nomor telepon, dan alamat email.
+5) (i class="fas fa-map-marker-alt")(/i): adalah elemen ikon yang menggunakan ikon dari Font Awesome. Ini menggambarkan ikon alamat (map marker).
+6) (p)Jln. Kentintang Universitas Negeri Surabaya(/p): Ini adalah elemen paragraf (p) yang menampilkan alamat, dalam hal ini, "Jln. Kentintang Universitas Negeri Surabaya".
+7) (i class="fas fa-phone")(/i): adalah elemen ikon yang menggambarkan ikon telepon.
+8) (p)0882003365621(/p): adalah elemen paragraf yang menampilkan nomor telepon, disini bernoor "0882003365621".
+9) (i class="fas fa-envelope")(/i): adalah elemen ikon yang menggambarkan ikon email.
+10) (p)hasaristore@gmail.com(/p): adalah elemen paragraf yang menampilkan alamat email, disini menggunakan email "hasaristore@gmail.com".
