@@ -1244,25 +1244,26 @@ E) Product
 ![producthtml1](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/144761618/8b32ff9d-a2b0-4379-afae-da94e1d4c87a)
 
 
-1)	'<!DOCTYPE html>': Ini adalah deklarasi tipe dokumen (Document Type Declaration) yang menyatakan bahwa halaman web ini menggunakan standar HTML. Ini harus selalu ada di bagian atas halaman HTML.
-2)	<html lang="en">: Ini adalah tag pembuka untuk elemen HTML dan mengindikasikan bahwa ini adalah dokumen HTML dengan bahasa Inggris (English). "en" adalah kode bahasa ISO 639-1 untuk bahasa Inggris.
-3)	<head>: Ini adalah bagian kepala dokumen HTML yang berisi informasi meta, judul halaman, serta referensi ke berkas CSS, ikon situs, dan sumber daya lainnya yang diperlukan oleh halaman web.
-4)	<meta charset="UTF-8">: Ini adalah elemen meta yang menginformasikan bahwa karakter encoding yang digunakan adalah UTF-8, yang umumnya digunakan untuk mendukung karakter internasional dalam halaman web.
-5)	<meta name="viewport" content="width=device-width, initial-scale=1.0">: Ini adalah elemen meta lain yang digunakan untuk mengatur tampilan halaman web pada perangkat bergerak. Ini mengatur lebar viewport sesuai dengan lebar perangkat dan tingkat zoom awal ke 1.0.
-6)	<title>HasarisStore</title>: Ini adalah judul halaman web yang akan ditampilkan di tab peramban. Dalam hal ini, judulnya adalah "HasarisStore."
-7)	<link rel="stylesheet" href="product.css">: Ini adalah tag link yang menghubungkan halaman HTML dengan berkas CSS eksternal bernama "product.css," yang digunakan untuk mengatur tampilan dan gaya halaman web.
-8)	<link href="images/logo-removebg-preview.png" rel="icon">: Ini adalah tag link yang menghubungkan ikon situs web. Ikon situs ini adalah gambar "logo-removebg-preview.png" yang akan digunakan sebagai ikon situs web yang akan ditampilkan di tab peramban.
-9)	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">: Ini adalah tag link lain yang menghubungkan halaman web dengan berkas CSS eksternal dari Font Awesome. Ini digunakan untuk mengimpor ikon Font Awesome ke dalam halaman web.
-10)	<body>: Ini adalah elemen badan dokumen HTML yang berisi konten yang akan ditampilkan di halaman web, seperti teks, gambar, dan elemen-elemen lainnya.
-11)	<div class="header">: Ini adalah div (divisi) dengan kelas CSS "header" yang digunakan untuk mengelompokkan dan memformat elemen-elemen yang ada di bagian header halaman web.
-12)	<div class="container">: Ini adalah div dengan kelas "container" yang digunakan untuk mengelompokkan elemen-elemen di dalam header. Biasanya, div "container" digunakan untuk mengatur tata letak elemen-elemen di dalamnya.
-13)	<div class="navbar">: Ini adalah div dengan kelas "navbar" yang mewakili bilah navigasi di dalam header halaman web.
-14)	<div class="logo">: Ini adalah div dengan kelas "logo" yang mewakili elemen logo di dalam bilah navigasi.
-15)	<img src="images/logo-removebg-preview.png" width="125px">: Ini adalah elemen gambar (img) yang menampilkan gambar logo situs dengan lebar 125 piksel.
-16)	<nav>: Ini adalah elemen navigasi yang berisi daftar tautan menu.
-17)	<ul>: Ini adalah daftar tak-terurut (unordered list) yang berisi tautan menu.
-18)	<li><a href="halaman_kedua.html">Home</a></li>, <li><a href="product.html">Products</a></li>, <li><a href="about.html">About</a></li>, <li><a href="contact.html">Contact</a></li>: Ini adalah elemen-elemen daftar (list items) yang berisi tautan menu ke halaman "Home," "Products," "About," dan "Contact."
-19)	<a id="cart-icon" href="#cart"><img src="images/cart.png" width="30px" height="30px" alt="cart"></a>: Ini adalah tautan menu yang memiliki ID "cart-icon" dan mengarahkan ke elemen dengan ID "cart" (mungkin bagian dari situs web yang menampilkan keranjang belanja). Tautan ini juga berisi gambar ikon keranjang belanja.
+1)	<!DOCTYPE html>: Ini adalah deklarasi tipe dokumen yang mendefinisikan bahwa halaman ini adalah dokumen HTML.
+2)	<html lang="en">: Ini adalah elemen root atau akar dari dokumen HTML dan menunjukkan bahwa dokumen ini menggunakan bahasa Inggris (dalam kode ini).
+3)	<head>: Ini adalah bagian kepala dokumen HTML yang biasanya berisi informasi tentang halaman seperti tautan ke stylesheet, ikon situs, meta informasi, dll.
+4)	<meta charset="UTF-8">: Ini mendefinisikan karakter encoding dokumen sebagai UTF-8, yang digunakan untuk mengatur bagaimana karakter diinterpretasikan dalam halaman.
+5)	<meta name="viewport" content="width=device-width, initial-scale=1.0">: Ini adalah meta tag yang mengatur tampilan situs agar sesuai dengan lebar perangkat (responsif) dan tingkat zoom awal adalah 1.0.
+6)	<title>HasarisStore</title>: Ini adalah judul halaman web yang akan ditampilkan di tab peramban saat halaman dimuat.
+7)	<link rel="stylesheet" href="product.css">: Ini adalah tautan ke file CSS bernama "product.css," yang akan digunakan untuk mengatur tampilan dan gaya halaman.
+8)	<link href="images/logo-removebg-preview.png" rel="icon">: Ini adalah tautan ke gambar yang akan digunakan sebagai ikon situs (favicon) yang akan ditampilkan di tab peramban.
+9)	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">: Ini adalah tautan ke file CSS dari Font Awesome yang mengandung ikon yang dapat digunakan di halaman web.
+10)	<body>: Ini adalah elemen yang mengandung konten utama halaman web yang akan ditampilkan kepada pengguna.
+11)	<div class="header">: Ini adalah div (divisi) yang digunakan untuk mengelompokkan elemen-elemen yang merupakan header halaman.
+12)	<div class="container">: Ini adalah div yang mengelompokkan konten dalam header ke dalam suatu wadah atau kontainer.
+13)	<div class="navbar">: Ini adalah div yang mengandung elemen-elemen yang biasanya ditemukan di bilah navigasi situs web.
+14)	<div class="logo">: Ini adalah div yang berisi gambar logo situs web.
+15)	<nav>: Ini adalah elemen navigasi yang mengandung daftar tautan navigasi.
+16)	<ul>: Ini adalah daftar tidak terurut (unordered list) yang berisi tautan-tautan menu.
+17)	<li>: Ini adalah elemen daftar (list item) yang mengandung tautan menu.
+18)	<a id="cart-icon" href="#cart">: Ini adalah tautan dengan ID "cart-icon" yang mengarah ke elemen dengan ID "cart." Ini mungkin digunakan untuk mengimplementasikan fungsi keranjang belanja pada situs web.
+19)	<img src="images/cart.png" width="30px" height="30px" alt="cart">: Ini adalah gambar ikon keranjang yang akan ditampilkan di tautan keranjang.
+
 
 
 
