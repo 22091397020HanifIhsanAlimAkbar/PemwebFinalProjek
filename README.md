@@ -1111,23 +1111,23 @@ b) body
 ![image](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/124480469/6e4eddd9-95dc-4742-8a0c-525275089932)
 
 1. "body": adalah bagian utama dari halaman web yang akan ditampilkan kepada pengguna.
-- (div class="header"): adalah div (elemen blok) dengan kelas "header" yang umumnya digunakan untuk bagian atas halaman web, berisi logo, navigasi, dan elemen header lainnya.
--  (section id="home"): adalah elemen "section" dengan ID "home" yang digunakan untuk merinci bagian tertentu dari halaman web. Biasanya digunakan dalam mengorganisasi konten.
-- (div class="navbar"): adalah div dengan kelas "navbar" yang berisi navigasi situs web.
-- (div class="logo"): adalah div dengan kelas "logo" yang berisi logo situs web.
-- (nav): adalah elemen navigasi yang berisi daftar tautan ke halaman lain dalam situs.
-- "ul": adalah daftar tak terurut (unordered list) yang berisi tautan navigasi.
-- "li": adalah elemen daftar (list item) yang berisi tautan ke halaman lain.
-- (div class="row"): adalah div dengan kelas "row" yang digunakan untuk mengatur konten dalam baris.
-- (div class="col-2"): adalah div dengan kelas "col-2" yang digunakan untuk mengatur konten dalam dua kolom.
-- "h1" dan "p": adalah elemen heading dan paragraf yang digunakan untuk menampilkan judul dan teks pada halaman.
-- (img src="images/slide.png"): adalah elemen gambar yang menampilkan gambar "slide.png" pada halaman.
+	- (div class="header"): adalah div (elemen blok) dengan kelas "header" yang umumnya digunakan untuk bagian atas halaman web, berisi logo, navigasi, dan elemen header lainnya.
+	-  (section id="home"): adalah elemen "section" dengan ID "home" yang digunakan untuk merinci bagian tertentu dari halaman web. Biasanya digunakan dalam mengorganisasi konten.
+	- (div class="navbar"): adalah div dengan kelas "navbar" yang berisi navigasi situs web.
+	- (div class="logo"): adalah div dengan kelas "logo" yang berisi logo situs web.
+	- (nav): adalah elemen navigasi yang berisi daftar tautan ke halaman lain dalam situs.
+	- "ul": adalah daftar tak terurut (unordered list) yang berisi tautan navigasi.
+	- "li": adalah elemen daftar (list item) yang berisi tautan ke halaman lain.
+	- (div class="row"): adalah div dengan kelas "row" yang digunakan untuk mengatur konten dalam baris.
+	- (div class="col-2"): adalah div dengan kelas "col-2" yang digunakan untuk mengatur konten dalam dua kolom.
+	- "h1" dan "p": adalah elemen heading dan paragraf yang digunakan untuk menampilkan judul dan teks pada halaman.
+	- (img src="images/slide.png"): adalah elemen gambar yang menampilkan gambar "slide.png" pada halaman.
 2. (div class="footer"): adalah div dengan kelas "footer" yang mewakili bagian bawah halaman web.
-- (div class="sosialicon"): adalah div yang mungkin digunakan untuk menampilkan ikon-ikon media sosial.
-- (div class="footerbottom"): adalah div dengan kelas "footerbottom" yang berisi informasi hak cipta dan pengarang situs.
-- (p)copyright &copy;2023: Designed by (span class="designer")HasarisStore(/span)(/p): adalah elemen paragraf yang berisi informasi hak cipta dan pengarang situs.
-- (/body): Menandai akhir dari elemen body, yang menutup semua konten utama halaman web.
-- (/html): Menandai akhir dari elemen HTML, menutup seluruh dokumen HTML.
+	- (div class="sosialicon"): adalah div yang mungkin digunakan untuk menampilkan ikon-ikon media sosial.
+	- (div class="footerbottom"): adalah div dengan kelas "footerbottom" yang berisi informasi hak cipta dan pengarang situs.
+	- (p)copyright &copy;2023: Designed by (span class="designer")HasarisStore(/span)(/p): adalah elemen paragraf yang berisi informasi hak cipta dan pengarang situs.
+	- (/body): Menandai akhir dari elemen body, yang menutup semua konten utama halaman web.
+	- (/html): Menandai akhir dari elemen HTML, menutup seluruh dokumen HTML.
 
 2) halaman_kedua.css
 
@@ -1154,17 +1154,17 @@ b) body
 ![image](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/124480469/20dbb4d9-a9e6-4df9-918d-e89514947999)
 
 1) 'nav ul': adalah selector yang memilih elemen <ul> yang berada dalam elemen "nav".
-   - 'display: inline-block;': Mengubah elemen "ul" menjadi inline-block, sehingga daftar tautan akan ditampilkan secara horizontal.
-   - 'list-style-type: none;': Menghilangkan jenis daftar (bullet points) dari daftar tautan.
+	- 'display: inline-block;': Mengubah elemen "ul" menjadi inline-block, sehingga daftar tautan akan ditampilkan secara horizontal.
+  	- 'list-style-type: none;': Menghilangkan jenis daftar (bullet points) dari daftar tautan.
 2) 'nav ul li': adalah selector yang memilih elemen-elemen "li" yang berada dalam elemen "ul" di dalam elemen "nav".
-   - 'display: inline-block;': Mengubah elemen-elemen "li" menjadi inline-block sehingga tautan akan ditampilkan secara horizontal.
-   - margin-right: 20px;: Memberikan margin sebesar 20 piksel di sebelah kanan setiap elemen "li".
+  	- 'display: inline-block;': Mengubah elemen-elemen "li" menjadi inline-block sehingga tautan akan ditampilkan secara horizontal.
+   	- margin-right: 20px;: Memberikan margin sebesar 20 piksel di sebelah kanan setiap elemen "li".
 
 ![image](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/124480469/7a321ce6-c8a5-4260-acd6-4d7b237f8560)
 
 1) '.navbar ul li a:hover': adalah selector yang mengatur tampilan tautan saat kursor mouse mengarah ke atasnya (hover).
-- 'background-color: #daeaf6;': Mengubah warna latar belakang tautan menjadi biru muda saat kursor mouse di atasnya.
-- 'color: #000000;': Mengubah warna teks tautan menjadi hitam saat kursor mouse di atasnya.
+	- 'background-color: #daeaf6;': Mengubah warna latar belakang tautan menjadi biru muda saat kursor mouse di atasnya.
+	- 'color: #000000;': Mengubah warna teks tautan menjadi hitam saat kursor mouse di atasnya.
 
 ![image](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/124480469/d9195088-7a5f-467f-acf8-3fb4fe7c7144)
 
@@ -1172,20 +1172,20 @@ b) body
 2) 'text-decoration: none;': Menghilangkan dekorasi bawaan tautan, seperti garis bawah.
 3) 'color: #555;': Mengatur warna teks tautan menjadi abu-abu (#555).
 4) 'p': adalah selector yang memilih semua elemen `(p) (paragraf) di halaman web.
-- 'color: #555;': Mengatur warna teks paragraf menjadi abu-abu (#555).
+	- 'color: #555;': Mengatur warna teks paragraf menjadi abu-abu (#555).
 
 ![image](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/124480469/de491f9a-b2fd-40d8-9cdf-41c150fd722b)
 
 1) '.col-2': adalah selector yang memilih elemen dengan kelas "col-2."
-- 'flex-basis: 50%;': Memberikan elemen dengan kelas "col-2" fleksibilitas sehingga akan mengambil setengah dari lebar yang tersedia dalam kontainernya.
-- min-width: 300px;: Menentukan lebar minimum elemen dengan kelas "col-2" agar tidak menyusut terlalu sempit.
+	- 'flex-basis: 50%;': Memberikan elemen dengan kelas "col-2" fleksibilitas sehingga akan mengambil setengah dari lebar yang tersedia dalam kontainernya.
+	- min-width: 300px;: Menentukan lebar minimum elemen dengan kelas "col-2" agar tidak menyusut terlalu sempit.
 2) '.col-2 img': adalah selector yang memilih gambar yang berada dalam elemen dengan kelas "col-2."
-- 'max-width: 100%;': Mengatur gambar agar tidak melebihi lebar elemen yang memuatnya.
-- 'padding: 50px 0;': Memberikan padding sebesar 50 piksel di atas dan bawah gambar.
+	- 'max-width: 100%;': Mengatur gambar agar tidak melebihi lebar elemen yang memuatnya.
+	- 'padding: 50px 0;': Memberikan padding sebesar 50 piksel di atas dan bawah gambar.
 3) '.col-2 h1': adalah selector yang memilih elemen heading (h1) yang berada dalam elemen dengan kelas "col-2."
-  - 'font-size: 50px;': Mengatur ukuran font menjadi 50 piksel.
-  - 'line-height: 60px;': Mengatur tinggi baris menjadi 60 piksel.
-  - 'margin: 25px 0;': Memberikan margin sebesar 25 piksel di atas dan bawah teks heading.
+	- 'font-size: 50px;': Mengatur ukuran font menjadi 50 piksel.
+  	- 'line-height: 60px;': Mengatur tinggi baris menjadi 60 piksel.
+  	- 'margin: 25px 0;': Memberikan margin sebesar 25 piksel di atas dan bawah teks heading.
 
 ![image](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/124480469/20be2153-7c70-40f7-a22d-56c1a3fb5b19)
 
