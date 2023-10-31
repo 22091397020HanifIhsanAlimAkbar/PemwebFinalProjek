@@ -1244,53 +1244,63 @@ a) Deklarasi Dokumen HTML dan Metadata
 
 ![image](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/124480469/6c9eca40-2975-468a-b40f-3df2f5aaf2c0)
 
-1) '!DOCTYPE html': adalah deklarasi tipe dokumen HTML yang digunakan.
-2) 'html lang="en"': Elemen root yang menunjukkan bahasa dokumen adalah bahasa Inggris.
-3) 'meta charset="UTF-8"': Pengaturan pengkodean karakter untuk dokumen HTML (UTF-8 adalah pengkodean Unicode yang umum digunakan).
-4) 'meta name="viewport" content="width=device-width, initial-scale=1.0"': Meta tag yang mengatur tampilan halaman untuk perangkat seluler dan perangkat dengan resolusi berbeda.
-5) 'link rel="stylesheet" href="contact.css"': Menghubungkan file CSS eksternal dengan halaman.
-6) 'link href="images/logo-removebg-preview.png" rel="icon"': Mengatur ikon situs web (favicon).
-7) (title)Contact Us(/title): Judul halaman yang akan ditampilkan di tab browser.
+1) `<!DOCTYPE html>`: adalah deklarasi tipe dokumen HTML yang digunakan.
+2) `<html lang="en">`: Elemen root yang menunjukkan bahasa dokumen adalah bahasa Inggris.
+3) `<meta charset="UTF-8">`: Pengaturan pengkodean karakter untuk dokumen HTML (UTF-8 adalah pengkodean Unicode yang umum digunakan).
+4) `<meta name="viewport" content="width=device-width, initial-scale=1.0">`: Meta tag yang mengatur tampilan halaman untuk perangkat seluler dan perangkat dengan resolusi berbeda.
+5) `<link rel="stylesheet" href="contact.css">`: Menghubungkan file CSS eksternal dengan halaman.
+6) `<link href="images/logo-removebg-preview.png" rel="icon">`: Mengatur ikon situs web (favicon).
+7) `<title>Contact Us</title>`: Judul halaman yang akan ditampilkan di tab browser.
 
 b) Header dan Navigasi
 
 ![image](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/124480469/42ba4ba6-08a5-4305-950e-882d156ad2c4)
 
-1) 'body': adalah elemen yang mencakup seluruh konten yang akan ditampilkan di halaman web, mulai dari bagian atas hingga bagian bawah.
-2) 'div class="header"': adalah div (elemen divisi) yang mengelompokkan seluruh konten bagian atas halaman, seperti logo dan menu navigasi.
-3) 'div class="container"': adalah div yang mengelompokkan elemen-elemen dalam header. Biasanya digunakan untuk mengatur tampilan dan tata letak elemen-elemen tersebut.
-4) 'div class "navbar"': adalah div yang mengelompokkan elemen-elemen yang berhubungan dengan navigasi, seperti logo dan menu.
-5) 'div class="logo"': adalah div yang berisi gambar logo situs web. Gambar logo diambil dari "images/logo-removebg-preview.png" dengan lebar 125 piksel
-6) 'nav': adalah elemen yang mendefinisikan area menu navigasi situs web.
-7) 'ul': adalah daftar tidak terurut (unordered list) yang berisi daftar tautan menu.
-8) (li)(a href="halaman_kedua.html")Home(/a)(/li): adalah item daftar yang berisi tautan "Home" yang mengarahkan ke "halaman_kedua.html". Item-item berikutnya seperti "Products," "About," dan "Contact" juga menggunakan format yang sama.
+1) `<body>`: adalah elemen yang mencakup seluruh konten yang akan ditampilkan di halaman web, mulai dari bagian atas hingga bagian bawah.
+2) `<div class="header">`: adalah div (elemen divisi) yang mengelompokkan seluruh konten bagian atas halaman, seperti logo dan menu navigasi.
+3) `<div class="container">`: adalah div yang mengelompokkan elemen-elemen dalam header. Biasanya digunakan untuk mengatur tampilan dan tata letak elemen-elemen tersebut.
+4) `<div class "navbar">': adalah div yang mengelompokkan elemen-elemen yang berhubungan dengan navigasi, seperti logo dan menu.
+5) `<div class="logo">`: adalah div yang berisi gambar logo situs web. Gambar logo diambil dari "images/logo-removebg-preview.png" dengan lebar 125 piksel
+6) `<nav>`: adalah elemen yang mendefinisikan area menu navigasi situs web.
+7) `<ul>`: adalah daftar tidak terurut (unordered list) yang berisi daftar tautan menu.
+8) `<li><a href="halaman_kedua.html">Home</a></li>`: adalah item daftar yang berisi tautan "Home" yang mengarahkan ke "halaman_kedua.html". Item-item berikutnya seperti "Products," "About," dan "Contact" juga menggunakan format yang sama.
 
 c)  Informasi Kontak
 
 ![image](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/124480469/90f917eb-0519-472c-a7fb-6264b5cf66b4)
 
-1) (h2 class="title") Contact Us(/h2): adalah elemen judul (heading) level 2 (h2) dengan kelas "title". Ini menampilkan judul "Contact Us". Biasanya digunakan untuk memberikan judul atau pengumuman yang menonjol.
-2) 'div class="offer"': adalah div yang mengelompokkan elemen-elemen dalam bagian "Contact Us".
-3) (div class="contact-info"): adalah div yang mengelompokkan elemen-elemen informasi kontak. Ini mungkin digunakan untuk menampilkan alamat, nomor telepon, dan alamat email.
-4) (div class="contact-item"): adalah div yang mengelompokkan setiap item informasi kontak, seperti alamat, nomor telepon, dan alamat email.
-5) (i class="fas fa-map-marker-alt")(/i): adalah elemen ikon yang menggunakan ikon dari Font Awesome. Ini menggambarkan ikon alamat (map marker).
-6) (p)Jln. Kentintang Universitas Negeri Surabaya(/p): Ini adalah elemen paragraf (p) yang menampilkan alamat, dalam hal ini, "Jln. Kentintang Universitas Negeri Surabaya".
-7) (i class="fas fa-phone")(/i): adalah elemen ikon yang menggambarkan ikon telepon.
-8) (p)0882003365621(/p): adalah elemen paragraf yang menampilkan nomor telepon, disini bernoor "0882003365621".
-9) (i class="fas fa-envelope")(/i): adalah elemen ikon yang menggambarkan ikon email.
-10) (p)hasaristore@gmail.com(/p): adalah elemen paragraf yang menampilkan alamat email, disini menggunakan email "hasaristore@gmail.com".
+1) `<h2 class="title"> Contact Us</h2>`: adalah elemen judul (heading) level 2 (h2) dengan kelas "title". Ini menampilkan judul "Contact Us". Biasanya digunakan untuk memberikan judul atau pengumuman yang menonjol.
+2) `<div class="offer">`: adalah div yang mengelompokkan elemen-elemen dalam bagian "Contact Us".
+4) `<div class="contact-info">`: adalah div yang mengelompokkan elemen-elemen informasi kontak. Ini mungkin digunakan untuk menampilkan alamat, nomor telepon, dan alamat email.
+5) `<div class="contact-item">`: adalah div yang mengelompokkan setiap item informasi kontak, seperti alamat, nomor telepon, dan alamat email.
+6) `<i class="fas fa-map-marker-alt"></i>`: adalah elemen ikon yang menggunakan ikon dari Font Awesome. Ini menggambarkan ikon alamat (map marker).
+7) '<p>Jln. Kentintang Universitas Negeri Surabaya</p>`: adalah elemen paragraf (p) yang menampilkan alamat, dalam hal ini, "Jln. Kentintang Universitas Negeri Surabaya".
+8) `<i class="fas fa-phone"></i>`: adalah elemen ikon yang menggambarkan ikon telepon.
+9) `<p>0882003365621</p>`: adalah elemen paragraf yang menampilkan nomor telepon, disini bernoor "0882003365621".
+10) `<i class="fas fa-envelope"></i>: adalah elemen ikon yang menggambarkan ikon email.
+11) `<p>hasaristore@gmail.com</p>`: adalah elemen paragraf yang menampilkan alamat email, disini menggunakan email "hasaristore@gmail.com".
 
 d) Formulir Kontak
 ![image](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/124480469/e727a24e-12c8-4e62-b678-e5d96c38f05f)
 
-1) '<h2 class="title"> Contact Form</h2>': adalah elemen judul (heading) level 2 (h2) dengan kelas "title". Ini menampilkan judul "Contact Form". Biasanya digunakan untuk menunjukkan bahwa bagian berikutnya akan berisi formulir kontak
-2) <div class="offer">: adalah div yang mengelompokkan elemen-elemen dalam bagian "Contact Form". Ini mungkin digunakan untuk menampilkan berbagai jenis tawaran atau informasi lainnya.
-3) <form action="#" method="post">: adalah elemen formulir HTML. Atribut action dan method menentukan apa yang terjadi ketika formulir dikirim. action="#" berarti formulir akan mengirimkan data ke halaman yang sama (current page) dan menggunakan metode HTTP POST.
-4) <div class="form-group">: adalah div yang mengelompokkan setiap elemen dalam formulir yang memiliki label.
-5) <label for="name">Name</label>: adalah label yang terkait dengan elemen input "Name". Label ini digunakan untuk memberi tahu pengguna bahwa input ini dimaksudkan untuk memasukkan nama.
-6) <input type="text" id="name" name="name" required>: adalah elemen input teks yang digunakan untuk memasukkan nama. Atribut id digunakan untuk mengaitkan label dengan input, dan atribut name digunakan untuk mengidentifikasi input saat data dikirim. Atribut required menunjukkan bahwa input ini harus diisi.
-7) <label for="email">Email</label>: adalah label yang terkait dengan elemen input "Email". Label ini digunakan untuk memberi tahu pengguna bahwa input ini dimaksudkan untuk memasukkan alamat email.
-8) <input type="email" id="email" name="email" required>: adalah elemen input email yang digunakan untuk memasukkan alamat email. Atribut id digunakan untuk mengaitkan label dengan input, dan atribut name digunakan untuk mengidentifikasi input saat data dikirim. Atribut required menunjukkan bahwa input ini harus diisi, dan tipe email memvalidasi bahwa yang dimasukkan adalah alamat email yang valid.
-9) <label for="message">Message</label>: adalah label yang terkait dengan elemen textarea "Message". Label ini digunakan untuk memberi tahu pengguna bahwa input ini dimaksudkan untuk memasukkan pesan atau pesan.
-10) '<textarea id="message" name="message" rows="4" required></textarea>': adalah elemen textarea yang digunakan untuk memasukkan pesan atau pesan. Atribut id digunakan untuk mengaitkan label dengan textarea, dan atribut name digunakan untuk mengidentifikasi input saat data dikirim. Atribut required menunjukkan bahwa textarea ini harus diisi. Atribut rows menentukan jumlah baris yang akan ditampilkan pada textarea.
-11) <button type="submit">Send</button>: Ini adalah tombol yang digunakan untuk mengirimkan formulir. Ketika tombol "Send" ini ditekan oleh pengguna, formulir akan diirimkan ke lokasi yang ditentukan dalam atribut action pada elemen <form>.
+1) '<h2 class="title"> Contact Form</h2>': adalah elemen judul (heading) level 2(h2) dengan kelas "title". Ini menampilkan judul "Contact Form". Biasanya digunakan untuk menunjukkan bahwa bagian berikutnya akan berisi formulir kontak
+2) `<div class="offer">`: adalah div yang mengelompokkan elemen-elemen dalam bagian "Contact Form". Ini mungkin digunakan untuk menampilkan berbagai jenis tawaran atau informasi lainnya.
+3) `<form action="#" method="post">`: adalah elemen formulir HTML. Atribut action dan method menentukan apa yang terjadi ketika formulir dikirim. action="#" berarti formulir akan mengirimkan data ke halaman yang sama (current page) dan menggunakan metode HTTP POST.
+4) `<div class="form-group">`: adalah div yang mengelompokkan setiap elemen dalam formulir yang memiliki label.
+5) `<label for="name">Name</label>`: adalah label yang terkait dengan elemen input "Name". Label ini digunakan untuk memberi tahu pengguna bahwa input ini dimaksudkan untuk memasukkan nama.
+6) `<input type="text" id="name" name="name" required>`: adalah elemen input teks yang digunakan untuk memasukkan nama. Atribut id digunakan untuk mengaitkan label dengan input, dan atribut name digunakan untuk mengidentifikasi input saat data dikirim. Atribut required menunjukkan bahwa input ini harus diisi.
+7) `<label for="email">Email</label>`: adalah label yang terkait dengan elemen input "Email". Label ini digunakan untuk memberi tahu pengguna bahwa input ini dimaksudkan untuk memasukkan alamat email.
+8) `<input type="email" id="email" name="email" required>`: adalah elemen input email yang digunakan untuk memasukkan alamat email. Atribut id digunakan untuk mengaitkan label dengan input, dan atribut name digunakan untuk mengidentifikasi input saat data dikirim. Atribut required menunjukkan bahwa input ini harus diisi, dan tipe email memvalidasi bahwa yang dimasukkan adalah alamat email yang valid.
+9) `<label for="message">Message</label>`: adalah label yang terkait dengan elemen textarea "Message". Label ini digunakan untuk memberi tahu pengguna bahwa input ini dimaksudkan untuk memasukkan pesan atau pesan.
+10) `<textarea id="message" name="message" rows="4" required></textarea>`: adalah elemen textarea yang digunakan untuk memasukkan pesan atau pesan. Atribut id digunakan untuk mengaitkan label dengan textarea, dan atribut name digunakan untuk mengidentifikasi input saat data dikirim. Atribut required menunjukkan bahwa textarea ini harus diisi. Atribut rows menentukan jumlah baris yang akan ditampilkan pada textarea.
+11) `<button type="submit">Send</button>`: adalah tombol yang digunakan untuk mengirimkan formulir. Ketika tombol "Send" ini ditekan oleh pengguna, formulir akan diirimkan ke lokasi yang ditentukan dalam atribut action pada elemen `<form>`.
+
+![image](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/124480469/52800393-95a7-42a6-b79d-491519ca8939)
+
+e) Footer dan Media Sosial
+
+1) `<div class="footer">`: adalah div yang mengelompokkan elemen-elemen footer situs web. Footer biasanya digunakan untuk menampilkan informasi tambahan atau tautan penting di bagian bawah halaman web.
+2) `<div class="sosialicon">`: adalah div yang mengelompokkan tautan ke ikon-ikon media sosial.
+3) `<a href=""><img src="images/Instagram-Icon.png" width="30px"></a>`: adalah tautan (anchor) tanpa teks yang mengarahkan ke halaman kosong (href=""). Di dalamnya terdapat elemen gambar (img) yang menampilkan ikon Instagram dengan lebar 30 piksel. Ini sama dengan yang sebelumnya, tetapi dengan ikon-ikon untuk platform media sosial lainnya seperti Facebook, Twitter, dan YouTube.
+4) `<div class="footerbottom">`: Ini adalah div yang mungkin digunakan untuk menampilkan informasi tambahan di bagian bawah footer.
+5) `<p>copyright &copy;2023: Designed by <span class="designer">HasarisStore</span></p>`: adalah elemen paragraf (p) yang berisi informasi hak cipta dan informasi desainer situs web. Tanda hak cipta © dan tahun "2023" ditampilkan bersama dengan nama desainer "HasarisStore" yang diapit oleh elemen span dengan kelas "designer".
