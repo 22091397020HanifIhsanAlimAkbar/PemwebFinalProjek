@@ -197,10 +197,13 @@ Kebutuhan Non Fungsional berisi bagian yang menspesifikasikan ukuran kuantitatif
 ## 2.7 Asumsi dan Dependensi
 
 Asumsi:
+
 Admin memiliki otoritas penuh dalam pendataan barang dan pengolahan orderan dari customer.
 Admin harus mengetahui riset produk dan deskripsinya.
 Website ini merupakan website yang bisa di akses dimana saja dan sistem operasi device manapun.
-	Dependensi:
+
+Dependensi:
+
 Sistem informasi berbasis website ini dapat diakses jika terdapat koneksi internet saja.
 Catatan produk akan diantar apabila customer mempersetujui harga ongkir sesuai dengan pihak ketiga yaitu perusahaan jasa pengantaran.
 Pembayaran sudah terintegrasi dengan beberapa pihak
