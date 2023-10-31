@@ -1239,7 +1239,10 @@ D) Halaman Kedua
 
 E) Product
 
-1.	HTML 
+1. Product.html
+
+![producthtml1](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/144761618/8b32ff9d-a2b0-4379-afae-da94e1d4c87a)
+
 
 1)	<!DOCTYPE html>: Ini adalah deklarasi tipe dokumen (Document Type Declaration) yang menyatakan bahwa halaman web ini menggunakan standar HTML. Ini harus selalu ada di bagian atas halaman HTML.
 2)	<html lang="en">: Ini adalah tag pembuka untuk elemen HTML dan mengindikasikan bahwa ini adalah dokumen HTML dengan bahasa Inggris (English). "en" adalah kode bahasa ISO 639-1 untuk bahasa Inggris.
