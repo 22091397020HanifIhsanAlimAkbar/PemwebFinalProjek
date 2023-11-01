@@ -1339,3 +1339,5 @@ e) Footer dan Media Sosial
 4) `<div class="footerbottom">`: Ini adalah div yang mungkin digunakan untuk menampilkan informasi tambahan di bagian bawah footer.
 5) `<p>copyright &copy;2023: Designed by <span class="designer">HasarisStore</span></p>`: adalah elemen paragraf (p) yang berisi informasi hak cipta dan informasi desainer situs web. Tanda hak cipta © dan tahun "2023" ditampilkan bersama dengan nama desainer "HasarisStore" yang diapit oleh elemen span dengan kelas "designer".
 
+2) contact.css
+
