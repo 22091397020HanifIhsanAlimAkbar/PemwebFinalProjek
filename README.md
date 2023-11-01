@@ -930,7 +930,7 @@ b) body
 
 1) `<div class="login-container">`: adalah kontainer utama untuk seluruh konten halaman registrasi.
 2) `<div class="login-frame">` dan `<div class="login-content">`: adalah dua elemen div yang mungkin digunakan untuk mengelompokkan konten dan tampilan halaman.
-3) `<h2>Registrasi</h2>': adalah judul halaman yang ditampilkan kepada pengguna.
+3) `<h2>Registrasi</h2>`: adalah judul halaman yang ditampilkan kepada pengguna.
 4) Elemen-elemen `<div class="input-group">` digunakan untuk mengelompokkan label dan input form untuk username, email, password, dan konfirmasi password.
 5) Elemen-elemen `<label>` digunakan untuk memberikan label pada input form.
 6) Elemen-elemen `<input>` digunakan untuk memasukkan informasi seperti username, email, dan password.
@@ -1316,7 +1316,7 @@ c)  Informasi Kontak
 d) Formulir Kontak
 ![image](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/124480469/e727a24e-12c8-4e62-b678-e5d96c38f05f)
 
-1) '<h2 class="title"> Contact Form</h2>': adalah elemen judul (heading) level 2(h2) dengan kelas "title". Ini menampilkan judul "Contact Form". Biasanya digunakan untuk menunjukkan bahwa bagian berikutnya akan berisi formulir kontak
+1) `<h2 class="title"> Contact Form</h2>`: adalah elemen judul (heading) level 2(h2) dengan kelas "title". Ini menampilkan judul "Contact Form". Biasanya digunakan untuk menunjukkan bahwa bagian berikutnya akan berisi formulir kontak
 2) `<div class="offer">`: adalah div yang mengelompokkan elemen-elemen dalam bagian "Contact Form". Ini mungkin digunakan untuk menampilkan berbagai jenis tawaran atau informasi lainnya.
 3) `<form action="#" method="post">`: adalah elemen formulir HTML. Atribut action dan method menentukan apa yang terjadi ketika formulir dikirim. action="#" berarti formulir akan mengirimkan data ke halaman yang sama (current page) dan menggunakan metode HTTP POST.
 4) `<div class="form-group">`: adalah div yang mengelompokkan setiap elemen dalam formulir yang memiliki label.
