@@ -1244,7 +1244,7 @@ E) Product
 ![producthtml1](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/144761618/8b32ff9d-a2b0-4379-afae-da94e1d4c87a)
 
 
-1)	<!DOCTYPE html>: Ini adalah deklarasi tipe dokumen yang mendefinisikan bahwa halaman ini adalah dokumen HTML.
+1)	'<!DOCTYPE html>': Ini adalah deklarasi tipe dokumen yang mendefinisikan bahwa halaman ini adalah dokumen HTML.
 2)	<html lang="en">: Ini adalah elemen root atau akar dari dokumen HTML dan menunjukkan bahwa dokumen ini menggunakan bahasa Inggris (dalam kode ini).
 3)	<head>: Ini adalah bagian kepala dokumen HTML yang biasanya berisi informasi tentang halaman seperti tautan ke stylesheet, ikon situs, meta informasi, dll.
 4)	<meta charset="UTF-8">: Ini mendefinisikan karakter encoding dokumen sebagai UTF-8, yang digunakan untuk mengatur bagaimana karakter diinterpretasikan dalam halaman.
