@@ -1542,3 +1542,25 @@ G) Halaman About
 4. `.offer` dan `.profil`: Ini adalah pemilih CSS yang menargetkan elemen dengan kelas "offer" dan "profil."
    - `background: radial-gradient(...)`: Ini mengatur latar belakang elemen dengan kelas "offer" dan "profil" menggunakan efek gradient radial. Ini menciptakan latar belakang berbentuk gradient yang dapat berubah-ubah warnanya tergantung pada nilai-nilai gradient yang Anda tentukan.
 
+![image](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/121718997/177b5857-8fef-4553-90ca-953cbcd78c7b)
+
+1. `.col-2 .offer-img`: Ini adalah pemilih CSS yang menargetkan elemen dengan kelas "offer-img" yang berada dalam elemen dengan kelas "col-2."
+   - `padding: 50px;`: Ini memberikan elemen dengan kelas "offer-img" padding sebesar 50 piksel. Padding adalah jarak antara konten elemen dan batasnya. Dalam hal ini, ini menciptakan ruang ekstra di sekitar elemen "offer-img."
+2. `.footer`: Ini adalah pemilih CSS yang menargetkan elemen dengan kelas "footer."
+   - `background: #111;`: Ini mengatur latar belakang elemen "footer" menjadi warna gelap (#111).
+   - `font-size: 14px;`: Ini mengatur ukuran font teks dalam elemen "footer" menjadi 14 piksel.
+   - `padding: 30px 0;`: Ini memberikan padding sebesar 30 piksel di atas dan bawah elemen "footer." Ini menciptakan jarak di atas dan di bawah elemen "footer."
+   - `width: flex;`: Ini adalah nilai yang tidak valid. Kemungkinan maksudnya adalah `display: flex;`, yang mengatur elemen "footer" agar menggunakan model tata letak flexbox.
+   - `justify-content: center;`: Ini mengatur konten di dalam elemen "footer" agar berada di tengah horizontal elemen. Ini adalah salah satu properti tata letak yang digunakan dalam tata letak flexbox.
+3. `.sosialicon`: Ini adalah pemilih CSS yang menargetkan elemen dengan kelas "sosialicon."
+   - `display: flex;`: Ini mengatur elemen "sosialicon" agar menggunakan model tata letak flexbox. Ini memungkinkan elemen-elemen di dalamnya untuk tertata dalam baris secara horizontal.
+   - `justify-content: center;`: Ini mengatur elemen-elemen dalam "sosialicon" agar berada di tengah horizontal elemen "footer."
+4. `.sosialicon a:hover`: Ini adalah pemilih CSS yang menargetkan tautan (elemen "a") dalam elemen dengan kelas "sosialicon" ketika pengguna mengarahkan kursor mouse ke atasnya (ketika tautan dalam keadaan "hover").
+   - `background-color: #111;`: Ini mengatur latar belakang tautan saat di-hover menjadi warna gelap (#111).
+   - `transition: 0.5s;`: Ini mengatur transisi (animasi) dengan durasi 0.5 detik ketika pengguna mengarahkan kursor mouse ke tautan. Ini menciptakan efek perubahan warna latar belakang yang halus saat tautan di-hover.
+5. `.footerbottom`: Ini adalah pemilih CSS yang menargetkan elemen dengan kelas "footerbottom."
+   - `padding: 30px;`: Ini memberikan elemen "footerbottom" padding sebesar 30 piksel. Ini menciptakan jarak di sekitar elemen ini.
+6. `.footerbottom p`: Ini adalah pemilih CSS yang menargetkan elemen-elemen paragraf (p) dalam elemen dengan kelas "footerbottom."
+   - `color: #fff;`: Ini mengatur warna teks dalam elemen-elemen paragraf menjadi putih (#fff).
+
+
