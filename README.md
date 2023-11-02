@@ -102,8 +102,8 @@ Website yang akan dikembangkan adalah website untuk e-commerce fashion yang dapa
 1) Pembeli dapat mencari dan memilih barang.
 2) Pembeli dapat memasukkan produk ke keranjang.
 3) Pembeli dapat mengetahui penilaian produk.
-Pembeli dapat melihat data produk.
-Pembeli dapat memilih metode pembayaran dengan menghubungi contacts.
+4) Pembeli dapat melihat data produk.
+5) Pembeli dapat memilih metode pembayaran dengan menghubungi contacts.
 Fasilitas login untuk admin dan pembeli.
 Admin dapat mengelola produk, data user, dan data transaksi.
 Admin dapat mengirim data transaksi kepada pembeli.
