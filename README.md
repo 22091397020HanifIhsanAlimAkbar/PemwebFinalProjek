@@ -1088,7 +1088,6 @@ n) `.register-link`
 9) `text-decoration: none;`: Menghilangkan dekorasi tautan seperti garis bawah atau garis coret.
 10) `display: inline-block;`: Mengatur tautan agar ditampilkan sebagai elemen blok.
 11) `margin-top: 10px;`: Memberikan margin atas sebesar 10 piksel pada tautan.
-
  
 E) Contact Kedua
 
