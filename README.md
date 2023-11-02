@@ -1404,4 +1404,18 @@ G) Halaman About
 11.	`<li><a href="about.html">About</a></li>`: Ini adalah elemen li yang berisi tautan ke halaman "About" dengan teks "About."
 12.	`<li><a href="contact.html">Contact</a></li>`: Ini adalah elemen li yang berisi tautan ke halaman "Contact" dengan teks "Contact."
 
+![image](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/121718997/9b5be015-192d-4253-a942-5d19a7734355)
+
+1.	`</section>`: Ini adalah penutup dari elemen `<section>` yang mungkin digunakan untuk menandai akhir dari bagian "home" atau sebelumnya di halaman web. Ini menunjukkan bahwa elemen-elemen berikutnya termasuk dalam bagian "About."
+2.	`<h2 class="title"> About</h2>`: Ini adalah elemen heading level 2 (h2) dengan kelas "title" yang berisi teks "About." Elemen ini digunakan untuk menampilkan judul "About" di halaman web, dan kelas "title" mungkin digunakan untuk memberikan aturan gaya tertentu pada judul.
+3.	`<div class="offer">`: Ini adalah elemen div dengan kelas "offer." Elemen ini mungkin digunakan untuk menggambarkan bagian konten yang berhubungan dengan penawaran atau deskripsi mengenai situs web.
+4.	`<div class="small-container">`: Ini adalah elemen div dengan kelas "small-container." Elemen ini mungkin digunakan untuk mengelompokkan konten-konten dalam suatu kontainer kecil yang membatasi lebar konten untuk tampilan yang lebih teratur.
+5.	`<div class="row">`: Ini adalah elemen div dengan kelas "row." Elemen ini mungkin digunakan untuk menggambarkan baris (row) dari elemen-elemen yang akan ditampilkan dalam halaman "About."
+6.	`<div class="col-2">`: Ini adalah elemen div dengan kelas "col-2." Elemen ini mungkin digunakan untuk menggambarkan kolom pertama dari dua kolom yang akan menampilkan konten dalam halaman "About."
+7.	`<img src="images/lovepik-lovers-shopping-png-image_400680411_wh860-removebg-preview.png" class="Ofter-img">`: Ini adalah elemen gambar (img) dengan atribut `src` yang mengarahkan ke berkas gambar "lovepik-lovers-shopping-png-image_400680411_wh860-removebg-preview.png." Elemen ini mungkin digunakan untuk menampilkan gambar yang mendukung konten "About," dan memiliki kelas "Ofter-img."
+8.	`<div class="col-2">`: Ini adalah elemen div dengan kelas "col-2," yang merupakan kolom kedua dari dua kolom yang digunakan untuk menampilkan konten dalam halaman "About."
+9.	`<h1>Dress to Impress with Hasarisstore</h1>`: Ini adalah elemen heading level 1 (h1) yang berisi teks "Dress to Impress with Hasarisstore." Ini adalah judul atau pernyataan utama yang mungkin menjadi fokus dari konten "About."
+10.	`<p>Sebuah website untuk pengguna yang sedang mencari barang kebutuhan fashion Pria dan Wanita ...</p>`: Ini adalah elemen teks paragraf (p) yang berisi deskripsi atau penjelasan tentang situs web. Paragraf ini menjelaskan tujuan dan konteks dari situs web, seperti produk yang ditawarkan dan manfaatnya bagi pengguna.
+
+
 
