@@ -113,7 +113,7 @@ Website yang akan dikembangkan adalah website untuk e-commerce fashion yang dapa
 ## 1.3 Audiens Yang Dituju
 
 Dokumen ini ditujukan untuk pengembang website e-commerce Business-to-Consumer (B2C) Hasaris store. SRS ini, dibagi menjadi beberapa bagian, antara lain :
-Pengembang website yang ingin mencari referensi mengenai sistem e- commerce Business-to-Consumer (B2C).
+1) Pengembang website yang ingin mencari referensi mengenai sistem e- commerce Business-to-Consumer (B2C).
 Membantu menambah literatur dalam bidang web development.
 Menambah wawasan dan informasi mengenai sistem e-commerce.
 Dokumen pengajuan.
