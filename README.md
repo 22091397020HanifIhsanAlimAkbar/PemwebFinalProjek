@@ -422,7 +422,7 @@ Website sudah menggunakan domain.com dan SSL sebagai sertifikasi keamanan websit
 ![image](https://github.com/hanifmhsunesa/PemwebFinalProjek/assets/124480469/74af4a65-3245-44be-9949-2933228ecf2f)
 
 
-Flowchart 
+**Flowchart**
 
 ![image](https://github.com/hanifmhsunesa/PemwebFinalProjek/assets/124480469/bb6281cf-ff4e-450b-810e-5817b3d47327)
 
