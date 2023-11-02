@@ -132,10 +132,15 @@ Meskipun cakupan dari website Hasaris store ini cukup luas, namun, dapat membant
 
 Dokumen ini merujuk pada hasil observasi yang berkaitan dengan kebutuhan dan mencakup data secara umum, diperlukannya dan penulis dokumen berdasarkan pada :
 a) 2021. Apa itu E-commerce? Berikut Pengertian, Jenis, serta Manfaatnya!
+
 b) 2018. DOKUMEN SPESIFIKASI KEBUTUHAN PERANGKAT LUNAK DAISY : Aplikasi Pembanding Wedding Organizer.
+
 c) Widyahardh. Pengertian E – Commerce 
+
 d) 2014. DOKUMEN SPESIFIKASI KEBUTUHAN PERANGKAT LUNAK : Taking Order Application for Sales (TOAS) untuk PT Fashion Eservice Indonesia. Universitas Negeri Malang. 
+
 e) 2012. Seminar Nasional Teknologi Informasi & Komunikasi Terapan 2012 (Semantik 2012) : DOKUMENTASI SEBAGAI BAGIAN DARI 		PERANGKAT LUNAK 
+
 <div align="center">
 
 ## Bab 2. Deskripsi Keseluruhan
