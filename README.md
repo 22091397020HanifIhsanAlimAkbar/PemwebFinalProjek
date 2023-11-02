@@ -1411,6 +1411,65 @@ e) Footer dan Media Sosial
    - `margin-top: 80px;` memberikan margin atas sebesar 80 piksel, memberikan jarak antara elemen "offer" dengan elemen-elemen di atasnya.
    - `padding: 30px 0;` memberikan padding sebesar 30 piksel di sisi atas dan bawah elemen "offer," memberikan ruang di sekitarnya.
 
+![image](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/124480469/8946bb4b-70ba-4464-9e1d-82683903cd17)
+
+1) `.form-group`: adalah selektor untuk elemen dengan kelas "form-group." Ini mengatur tampilan dari grup elemen formulir dalam formulir kontak.
+- `margin: 10px 0;` memberikan margin sebesar 10 piksel di sisi atas dan bawah setiap grup elemen formulir. Ini memberikan jarak vertikal antara grup-grup elemen dalam formulir kontak.
+2) `label`: adalah selektor untuk elemen "label" dalam formulir kontak. 
+- `display: block;` mengubah elemen "label" menjadi elemen blok, sehingga elemen label akan memulai baris baru. Ini memastikan bahwa teks label dan elemen input/textarea akan tampil secara vertikal satu di atas yang lain.
+- font-size: 18px; mengatur ukuran font teks pada elemen label menjadi 18 piksel.
+
+![image](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/124480469/06473bae-8c50-41da-8226-12de5a58d8fe)
+
+1) `input, textarea`: adalah selektor yang mencakup baik elemen input maupun textarea, memungkinkan Anda untuk menerapkan aturan CSS yang sama pada keduanya.
+   - `width: 100%;` mengatur lebar elemen input dan textarea menjadi 100% dari lebar kontainer mereka, sehingga elemen-elemen ini akan mengisi seluruh lebar kontainer tempat mereka berada.
+   - `padding: 10px;` memberikan padding sebesar 10 piksel di sekitar elemen input dan textarea, memberikan ruang di dalam elemen untuk menghindari teks atau konten yang terlalu dekat dengan tepi elemen.
+   - `font-size: 16px;` mengatur ukuran font teks pada elemen input dan textarea menjadi 16 piksel.
+   - `border: 1px solid #ccc;` menambahkan garis tepi (border) sebesar 1 piksel dengan warna abu-abu (#ccc) pada elemen input dan textarea. Ini memberikan tampilan yang lebih jelas dan terstruktur pada elemen formulir.
+   - `border-radius: 5px;` memberikan sudut melengkung pada elemen input dan textarea dengan jari-jari 5 piksel.
+2) `textarea`: adalah aturan tambahan yang berlaku khusus untuk elemen `<textarea>`.
+   - `resize: vertical;` mengatur elemen `<textarea>` agar hanya dapat diperbesar secara vertikal. Dengan pengaturan ini, pengguna hanya dapat menyesuaikan tinggi (tinggi elemen) elemen `<textarea>` saat mengisi teks, tetapi tidak mengubah lebar elemen tersebut secara horizontal. Ini memastikan bahwa elemen `<textarea>` hanya dapat diperbesar sesuai kebutuhan vertikal tanpa mengganggu tampilan keseluruhan formulir.
+
+![image](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/124480469/401ecc86-0e70-4d33-bdaa-5957858ea835)
+
+1) Gaya Tombol (button):
+   - `background-color: #ff6f61;` mengatur warna latar belakang tombol menjadi #ff6f61, yang merupakan warna oranye.
+   - `color: #fff;` mengatur warna teks pada tombol menjadi putih.
+   - `padding: 12px 24px;` memberikan padding sebesar 12 piksel pada sisi atas dan bawah serta 24 piksel pada sisi kiri dan kanan tombol. Ini memberikan ukuran yang nyaman untuk tombol.
+   - `border: none;` menghapus garis tepi (border) pada tombol, sehingga tombol akan memiliki tampilan yang bersih tanpa garis tepi.
+   - `border-radius: 25px;` memberikan sudut melengkung pada tombol dengan jari-jari 25 piksel. Ini menciptakan tombol dengan sudut yang lebih lembut.
+   - `cursor: pointer;` mengubah ikon kursor saat diarahkan ke tombol menjadi tanda panah (pointer), menunjukkan bahwa tombol dapat diklik.
+   - `font-weight: bold;` mengatur tebal font pada tombol menjadi tebal (bold).
+   - `font-size: 16px;` mengatur ukuran font teks pada tombol menjadi 16 piksel.
+   - `transition: background-color 0.3s ease-in-out;` menambahkan transisi perubahan warna latar belakang tombol selama 0.3 detik dengan efek "ease-in-out" saat tombol diberi hover.
+2) Efek Hover pada Tombol (button:hover):
+   - `background-color: #ff9191;` mengatur warna latar belakang tombol saat tombol diberi hover menjadi #ff9191, yang merupakan warna oranye yang lebih terang.
+3) Bagian Footer (.footer):
+4) `background: #111;` mengatur warna latar belakang bagian footer menjadi #111, yang merupakan warna hitam gelap.
+5) `font-size: 14px;` mengatur ukuran font teks pada bagian footer menjadi 14 piksel.
+6) `padding: 30px 0;` memberikan padding sebesar 30 piksel pada sisi atas dan bawah bagian footer, sehingga ada ruang di sekitarnya.
+7) `width: flex;` membuat bagian footer mengisi seluruh lebar kontainer berada.
+8) `justify-content: center;` mengatur konten di dalam bagian footer untuk di-posisikan di tengah secara horizontal.
+
+![image](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/124480469/9f67175a-ecaf-49d1-ae1b-e56b93f09be4)
+
+1) `.sosialicon`:
+   - `display: flex;` mengatur kontainer `.sosialicon` sebagai kontainer fleksibel, yang berarti ikon-ikon media sosial akan ditata dalam satu baris.
+   - `justify-content: center`; mengatur ikon-ikon media sosial untuk di-posisikan di tengah secara horizontal dalam kontainer. Ini akan membuat ikon-ikon tersebut terpusat secara horizontal.
+2) `.sosialicon a`:
+   - `text-decoration: none;` menghapus dekorasi tautan (seperti garis bawah) dari ikon media sosial.
+   - `padding: 10px;` memberikan ruang sekitar ikon media sosial sebesar 10 piksel, menciptakan jarak antara ikon-ikon tersebut.
+   - `background-color: #fff;` mengatur latar belakang ikon media sosial menjadi putih.
+   - `margin: 10px;` memberikan margin sebesar 10 piksel di sekitar ikon media sosial, menciptakan jarak antara ikon-ikon tersebut dan elemen sekitarnya.
+   - `border-radius: 50%;` memberikan ikon-ikon media sosial bentuk bulat dengan jari-jari 50%, sehingga terlihat seperti tombol bulat.
+3) `.sosialicon a img`:
+   - opacity: 0.9; mengatur tingkat transparansi (kejernihan) ikon media sosial menjadi 0.9, menjadikannya sedikit transparan. Ini dapat memberikan efek sedikit gelap pada ikon saat mereka tidak dalam keadaan di-hover.
+4) `.sosialicon a:hover`:
+   - `background-color: #111;` mengatur latar belakang ikon media sosial menjadi #111 saat ikon diberi hover. Ini memberikan efek perubahan warna latar belakang saat pengguna mengarahkan kursor ke ikon media sosial.
+   - `transition: 0.5s;` menambahkan transisi selama 0.5 detik saat pengguna mengarahkan kursor ke ikon media sosial. Ini menciptakan efek perubahan warna yang halus ketika pengguna menggerakkan kursor di atas ikon.
+
+
+
 G) Halaman About
 
 1) about.html
