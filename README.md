@@ -164,7 +164,7 @@ Website Hasaris store memiliki beberapa tingkatan hak akses untuk setiap penggun
 1) Customer : Hak akses untuk pembeli
 2) Seller / Admin : Hak akses untuk penjual
 Karakteristik pengguna :
-Customer : Dapat login dan melakukan transaksi jual beli seperti memasukan produk ke keranjang dan melakukan checkout. 
+1) Customer : Dapat login dan melakukan transaksi jual beli seperti memasukan produk ke keranjang dan melakukan checkout. 
 Seller / admin : Dapat mengakses halaman dashboard penjual yang berguna untuk mengupload produk yang ingin dijual dan melihat transaksi barang apa saja yang sudah di checkout customer dan dapat mengontrol semua hak akses pengguna.
 
 ## 2.4 Lingkungan Pengembangan
