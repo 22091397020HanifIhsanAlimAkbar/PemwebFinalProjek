@@ -1442,7 +1442,20 @@ G) Halaman About
 7.	`</body>`: Ini adalah penutup dari elemen `<body>`, yang menunjukkan akhir dari konten utama halaman web.
 8.	`</html>`: Ini adalah penutup dari elemen `<html>`, yang menandakan akhir dari dokumen HTML.
 
+2) about.css
 
+![image](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/121718997/60397dbf-7f28-4de4-8049-2b008b71b993)
+
+1. `*`: Ini adalah pemilih universal dalam CSS, yang berarti aturan yang didefinisikan di bawah ini akan berlaku untuk semua elemen dalam halaman web.
+2. `margin: 0;`, `padding: 0;`: Ini mengatur margin dan padding untuk semua elemen menjadi 0. Ini digunakan untuk menghilangkan margin dan padding bawaan yang biasanya diterapkan oleh browser pada elemen-elemen HTML. Ini membantu mengatur tampilan elemen-elemen secara konsisten.
+3. `box-sizing: border-box;`: Ini mengatur model kotak (box model) untuk semua elemen dalam halaman web menjadi "border-box." Dalam model kotak ini, lebar dan tinggi elemen mencakup padding dan batas (border), sehingga memudahkan perhitungan ukuran elemen.
+4. `.navbar`: Ini adalah selektor kelas yang menggambarkan elemen dengan kelas "navbar." Aturan CSS di bawah ini akan berlaku untuk elemen yang memiliki kelas ini.
+5. `display: flex;`: Ini mengatur tampilan elemen dengan kelas "navbar" menjadi tampilan fleksibel. Tampilan fleksibel memungkinkan elemen-elemen anak di dalamnya untuk diatur dalam suatu baris atau kolom dan dapat diatur ulang sesuai kebutuhan tampilan.
+6. `align-items: center;`: Ini mengatur elemen-elemen di dalam "navbar" untuk selalu berada di tengah vertikal (vertically center). Ini berlaku untuk elemen-elemen yang menjadi anak dari elemen dengan kelas "navbar."
+7. `padding: 20px;`: Ini mengatur padding (jarak antara konten dan batas elemen) untuk elemen dengan kelas "navbar" sebesar 20 piksel.
+8. `nav`: Ini adalah selektor elemen yang menggambarkan elemen "nav" (navigasi) dalam halaman web.
+9. `flex: 1;`: Ini mengatur elemen "nav" untuk memanfaatkan fleksibilitas tampilan yang telah diatur oleh elemen dengan kelas "navbar." Ini mengalokasikan ruang yang tersisa dalam elemen "navbar" kepada elemen "nav."
+10. `text-align: right;`: Ini mengatur teks dalam elemen "nav" agar terletak di sebelah kanan elemen tersebut. Ini akan memengaruhi tampilan tautan navigasi di dalam elemen "nav" dengan posisi kanan.
 
 
 
