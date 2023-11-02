@@ -108,7 +108,7 @@ Website yang akan dikembangkan adalah website untuk e-commerce fashion yang dapa
 7) Admin dapat mengelola produk, data user, dan data transaksi.
 8) Admin dapat mengirim data transaksi kepada pembeli.
 9) Admin dapat menambah dan menghapus user.
-Admin dapat melihat detail pesanan pembeli.
+10) Admin dapat melihat detail pesanan pembeli.
 
 ## 1.3 Audiens Yang Dituju
 
