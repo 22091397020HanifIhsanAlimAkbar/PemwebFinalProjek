@@ -232,7 +232,7 @@ Hasaris Store mengusung konsep desain yang ramah untuk digunakan oleh pengguna. 
 
 ## 3.3 Antarmuka Perangkat Lunak
 
-Tampilan Beranda
+**Tampilan Beranda**
 
 ![image](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/144761618/0824b22b-63bd-4733-a245-71dd62c33bec)
 
