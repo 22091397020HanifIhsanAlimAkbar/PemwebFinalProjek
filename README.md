@@ -1393,6 +1393,23 @@ e) Footer dan Media Sosial
 
 ![image](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/124480469/ad973206-e9a2-491b-bfec-8ee802b3b071)
 
+1) `.contact-info:` adalah selektor untuk elemen dengan kelas "contact-info." Ini mengatur tampilan dari kontainer yang berisi informasi kontak.
+   - `display: flex;` membuat elemen "contact-info" menjadi flex container, yang memungkinkan elemen-elemen anak di dalamnya untuk menjadi flex items. Ini sering digunakan untuk mengatur tata letak yang responsif.
+   - `flex-direction: column;` mengatur arah penataan elemen anak di dalamnya menjadi kolom, sehingga elemen-elemen anak akan disusun secara vertikal.
+   - `align-items: center;` mengatur elemen anak di dalam "contact-info" agar berada di tengah secara vertikal, sehingga mereka akan sejajar secara vertikal.
+2) `.contact-item`: adalah selektor untuk elemen dengan kelas "contact-item." Ini mengatur tampilan dari setiap item informasi kontak.
+   - `display: flex;` membuat elemen "contact-item" menjadi flex container, sehingga ikon dan teks informasi kontak akan sejajar.
+   - `align-items: center;` mengatur elemen anak di dalam "contact-item" agar berada di tengah secara vertikal.
+   - `margin: 10px;` memberikan margin sebesar 10 piksel di sekitar setiap "contact-item," memberikan jarak antara item informasi kontak.
+3) `.contact-item i`: adalah selektor untuk elemen ikon (ditandai dengan tag "i") dalam "contact-item."
+   - `font-size: 24px;` mengatur ukuran font ikon menjadi 24 piksel.
+   - `margin-right: 10px;` memberikan margin sebesar 10 piksel di sisi kanan ikon, memberikan jarak antara ikon dan teks informasi kontak.
+4) `.contact-item p`: adalah selektor untuk elemen teks paragraf (ditandai dengan tag "p") dalam "contact-item."
+   - `font-size: 18px`; mengatur ukuran font teks informasi kontak menjadi 18 piksel.
+5) `.offer`: adalah selektor untuk elemen dengan kelas "offer." Ini mengatur tampilan dari kontainer yang berisi informasi kontak dan formulir kontak.
+   - `background: radial-gradient(#fff, #ffd6d6);` mengatur latar belakang elemen "offer." Ini menggunakan gradient radial dari putih (#fff) ke warna merah muda (#ffd6d6), memberikan latar belakang yang bergradasi.
+   - `margin-top: 80px;` memberikan margin atas sebesar 80 piksel, memberikan jarak antara elemen "offer" dengan elemen-elemen di atasnya.
+   - `padding: 30px 0;` memberikan padding sebesar 30 piksel di sisi atas dan bawah elemen "offer," memberikan ruang di sekitarnya.
 
 G) Halaman About
 
