@@ -1372,3 +1372,21 @@ e) Footer dan Media Sosial
 6) `.navbar ul li a:hover`: adalah aturan gaya yang berlaku ketika tautan navbar dihover (kursor berada di atasnya).
    - `background-color: #daeaf6`; mengubah latar belakang tautan menjadi biru muda (#daeaf6) ketika dihover, memberikan respons visual kepada pengguna.
    - `color: #000000`; mengubah warna teks tautan menjadi hitam (#000000) ketika dihover, memberikan kontras yang lebih baik.
+
+
+G) Halaman About
+
+1) about.html
+
+![image](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/121718997/f9b681dc-82e2-48a0-9e26-c366a4027b3b)
+
+1.	`<!DOCTYPE html>`: Ini adalah deklarasi DOCTYPE HTML yang digunakan untuk menentukan jenis dokumen HTML yang digunakan, dalam hal ini, HTML versi 5 (HTML5). Ini adalah bagian yang mendefinisikan tipe dokumen dan diperlukan dalam setiap halaman HTML.
+2.	`<html lang="en">`: Ini adalah elemen pembuka dari dokumen HTML. Elemen ini menunjukkan bahwa ini adalah dokumen HTML dan juga mengatur atribut `lang` ke "en" (Inggris) untuk menunjukkan bahasa yang digunakan dalam halaman.
+3.	`<head>`: Ini adalah elemen kepala (head) dari dokumen HTML. Bagian ini berisi informasi tentang dokumen, seperti metadata dan tautan ke berkas-berkas lain yang diperlukan oleh halaman web. Semua elemen dalam bagian `<head>` tidak akan ditampilkan pada halaman web itu sendiri.
+4.	`<meta charset="UTF-8">`: Ini adalah elemen meta yang mengatur karakter set dokumen HTML ke UTF-8, yang merupakan karakter set umum yang mendukung berbagai karakter dan simbol dalam bahasa manusia.
+5.	`<meta name="viewport" content="width=device-width, initial-scale=1.0">`: Ini adalah elemen meta yang digunakan untuk mengatur tampilan responsif pada perangkat bergerak. Atribut `content` mengindikasikan agar lebar tampilan mengikuti lebar perangkat (`width=device-width`) dan tingkat zoom awal adalah 1.0 (`initial-scale=1.0`).
+6.	`<title>HasarisStore</title>`: Ini adalah elemen judul halaman (title). Judul ini akan ditampilkan di bilah judul browser dan digunakan sebagai judul tab ketika halaman web dibuka.
+7.	`<link rel="stylesheet" href="about.css">`: Ini adalah elemen tautan stylesheet (CSS) yang menghubungkan halaman HTML ini dengan berkas CSS yang disebut "about.css." Berkas CSS ini akan digunakan untuk mengatur tampilan dan gaya halaman web.
+8.	`<link href="images/logo-removebg-preview.png" rel="icon">`: Ini adalah elemen tautan ikon (favicon). Ini menghubungkan halaman web dengan berkas gambar "logo-removebg-preview.png" yang akan digunakan sebagai ikon yang ditampilkan di bilah judul browser atau tab halaman web. Ikon ini adalah representasi visual singkat dari halaman web atau merek.
+
+
