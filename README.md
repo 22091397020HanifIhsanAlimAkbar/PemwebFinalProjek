@@ -90,10 +90,10 @@
 ## 1.1 Tujuan 
 
 Tujuan pembuatan website Fashion Pria dan Wanita ( Hasaris store ) antara lain :
-Menghasilkan sebuah website untuk pengguna yang sedang mencari barang kebutuhan fashion Pria dan Wanita dan memudahkan pemilik toko Hasaris untuk memasarkan dan mempromosikan barang toko kebutuhan fashion pria dan wanita.
-Menjadikan website ini sebagai salah satu media layanan toko online untuk mempermudah pembeli mendapatkan produk yang dicari.
-Dapat memfasilitasi pemilik toko dalam memasarkan dan mempromosikan  produk fashion untuk pria dan wanita, termasuk pakaian sehari-hari, pakaian formal, aksesoris, sepatu, tas, dan lainnya.
-Mempermudah dan memperlancar proses transaksi jual beli karena penjual dan pembeli tidak harus bertemu langsung untuk melakukan transaksi.
+1) Menghasilkan sebuah website untuk pengguna yang sedang mencari barang kebutuhan fashion Pria dan Wanita dan memudahkan pemilik toko Hasaris untuk memasarkan dan mempromosikan barang toko kebutuhan fashion pria dan wanita.
+2) Menjadikan website ini sebagai salah satu media layanan toko online untuk mempermudah pembeli mendapatkan produk yang dicari.
+3) Dapat memfasilitasi pemilik toko dalam memasarkan dan mempromosikan  produk fashion untuk pria dan wanita, termasuk pakaian sehari-hari, pakaian formal, aksesoris, sepatu, tas, dan lainnya.
+4) Mempermudah dan memperlancar proses transaksi jual beli karena penjual dan pembeli tidak harus bertemu langsung untuk melakukan transaksi.
 Menyediakan informasi yang bermanfaat bagi pembeli dalam mencari produk produk yang dibutuhkan. 
 
 ## 1.2 Konvensi Dokumen
