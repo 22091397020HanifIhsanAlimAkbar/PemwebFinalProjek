@@ -407,7 +407,7 @@ Website sudah menggunakan domain.com dan SSL sebagai sertifikasi keamanan websit
 
 
 
-Lampiran A : Glosarium
+**Lampiran A : Glosarium**
 
 ![image](https://github.com/hanifmhsunesa/PemwebFinalProjek/assets/124480469/1446f890-ebdb-4712-b787-f46390d9cc16)
 
