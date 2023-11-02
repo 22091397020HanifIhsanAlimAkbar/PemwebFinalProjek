@@ -1341,3 +1341,34 @@ e) Footer dan Media Sosial
 
 2) contact.css
 
+![image](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/124480469/def673db-e321-45fb-aba3-8341adf2fa8d)
+
+1) `*`: adalah selektor universal yang memengaruhi semua elemen di halaman. Ini digunakan untuk mengatur gaya elemen secara global.
+2) `margin: 0`; menghilangkan margin (mengatur margin ke nol) untuk semua elemen, sehingga tidak ada jarak di sekitar elemen-elemen.
+3) `padding: 0`; menghilangkan padding (mengatur padding ke nol) untuk semua elemen.
+4) `box-sizing`: border-box; mengatur model kotak elemen sehingga lebar dan tinggi elemen termasuk padding dan border, bukan hanya kontennya.
+5) `font-family`: 'Arial', sans-serif; mengatur jenis font yang akan digunakan oleh semua teks dalam halaman. Font utamanya adalah 'Arial', dengan cadangan 'sans-serif' jika 'Arial' tidak tersedia.
+
+![image](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/124480469/37cbba59-e55b-46db-b6bb-6025bbe11127)
+
+1) `.navbar`: adalah selektor untuk elemen yang memiliki kelas "navbar." Ini mengatur gaya untuk elemen navbar di halaman web.
+   - `display: flex`; membuat elemen navbar menjadi flex container, yang memungkinkan elemen-elemen anak di dalamnya untuk menjadi flex items. Ini sering digunakan untuk membuat tata letak yang responsif.
+   - `align-items: center`; mengatur elemen anak di dalam navbar agar berada di tengah secara vertikal, sehingga mereka akan sejajar secara vertikal.
+   - `padding: 20px`; menambahkan padding sebesar 20 piksel ke semua sisi elemen navbar, memberikan jarak di sekitarnya.
+2) `nav`: adalah selektor untuk elemen `<nav>`.
+   - `flex: 1`; memberikan elemen `<nav>` fleksibilitas sebagian besar dari ruang yang tersedia dalam elemen navbar. Ini berguna untuk mengisi ruang yang tersedia secara dinamis.
+   - `text-align: righ`t; mengatur teks di dalam elemen `<nav>` agar rata kanan, sehingga tautan dan teks lainnya akan berada di sisi kanan elemen tersebut.
+3) `nav ul`: adalah selektor untuk elemen ul (daftar tak terurut) yang berada di dalam elemen navbar.
+   - `display: inline-block`; membuat daftar tak terurut tampil dalam satu baris secara horizontal, bukan dalam satu kolom vertikal seperti biasanya.
+   - `list-style-type: none`; menghilangkan tanda pengenal (bullet point) default yang biasanya ada pada daftar tak terurut.
+4) `nav ul li`: adalah selektor untuk elemen-elemen li (item daftar) yang berada di dalam elemen ul.
+   - `display: inline-block`; membuat item daftar tampil secara horizontal, berdampingan satu sama lain di baris yang sama.
+   - `margin-right: 20px`; menambahkan margin sebesar 20 piksel di sisi kanan setiap item daftar, memberikan jarak antara item daftar.
+5) `.navbar ul li a`: adalah selektor untuk tautan (anchor) yang berada di dalam elemen-elemen li dalam navbar.
+   - `padding: 20px 20px`; memberikan padding sebesar 20 piksel pada sisi atas dan bawah, serta 20 piksel pada sisi kiri dan kanan tautan, memberikan tampilan yang luas dan nyaman.
+   - `display: inline-block`; membuat tautan tampil sebagai blok dalam elemen li.
+   - `text-decoration: none`; menghilangkan dekorasi tautan seperti garis bawah.
+   - `color: #555`; mengatur warna teks tautan menjadi abu-abu tua (#555).
+6) `.navbar ul li a:hover`: adalah aturan gaya yang berlaku ketika tautan navbar dihover (kursor berada di atasnya).
+   - `background-color: #daeaf6`; mengubah latar belakang tautan menjadi biru muda (#daeaf6) ketika dihover, memberikan respons visual kepada pengguna.
+   - `color: #000000`; mengubah warna teks tautan menjadi hitam (#000000) ketika dihover, memberikan kontras yang lebih baik.
