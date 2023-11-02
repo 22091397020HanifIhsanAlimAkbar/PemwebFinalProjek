@@ -99,9 +99,9 @@ Menyediakan informasi yang bermanfaat bagi pembeli dalam mencari produk produk y
 ## 1.2 Konvensi Dokumen
 
 Website yang akan dikembangkan adalah website untuk e-commerce fashion yang dapat digunakan oleh para kaum pria dan wanita untuk mencari, menemukan, dan membeli barang kebutuhan busana dan aksesoris pria dan wanita secara mudah dan efisien. Hasaris store dapat melakukan hal-hal berikut ini :
-Pembeli dapat mencari dan memilih barang.
-Pembeli dapat memasukkan produk ke keranjang.
-Pembeli dapat mengetahui penilaian produk.
+1) Pembeli dapat mencari dan memilih barang.
+2) Pembeli dapat memasukkan produk ke keranjang.
+3) Pembeli dapat mengetahui penilaian produk.
 Pembeli dapat melihat data produk.
 Pembeli dapat memilih metode pembayaran dengan menghubungi contacts.
 Fasilitas login untuk admin dan pembeli.
