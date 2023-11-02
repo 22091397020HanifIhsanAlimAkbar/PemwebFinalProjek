@@ -247,7 +247,7 @@ Hasaris Store mengusung konsep desain yang ramah untuk digunakan oleh pengguna. 
 ![category2](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/144761618/669faa8b-5672-4478-aa14-353c07483fe5)
 
 
-Tampilan Contact
+**Tampilan Contact**
 
 ![contact](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/144761618/a05a89a2-c7c9-4f15-b574-f0dad1b1e266)
 
