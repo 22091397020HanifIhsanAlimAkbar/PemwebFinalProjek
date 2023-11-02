@@ -1431,6 +1431,20 @@ G) Halaman About
 10.	`<img src="images/nuris.jpg">`: Ini adalah elemen gambar (img) dengan atribut `src` yang mengarahkan ke berkas gambar "nuris.jpg." Elemen ini mungkin digunakan untuk menampilkan gambar individu ketiga.
 11.	`<h2>Nurissa’idah</h2>`: Ini adalah elemen heading level 2 (h2) yang berisi nama "Nurissa’idah." Elemen ini digunakan untuk menampilkan nama individu ketiga.
 
+![image](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/121718997/f75a1327-405c-4031-a988-013e5dfa81b3)
+
+1.	`<div class="footer">`: Ini adalah elemen div dengan kelas "footer." Elemen ini mewakili bagian footer halaman web. Footer adalah bagian terakhir dari halaman web yang biasanya berisi informasi tambahan seperti tautan, kontak, atau hak cipta.
+2.	`<div class="sosialicon">`: Ini adalah elemen div dengan kelas "sosialicon." Meskipun dalam kode yang Anda berikan elemen ini tampak kosong, biasanya, elemen seperti ini akan digunakan untuk menampilkan ikon atau tautan ke akun media sosial atau platform lain yang terkait dengan situs web. Elemen ini mungkin digunakan untuk menggambarkan tautan sosial.
+3.	`<div class="footerbottom">`: Ini adalah elemen div dengan kelas "footerbottom." Elemen ini mewakili bagian bawah footer, yang biasanya berisi informasi hak cipta, informasi desainer situs web, atau tautan ke halaman terkait.
+4.	`<p>copyright &copy;2023: Designed by <span class="designer">HasarisStore</span></p>`: Ini adalah elemen paragraf (p) yang berisi informasi hak cipta dan informasi desainer situs web. Simbol "&copy;" mewakili tanda hak cipta, dan tahun "2023" menunjukkan tahun berlakunya hak cipta. Selanjutnya, ada teks "Designed by" yang diikuti oleh elemen span dengan kelas "designer" yang mungkin berisi nama desainer atau perusahaan yang merancang situs web (dalam hal ini, "HasarisStore").
+5.	`</div>`: Ini adalah penutup dari elemen "footer," yang menandai akhir dari bagian footer pada halaman web.
+6.	`<!--------- footer -------->`: Ini adalah komentar HTML yang digunakan untuk memberikan catatan atau penjelasan tambahan kepada pengembang atau pihak lain yang melihat kode. Dalam hal ini, komentar ini menandakan bahwa ini adalah bagian "footer."
+7.	`</body>`: Ini adalah penutup dari elemen `<body>`, yang menunjukkan akhir dari konten utama halaman web.
+8.	`</html>`: Ini adalah penutup dari elemen `<html>`, yang menandakan akhir dari dokumen HTML.
+
+
+
+
 
 
 
