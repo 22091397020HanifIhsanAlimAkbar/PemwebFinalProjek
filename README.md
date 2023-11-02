@@ -412,7 +412,7 @@ Website sudah menggunakan domain.com dan SSL sebagai sertifikasi keamanan websit
 ![image](https://github.com/hanifmhsunesa/PemwebFinalProjek/assets/124480469/1446f890-ebdb-4712-b787-f46390d9cc16)
 
 
-Lampiran B : Model Analisis
+**Lampiran B : Model Analisis**
 DFD Level 0
 
 ![image](https://github.com/hanifmhsunesa/PemwebFinalProjek/assets/124480469/4d8ec449-92ae-49d5-a269-7777c8e99d70)
