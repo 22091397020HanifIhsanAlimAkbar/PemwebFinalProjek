@@ -125,7 +125,7 @@ Cakupan dari website Hasaris store ini terbilang sangat luas. mulai dari fashion
 2) Celana
 3) Sepatu
 4) Tas
-Aksesoris wanita dan pria
+5) Aksesoris wanita dan pria
 Meskipun cakupan dari website Hasaris store ini cukup luas, namun, dapat membantu toko Hasaris membangun identitas merek yang kuat dan mengaitkannya dengan gaya, kualitas, dan kepercayaan diri dalam berpakaian untuk pria dan wanita. Ini membuat merek menjadi lebih mudah dikenali dan diingat oleh pelanggan.
 
 ## 1.5. Referensi
