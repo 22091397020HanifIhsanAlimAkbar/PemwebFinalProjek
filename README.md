@@ -430,15 +430,16 @@ Website sudah menggunakan domain.com dan SSL sebagai sertifikasi keamanan websit
 
 ![image](https://github.com/hanifmhsunesa/PemwebFinalProjek/assets/124480469/a5fe43c9-7129-451a-b810-a62b3636cc9d)
 
-UML Activity Diagram Sistem Login
+**UML Activity Diagram Sistem Login**
 
 ![image](https://github.com/hanifmhsunesa/PemwebFinalProjek/assets/124480469/8b48bd9e-799f-4d85-b082-2786d824d594)
 
-Use Case Diagram E-Commerce
+**Use Case Diagram E-Commerce**
 
 ![image](https://github.com/hanifmhsunesa/PemwebFinalProjek/assets/124480469/99ebb87a-bcef-41c2-a176-8a6511412291)
 
 Lampiran C : Daftar Fitur Yang Akan Ditentukan
+
 Pada lampiran ini berisi mengenai fitur-fitur yang belum ditentukan pada website Hasaris store, antara lain yaitu pembuatan IP agar website Hasaris store agar dapat digunakan pada aplikasi mobile, dan membuat Hasaris store menjadi aplikasi yang dapat digunakan pada android.
 
 PENJELASAN SCRIPT PROGRAM
