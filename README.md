@@ -105,7 +105,7 @@ Website yang akan dikembangkan adalah website untuk e-commerce fashion yang dapa
 4) Pembeli dapat melihat data produk.
 5) Pembeli dapat memilih metode pembayaran dengan menghubungi contacts.
 6) Fasilitas login untuk admin dan pembeli.
-Admin dapat mengelola produk, data user, dan data transaksi.
+7) Admin dapat mengelola produk, data user, dan data transaksi.
 Admin dapat mengirim data transaksi kepada pembeli.
 Admin dapat menambah dan menghapus user.
 Admin dapat melihat detail pesanan pembeli.
