@@ -161,7 +161,7 @@ Dengan kendali penuh, maka bisnis yang akan dijalankan juga bisa lebih dikenal d
 ## 2.3 Kelas dan Karakteristik Pengguna
 
 Website Hasaris store memiliki beberapa tingkatan hak akses untuk setiap penggunanya antara lain :
-Customer : Hak akses untuk pembeli
+1) Customer : Hak akses untuk pembeli
 Seller / Admin : Hak akses untuk penjual
 Karakteristik pengguna :
 Customer : Dapat login dan melakukan transaksi jual beli seperti memasukan produk ke keranjang dan melakukan checkout. 
