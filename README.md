@@ -1518,5 +1518,27 @@ G) Halaman About
 6. `.col-3 h2`: Ini adalah pemilih CSS yang menargetkan elemen-elemen judul (heading) h2 dalam elemen dengan kelas "col-3."
    - `text-align: center;`: Ini mengatur teks dalam elemen h2 agar menjadi pusat (teks rata tengah). Ini mengubah tata letak teks ke pusat dalam elemen "col-3."
 
+![image](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/121718997/bc8d3576-1a0e-44b4-9bea-cbbabd9694a8)
 
+1. `.small-container`: Ini adalah pemilih CSS yang menargetkan elemen dengan kelas "small-container."
+   - `max-width: 1080px;`: Ini mengatur lebar maksimum elemen dengan kelas "small-container" menjadi 1080 piksel. Ini membantu mengontrol lebar elemen agar tidak terlalu lebar.
+   - `margin: auto;`: Ini mengatur elemen dengan kelas "small-container" agar berada di tengah halaman web secara horizontal dengan menggunakan margin otomatis di kiri dan kanan.
+   - `padding: 25px;` dan `padding-right: 25px;`: Ini mengatur padding sebesar 25 piksel di sekeliling elemen dengan kelas "small-container," serta padding sebesar 25 piksel di sisi kanan elemen tersebut. Padding adalah jarak antara konten dan batas elemen.
+2. `.title`: Ini adalah pemilih CSS yang menargetkan elemen dengan kelas "title."
+   - `text-align: center;`: Ini mengatur teks dalam elemen dengan kelas "title" agar rata tengah (horizontal). Ini membuat teks berada di tengah elemen.
+   - `margin: 0 auto 80px;`: Ini mengatur margin elemen "title" menjadi 0 di atas dan bawah serta 80 piksel di sisi kiri dan kanan. Ini memberikan jarak di atas dan bawah elemen dan menjaga elemen berada di tengah halaman.
+   - `position: relative;`: Ini mengatur posisi elemen "title" menjadi relatif terhadap posisi aslinya dalam tata letak dokumen.
+   - `line-height: 60px;`: Ini mengatur tinggi baris (line-height) elemen "title" menjadi 60 piksel. Ini memengaruhi jarak antara baris dalam teks.
+   - `color: #555;`: Ini mengatur warna teks dalam elemen "title" menjadi #555, yang merupakan kode warna abu-abu tua.
+3. `.title::after`: Ini adalah pemilih CSS yang menargetkan pseudo-element "::after" dalam elemen dengan kelas "title." Pseudo-element ini digunakan untuk membuat elemen tambahan setelah elemen "title."
+   - `content: '';`: Ini menentukan konten dari pseudo-element "::after," yang dalam hal ini kosong.
+
+   - `background: #ff523b;`: Ini mengatur latar belakang pseudo-element "::after" menjadi warna merah (#ff523b).
+   - `width: 80px;` dan `height: 5px;`: Ini mengatur lebar dan tinggi pseudo-element "::after."
+   - `border-radius: 5px;`: Ini mengatur sudut-sudut pseudo-element "::after" sehingga menjadi bulat
+   - `position: absolute;`: Ini mengatur posisi pseudo-element "::after" menjadi absolut, yang memungkinkan pengaturan posisinya secara bebas.
+   - `left: 50%;` dan `bottom: 0;`: Ini mengatur posisi pseudo-element "::after" di tengah horizontal elemen "title" dan di bagian bawah elemen tersebut.
+   - `transform: translate(-50%);`: Ini mengubah posisi horizontal pseudo-element "::after" sedemikian rupa sehingga tetap berada di tengah elemen "title."
+4. `.offer` dan `.profil`: Ini adalah pemilih CSS yang menargetkan elemen dengan kelas "offer" dan "profil."
+   - `background: radial-gradient(...)`: Ini mengatur latar belakang elemen dengan kelas "offer" dan "profil" menggunakan efek gradient radial. Ini menciptakan latar belakang berbentuk gradient yang dapat berubah-ubah warnanya tergantung pada nilai-nilai gradient yang Anda tentukan.
 
