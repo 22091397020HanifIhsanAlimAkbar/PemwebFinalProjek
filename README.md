@@ -1468,7 +1468,13 @@ e) Footer dan Media Sosial
    - `background-color: #111;` mengatur latar belakang ikon media sosial menjadi #111 saat ikon diberi hover. Ini memberikan efek perubahan warna latar belakang saat pengguna mengarahkan kursor ke ikon media sosial.
    - `transition: 0.5s;` menambahkan transisi selama 0.5 detik saat pengguna mengarahkan kursor ke ikon media sosial. Ini menciptakan efek perubahan warna yang halus ketika pengguna menggerakkan kursor di atas ikon.
 
+![image](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/124480469/381c4dff-cb8d-4f00-92f4-c58216a4edb6)
 
+1) `.footerbottom`:
+   - `padding: 30px;` memberikan padding sebesar 30 piksel pada semua sisi elemen dengan class `.footerbottom`. Ini menciptakan ruang di sekitar elemen tersebut, memberikan jarak antara elemen ini dengan elemen-elemen sekitarnya.
+   - `text-align: center;` mengatur teks di dalam elemen dengan class .footerbottom untuk diberi rata tengah secara horizontal. Ini membuat teks yang ada di dalam elemen ini menjadi terpusat di tengah halaman web.
+2) `.footerbottom p`:
+- `color: #fff;` mengatur warna teks pada elemen paragraf (`<p>`) yang berada di dalam elemen dengan class `.footerbottom` menjadi putih (#fff). Ini akan membuat teks berwarna putih, yang sering digunakan untuk teks di bagian footer untuk kontras dengan latar belakang yang gelap.
 
 G) Halaman About
 
