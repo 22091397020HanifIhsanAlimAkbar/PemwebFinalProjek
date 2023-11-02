@@ -116,7 +116,7 @@ Dokumen ini ditujukan untuk pengembang website e-commerce Business-to-Consumer (
 1) Pengembang website yang ingin mencari referensi mengenai sistem e- commerce Business-to-Consumer (B2C).
 2) Membantu menambah literatur dalam bidang web development.
 3) Menambah wawasan dan informasi mengenai sistem e-commerce.
-Dokumen pengajuan.
+4) Dokumen pengajuan.
 
 ## 1.4. Lingkup Produk
 
