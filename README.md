@@ -1090,9 +1090,9 @@ n) `.register-link`
 10) `display: inline-block;`: Mengatur tautan agar ditampilkan sebagai elemen blok.
 11) `margin-top: 10px;`: Memberikan margin atas sebesar 10 piksel pada tautan.
  
-E) Contact Kedua
+D) halaman Kedua
 
-1) contact.html
+1) halaman_kedua.html
 
 a) head
 
@@ -1235,14 +1235,11 @@ b) body
 2) '.footerbottom p': adalah selector yang memilih elemen paragraf yang berada dalam elemen dengan kelas "footerbottom."
 	- color: #fff;: Mengatur warna teks paragraf menjadi putih (#fff).
 
-D) Halaman Kedua
-
-E) Product
+E) Halaman Product
 
 1. Product.html
 
 ![producthtml1](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/144761618/8b32ff9d-a2b0-4379-afae-da94e1d4c87a)
-
 
 1) `<!DOCTYPE html>`: adalah deklarasi tipe dokumen yang mendefinisikan bahwa halaman ini adalah dokumen HTML.
 2) `<html lang="en">`: adalah elemen root atau akar dari dokumen HTML dan menunjukkan bahwa dokumen ini menggunakan bahasa Inggris (dalam kode ini).
@@ -1372,6 +1369,29 @@ e) Footer dan Media Sosial
 6) `.navbar ul li a:hover`: adalah aturan gaya yang berlaku ketika tautan navbar dihover (kursor berada di atasnya).
    - `background-color: #daeaf6`; mengubah latar belakang tautan menjadi biru muda (#daeaf6) ketika dihover, memberikan respons visual kepada pengguna.
    - `color: #000000`; mengubah warna teks tautan menjadi hitam (#000000) ketika dihover, memberikan kontras yang lebih baik.
+
+![image](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/124480469/c867cc0b-8e88-422f-bb63-1f4d1435e98c)
+
+1) `.header`: adalah selektor untuk elemen dengan kelas "header." Ini mengatur tampilan latar belakang header.
+   - `background: radial-gradient(#fff, #ffd6d6);` mengatur latar belakang elemen header. Ini menggunakan gradient radial dari putih (#fff) ke warna merah muda (#ffd6d6). Ini menciptakan latar belakang yang bergradasi, yang memberikan tampilan yang menarik dan lembut pada header.
+2) `.title`: adalah selektor untuk elemen dengan kelas "title." Ini mengatur tampilan judul "Contact Us" pada header.
+   - `text-align: center;` membuat teks pada elemen "title" berada di tengah secara horizontal.
+   - `margin: 0 auto 80px;` memberikan margin atas 80 piksel untuk memberikan jarak antara judul dan elemen-elemen di bawahnya. margin: 0 auto secara horizontal membuat elemen berada di tengah secara horizontal di dalam kontainernya.
+   - `position: relative;` mengatur posisi elemen "title" menjadi relatif sehingga elemen anak yang memiliki posisi absolut dapat ditempatkan terkait dengan elemen ini.
+   - `line-height: 60px;` mengatur tinggi baris (line-height) teks menjadi 60 piksel, memberikan jarak antara baris teks yang cukup besar.
+   - `color: #555;` mengatur warna teks judul menjadi abu-abu tua (#555).
+3) `.title::after`: adalah pseudo-elemen (::after) yang ditambahkan ke elemen "title" untuk membuat garis horizontal di bawah judul.
+   - `content: '';` menambahkan konten kosong ke pseudo-elemen.
+   - `background: #ff523b;` mengatur warna latar belakang pseudo-elemen menjadi merah tua (#ff523b).
+   - `width: 80px;` memberikan lebar pseudo-elemen sebesar 80 piksel.
+   - `height: 5px;` memberikan tinggi pseudo-elemen sebesar 5 piksel, sehingga terlihat seperti garis horizontal.
+   - `border-radius: 5px;` memberikan sudut melengkung pada ujung pseudo-elemen.
+   - `position: absolute;` mengatur posisi pseudo-elemen menjadi absolut, sehingga dapat ditempatkan terkait dengan elemen "title."
+   - `left: 50%;` mengatur posisi horizontal pseudo-elemen menjadi tepat di tengah elemen "title."
+   - `bottom: 0;` mengatur posisi vertikal pseudo-elemen sehingga terletak di bagian bawah elemen "title."
+   - `transform: translate(-50%);` digunakan bersamaan dengan `left: 50%` untuk secara horizontal menggeser pseudo-elemen ke kiri sebanyak setengah lebarnya, sehingga berada di tengah elemen "title."
+
+![image](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/124480469/ad973206-e9a2-491b-bfec-8ee802b3b071)
 
 
 G) Halaman About
