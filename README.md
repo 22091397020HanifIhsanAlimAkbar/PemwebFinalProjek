@@ -1266,9 +1266,16 @@ E) Halaman Product
 18) `<a id="cart-icon" href="#cart">`: adalah tautan dengan ID "cart-icon" yang mengarah ke elemen dengan ID "cart." Ini digunakan untuk mengimplementasikan fungsi keranjang belanja pada situs web.
 19) `<img src="images/cart.png" width="30px" height="30px" alt="cart">`: adalah gambar ikon keranjang yang akan ditampilkan di tautan keranjang.
 
+![producthtml2](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/144761618/3dc72264-3b8f-4689-b558-d7187004aa3e)
+
+
+
+
 2. Product.css
 
-3. product.javascript
+   
+
+4. product.javascript
 
 
 F) Halaman Contact
