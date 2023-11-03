@@ -1289,6 +1289,14 @@ E) Halaman Product
 
 4. product.javascript
 
+![productjs1](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/144761618/1521c99e-55ea-40b4-8578-b789f4947c80)
+
+![productjs2](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/144761618/533a7064-858b-4511-a27f-b2eeb18735eb)
+
+![productjs3](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/144761618/41b90966-f270-43e9-a708-290141718b61)
+
+![productjs4](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/144761618/c859162b-834c-467c-8e92-0f942b06bf6a)
+
 
 F) Halaman Contact
 
