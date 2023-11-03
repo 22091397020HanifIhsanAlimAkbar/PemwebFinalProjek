@@ -1268,12 +1268,24 @@ E) Halaman Product
 
 ![producthtml2](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/144761618/3dc72264-3b8f-4689-b558-d7187004aa3e)
 
+![producthtml3](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/144761618/69b09212-8ebf-4584-ac99-d8c59cb253df)
 
 
 
 2. Product.css
 
-   
+![productcss1](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/144761618/bee60995-2c16-4f02-a20d-574cdccecfa5)
+
+![productcss2](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/144761618/37b0c64f-c663-4024-942e-6e7542d234c2)
+
+![productcss3](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/144761618/a8875af4-c500-48d4-a2b6-f9e3712071ee)
+
+![productcss4](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/144761618/39103433-83c7-42c2-994c-f587cb30d91b)
+
+![productcss5](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/144761618/a29d2300-6d9b-4026-b977-ed8208c08e58)
+
+![productcss6](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/144761618/e5672b1d-2ba2-4893-9999-eb2119bc16ca)
+
 
 4. product.javascript
 
