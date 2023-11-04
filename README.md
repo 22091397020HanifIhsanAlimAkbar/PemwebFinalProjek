@@ -1337,6 +1337,20 @@ Aturan margin: 0;, padding: 0;, dan box-sizing: border-box;: Ini mengatur margin
 
 ![productcss3](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/144761618/a8875af4-c500-48d4-a2b6-f9e3712071ee)
 
+1) `.close-cart`: Ini adalah kelas CSS yang mungkin digunakan untuk mengatur tampilan tombol "close cart" atau tombol penutup pada keranjang belanja. Aturan ini mengatur tampilan latar belakang, warna teks, border, padding, pointer mouse, dan margin atas.
+2) `.cart-item span`: Ini adalah aturan CSS yang mungkin digunakan untuk mengatur tampilan elemen-elemen teks dalam item keranjang belanja. Ini menetapkan elemen-elemen ini agar memiliki penampilan tampilan fleksibel, dengan teks yang mendapat justifikasi di sebelah kiri.
+3) `.cart-item span:nth-child(2)`: Ini adalah aturan CSS yang menargetkan elemen kedua dari elemen span di dalam item keranjang belanja. Ini mengatur tampilan elemen ini agar fleksibel dengan penjustifikasian di sebelah kanan.
+4) `.cart-item span:last-child`: Ini adalah aturan CSS yang menargetkan elemen terakhir dari elemen span di dalam item keranjang belanja. Ini mengatur margin kiri pada elemen ini.
+5) `.add-to-cart`: Ini adalah kelas CSS yang mungkin digunakan untuk mengatur tampilan tombol "add to cart" atau tombol tambah ke keranjang. Aturan ini mengatur ukuran font, warna teks, pointer mouse, dan margin kiri.
+6) `.add-to-cart:hover`: Ini adalah aturan CSS yang mengatur tampilan tombol "add to cart" saat kursor mouse berada di atasnya (hover). Aturan ini mengubah warna teks saat tombol ditemukan.
+7) `.header`: Ini adalah kelas CSS yang mungkin digunakan untuk mengatur tampilan elemen header di halaman. Aturan ini mengatur latar belakang dengan efek radial gradient.
+8) `.categories`: Ini adalah kelas CSS yang mungkin digunakan untuk mengatur tampilan elemen dengan kelas "categories." Aturan ini mengatur margin atas dan bawah pada elemen ini.
+9) `.col-3`: Ini adalah kelas CSS yang mungkin digunakan untuk mengatur tampilan elemen kolom dengan kelas "col-3." Aturan ini mengatur flex-basis, lebar minimum, margin bawah, dan tampilan gambar di dalamnya.
+10) `.col-3` img: Ini adalah aturan untuk mengatur tampilan gambar di dalam elemen dengan kelas "col-3." Aturan ini mengatur lebar gambar agar mengisi seluruh lebar elemen.
+11) `.small-container`: Ini adalah kelas CSS yang mungkin digunakan untuk mengatur tampilan elemen dengan kelas "small-container." Aturan ini mengatur lebar maksimum, margin tengah, dan padding pada elemen ini.
+12) `.col-4`: Ini adalah kelas CSS yang mungkin digunakan untuk mengatur tampilan elemen kolom dengan kelas "col-4." Aturan ini mengatur flex-basis, padding, lebar minimum, margin bawah, dan efek transform saat ada perubahan tampilan.
+ 
+
 ![productcss4](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/144761618/39103433-83c7-42c2-994c-f587cb30d91b)
 
 ![productcss5](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/144761618/a29d2300-6d9b-4026-b977-ed8208c08e58)
