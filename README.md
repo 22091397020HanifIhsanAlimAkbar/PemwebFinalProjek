@@ -1320,6 +1320,21 @@ Aturan margin: 0;, padding: 0;, dan box-sizing: border-box;: Ini mengatur margin
 
 ![productcss2](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/144761618/37b0c64f-c663-4024-942e-6e7542d234c2)
 
+1) `.button-value`: Ini adalah kelas CSS yang digunakan untuk tombol. Aturan CSS ini mengatur tampilan tombol, termasuk border, padding, border-radius, warna latar belakang, warna teks, dan pointer mouse.).active: Ini adalah kelas CSS yang mungkin digunakan untuk menandai elemen yang sedang aktif atau dipilih. Aturan CSS ini mengubah tampilan latar belakang dan warna teks saat elemen tersebut aktif.
+2) `#products`: Ini adalah ID CSS yang digunakan untuk elemen dengan ID "products," yang mungkin digunakan untuk menampilkan daftar produk. Aturan CSS ini mengatur tampilan elemen tersebut menjadi grid dengan tiga kolom, menambah jarak antar kolom, dan memberikan padding.
+3)`.card`: Ini adalah kelas CSS yang mungkin digunakan untuk menggambarkan kartu produk atau elemen sejenisnya. Aturan ini mengatur latar belakang, lebar maksimum, margin atas, padding, border-radius, dan efek bayangan pada elemen tersebut.
+4) `.image-container`: Ini adalah kelas CSS yang mungkin digunakan untuk mengatur tampilan kotak gambar di dalam kartu produk. Aturan ini mengatur gambar untuk berada di tengah (text-align: center).
+5) `.image-container img`: Ini adalah aturan untuk mengatur tampilan gambar di dalam kotak gambar. Aturan ini mengatur lebar maksimum gambar, cara gambar ditampilkan, dan tinggi gambar.
+6) `.container`: Ini adalah kelas CSS yang mungkin digunakan untuk mengatur tampilan kontainer. Aturan ini mengatur padding atas, warna teks, dan lainnya pada elemen dengan kelas "container."
+7) `.container h5`: Ini adalah aturan CSS yang digunakan untuk mengatur tampilan elemen heading level 5 (h5) dalam elemen dengan kelas "container." Aturan ini mengatur berat font teks.
+8) `.hide`: Ini adalah kelas CSS yang mungkin digunakan untuk menyembunyikan elemen. Aturan ini mengatur tampilan elemen menjadi tidak terlihat dengan display: none.
+9)` #cart-container`: Ini adalah ID CSS yang mungkin digunakan untuk mengatur tampilan kontainer keranjang belanja. Aturan ini mengatur margin atas, padding, latar belakang, border-radius, bayangan, dan tata letak teks pada elemen dengan ID "cart-container."
+10) `.cart h2`: Ini adalah aturan CSS yang mungkin digunakan untuk mengatur tampilan judul h2 di dalam elemen dengan kelas "cart." Aturan ini mengatur warna teks dan ukuran font.
+11)` .remove-item`: Ini adalah kelas CSS yang mungkin digunakan untuk mengatur tampilan tombol "remove" di dalam keranjang belanja. Aturan ini mengatur tampilan latar belakang, warna teks, border, padding, dan pointer mouse.
+12) `.cart-item`: Ini adalah kelas CSS yang mungkin digunakan untuk mengatur tampilan item dalam keranjang belanja. Aturan ini mengatur tampilan item dengan tampilan flex, justifikasi, dan penyesuaian elemen-elemen di dalamnya.
+13) `.cart-item .product-name, .cart-item .product-price, dan .cart-item .remove-item`: Ini adalah aturan-atuan untuk mengatur tampilan nama produk, harga produk, dan tombol "remove" di dalam item keranjang belanja. Mereka mengatur tampilan teks, penyesuaian, dan tampilan elemen-elemen tersebut.
+
+
 ![productcss3](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/144761618/a8875af4-c500-48d4-a2b6-f9e3712071ee)
 
 ![productcss4](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/144761618/39103433-83c7-42c2-994c-f587cb30d91b)
