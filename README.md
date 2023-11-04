@@ -1399,14 +1399,27 @@ Aturan margin: 0;, padding: 0;, dan box-sizing: border-box;: Ini mengatur margin
 1) `data`: Ini adalah objek yang berisi seluruh data produk. Data ini mungkin digunakan untuk mengisi halaman web Anda dengan daftar produk.
 data berisi larik (array) dari objek-objek produk. Setiap objek produk memiliki empat properti:
 2) `productName`: Ini adalah nama produk yang menggambarkan produk tersebut.
-a) `category`: Ini adalah kategori produk, yang mungkin digunakan untuk mengkategorikan produk sesuai dengan jenisnya (seperti "Topwear," "Bottomwear," "Watch," "Jacket," atau "Shoes").
-b) `price`: Ini adalah harga produk dalam format teks. Harga ini mungkin digunakan untuk menampilkan harga produk kepada pengguna.
-c) `image`: Ini adalah URL gambar produk, yang akan digunakan untuk menampilkan gambar produk di halaman web.
+3) `category`: Ini adalah kategori produk, yang mungkin digunakan untuk mengkategorikan produk sesuai dengan jenisnya (seperti "Topwear," "Bottomwear," "Watch," "Jacket," atau "Shoes").
+4) `price`: Ini adalah harga produk dalam format teks. Harga ini mungkin digunakan untuk menampilkan harga produk kepada pengguna.
+5) `image`: Ini adalah URL gambar produk, yang akan digunakan untuk menampilkan gambar produk di halaman web.
 
 
 ![productjs2](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/144761618/533a7064-858b-4511-a27f-b2eeb18735eb)
 
+1) `let cart = [];`: Variabel cart adalah sebuah array yang digunakan untuk menyimpan produk yang ditambahkan ke keranjang belanja. Awalnya, array ini kosong.
+2) `let total = 0;`: Variabel total digunakan untuk melacak total harga belanja. Awalnya, total diatur ke 0.
+3) `function addToCart(product)`: Ini adalah fungsi yang digunakan untuk menambahkan produk ke keranjang belanja. Produk yang ditambahkan akan dimasukkan ke dalam array cart, dan kemudian fungsi updateCart() akan dipanggil untuk memperbarui tampilan keranjang belanja.
+4) `function removeFromCart(product)`: Ini adalah fungsi yang digunakan untuk menghapus produk dari keranjang belanja. Fungsi ini mencari indeks produk dalam array cart dan menghapusnya jika ditemukan. Setelah itu, fungsi updateCart() dipanggil untuk memperbarui tampilan keranjang belanja.
+5) `function updateCart()`: Ini adalah fungsi yang memperbarui tampilan keranjang belanja di halaman web. Fungsi ini menghapus semua item yang ada dalam keranjang, kemudian memperbarui tampilan dengan item-item baru yang ada dalam array cart. Selain itu, fungsi ini juga menghitung total harga belanja dalam mata uang Rupiah.
+6) Fungsi ini menciptakan elemen-elemen HTML untuk setiap produk dalam keranjang, termasuk nama produk, harga dalam format Rupiah, dan tombol "Remove" untuk menghapus produk.
+7) Setelah itu, elemen-elemen ini ditambahkan ke elemen dengan ID "cart-items" di halaman web.
+8) Total harga belanja dihitung dengan menambahkan harga produk yang ada dalam keranjang.
+9) Total harga juga ditampilkan dalam mata uang Rupiah dengan bantuan fungsi formatRupiah() yang mungkin telah Anda buat sebelumnya.
+
+
 ![productjs3](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/144761618/41b90966-f270-43e9-a708-290141718b61)
+
+
 
 ![productjs4](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/144761618/c859162b-834c-467c-8e92-0f942b06bf6a)
 
