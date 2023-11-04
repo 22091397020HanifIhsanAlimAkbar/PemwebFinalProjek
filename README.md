@@ -1353,6 +1353,22 @@ Aturan margin: 0;, padding: 0;, dan box-sizing: border-box;: Ini mengatur margin
 
 ![productcss4](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/144761618/39103433-83c7-42c2-994c-f587cb30d91b)
 
+1) `.col-4 img`: Ini mengatur tampilan gambar yang ada di dalam elemen dengan kelas "col-4," memastikan bahwa gambar mengisi seluruh lebar elemen tersebut.
+2) `.title`: Ini adalah kelas CSS yang digunakan untuk mengatur tampilan elemen dengan kelas "title." Aturan ini mengatur teks judul (title) dengan posisi tengah (text-align: center), memberikan margin bawah yang besar, dan menambahkan garis horizontal di bawah judul menggunakan pseudo-element ::after.
+3) `h4`: Ini adalah selektor yang mengatur tampilan elemen heading level 4 (h4), termasuk warna teks dan berat font yang normal.
+4) `.col-4`: Ini adalah kelas CSS yang mungkin digunakan untuk mengatur tampilan elemen kolom dengan kelas "col-4." Aturan ini mengatur ukuran font untuk elemen dengan kelas tersebut.
+5) `.col-4:hover`: Ini mengatur tampilan elemen "col-4" saat kursor mouse berada di atasnya (hover), dengan menggeser elemen sedikit ke atas (transform: translateY).
+6) `.footer`: Ini adalah kelas CSS yang digunakan untuk mengatur tampilan elemen footer di halaman web Anda. Aturan ini mengatur latar belakang, ukuran font, padding, lebar elemen, dan justifikasi konten ke tengah.
+7) `.sosialicon`: Ini adalah kelas CSS yang digunakan untuk mengatur tampilan elemen dengan kelas "sosialicon." Aturan ini mengatur tampilan kontainer ikon media sosial dengan justifikasi konten ke tengah.
+8) `.sosialicon a`: Ini mengatur tampilan tautan (link) di dalam elemen dengan kelas "sosialicon," termasuk padding, latar belakang, margin, dan border-radius.
+9) `.sosialicon a img`: Ini mengatur tampilan gambar di dalam tautan (link) dengan mengatur tingkat kejernihan gambar saat keadaan normal.
+10) `.sosialicon a:hover`: Ini mengubah tampilan tautan (link) saat kursor mouse berada di atasnya (hover), termasuk mengubah latar belakang dengan efek transisi.
+11)`.footerbottom`: Ini adalah kelas CSS yang digunakan untuk mengatur tampilan elemen dengan kelas "footerbottom." Aturan ini mengatur padding pada elemen ini dan mengatur tampilan teks di tengah (text-align: center).
+12) `#checkout-button`: Ini adalah ID CSS yang mungkin digunakan untuk mengatur tampilan tombol "Check Out." Aturan ini mengatur tampilan latar belakang, warna teks, padding, margin, dan border-radius.
+13) `#checkout-button:hover`: Ini mengubah tampilan tombol "Check Out" saat kursor mouse berada di atasnya (hover), termasuk mengubah latar belakang dengan efek transisi.
+14) `button`: Ini mengatur tampilan tombol (termasuk tombol yang mungkin digunakan untuk menghapus item dari keranjang belanja). Aturan ini mengatur latar belakang, warna teks, padding, border, border-radius, pointer mouse, berat font, ukuran font, dan efek transisi warna latar belakang saat tombol diberikan efek hover.
+
+
 ![productcss5](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/144761618/a29d2300-6d9b-4026-b977-ed8208c08e58)
 
 ![productcss6](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/144761618/e5672b1d-2ba2-4893-9999-eb2119bc16ca)
