@@ -1286,6 +1286,11 @@ Tombol-tombol kategori: Ini adalah elemen tombol yang mungkin memiliki teks sepe
 
 ![producthtml3](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/144761618/69b09212-8ebf-4584-ac99-d8c59cb253df)
 
+1) <div class="footer">: Ini adalah elemen div dengan kelas CSS "footer," yang biasanya digunakan untuk membuat bagian footer di halaman web. Footer adalah bagian bawah halaman yang sering digunakan untuk menampilkan informasi tambahan seperti tautan penting, hak cipta, ikon media sosial, atau kredit desain.
+2) <div class="sosialicon">: Ini adalah elemen div dengan kelas CSS "sosialicon," yang mungkin dimaksudkan untuk menampilkan ikon-ikon media sosial. Namun, dalam kode yang Anda berikan, konten atau ikon media sosial tidak terlihat. Biasanya, ini adalah tempat di mana Anda dapat menambahkan tautan atau ikon menuju halaman media sosial Anda.
+3) <div class="footerbottom">: Ini adalah elemen div dengan kelas CSS "footerbottom," yang mungkin digunakan untuk mengelompokkan elemen-elemen di bagian bawah footer. Biasanya, ini adalah tempat untuk menampilkan teks hak cipta dan kredit desain.
+<p>copyright &copy;2023: Designed by <span class="designer">HasarisStore</span></p>: Ini adalah elemen paragraf <p> yang mungkin digunakan untuk menampilkan teks hak cipta dan kredit desain. Teks ini mencakup tahun hak cipta "2023" dan kredit desain "Designed by HasarisStore." Simbol "©" digunakan untuk menampilkan tanda hak cipta.
+4) <script src="script.js"></script>: Ini adalah elemen <script> yang mengacu pada file JavaScript "script.js." Ini menunjukkan bahwa ada sebuah file JavaScript eksternal yang digunakan dalam halaman web ini untuk memberikan fungsi tambahan. File JavaScript biasanya digunakan untuk menangani logika interaktif di halaman web.
 
 
 2. Product.css
