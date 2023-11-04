@@ -1384,7 +1384,7 @@ Aturan margin: 0;, padding: 0;, dan box-sizing: border-box;: Ini mengatur margin
 
 ![productcss6](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/144761618/e5672b1d-2ba2-4893-9999-eb2119bc16ca)
 
-1)` #cart-sidebar`: Ini adalah ID CSS yang mungkin digunakan untuk mengatur tampilan elemen sidebar keranjang belanja. Aturan ini mengatur posisi elemen sidebar (fixed di sisi kanan), lebar, tinggi, latar belakang, efek bayangan, dan efek transisi untuk menggeser elemen ke kanan atau kiri.
+1) `#cart-sidebar`: Ini adalah ID CSS yang mungkin digunakan untuk mengatur tampilan elemen sidebar keranjang belanja. Aturan ini mengatur posisi elemen sidebar (fixed di sisi kanan), lebar, tinggi, latar belakang, efek bayangan, dan efek transisi untuk menggeser elemen ke kanan atau kiri.
 2) `#cart-sidebar.open`: Ini adalah aturan CSS yang mengatur tampilan elemen sidebar ketika memiliki kelas "open." Aturan ini menggeser elemen sidebar ke posisi yang terlihat (right: 0) saat elemen tersebut dibuka.
 3) `.remove-item dan .remove-item:hover`: Ini adalah aturan-aturan CSS yang mengatur tampilan tombol "remove item" dalam keranjang belanja dan mengubah tampilan tombol saat kursor mouse berada di atasnya (hover). Ini mengatur latar belakang, warna teks, border, padding, cursor mouse, dan margin kiri.
 4) `.cart-item`: Ini adalah kelas CSS yang mungkin digunakan untuk mengatur tampilan item-item dalam keranjang belanja. Aturan ini mengatur tampilan item-item dengan tampilan flex, justifikasi, dan penyesuaian elemen-elemen di dalamnya.
