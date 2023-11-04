@@ -1419,6 +1419,13 @@ data berisi larik (array) dari objek-objek produk. Setiap objek produk memiliki 
 
 ![productjs3](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/144761618/41b90966-f270-43e9-a708-290141718b61)
 
+1) const totalElementInRupiah = document.getElementById("total-price-in-rupiah");: Ini adalah variabel yang digunakan untuk menangkap elemen dengan ID "total-price-in-rupiah" dalam halaman web. Elemennya akan digunakan untuk menampilkan total harga belanja dalam format Rupiah.
+2) Fungsi formatRupiah(angka): Ini adalah fungsi yang digunakan untuk mengonversi harga dari tipe data angka ke format Rupiah yang lebih mudah dibaca. Fungsi ini mengambil angka, membalikkan urutan digit, membaginya menjadi grup ribuan, dan kemudian menggabungkan grup ribuan dengan tanda titik (.) untuk membuat format Rupiah yang umum.
+3) Fungsi updateCart(): Fungsi ini digunakan untuk memperbarui tampilan keranjang belanja, termasuk menghitung total harga belanja dan menampilkannya dalam format Rupiah.
+4) Fungsi filterProduct(value): Fungsi ini digunakan untuk mengatur tampilan produk berdasarkan kategori yang dipilih oleh pengguna. Fungsi ini menerima parameter value, yang merupakan kategori yang dipilih oleh pengguna. Fungsi ini melakukan hal berikut:
+5) Menggunakan document.querySelectorAll(".button-value"), fungsi ini memilih semua elemen dengan kelas "button-value" (tombol kategori) di halaman.
+Fungsi ini mengubah status "active" pada tombol yang sesuai dengan kategori yang dipilih, dan menghapus status "active" dari tombol-tombol lainnya. Ini memberikan tampilan visual bahwa kategori tersebut sedang dipilih.
+Kemudian, fungsi ini memilih semua elemen dengan kelas "card" (produk) di halaman.
 
 
 ![productjs4](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/144761618/c859162b-834c-467c-8e92-0f942b06bf6a)
