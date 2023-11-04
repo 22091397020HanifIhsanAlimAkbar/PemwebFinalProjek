@@ -1290,13 +1290,33 @@ Tombol-tombol kategori: Ini adalah elemen tombol yang mungkin memiliki teks sepe
 1) `<div class="footer">`: Ini adalah elemen div dengan kelas CSS "footer," yang biasanya digunakan untuk membuat bagian footer di halaman web. Footer adalah bagian bawah halaman yang sering digunakan untuk menampilkan informasi tambahan seperti tautan penting, hak cipta, ikon media sosial, atau kredit desain.
 2) `<div class="sosialicon">`: Ini adalah elemen div dengan kelas CSS "sosialicon," yang mungkin dimaksudkan untuk menampilkan ikon-ikon media sosial. Namun, dalam kode yang Anda berikan, konten atau ikon media sosial tidak terlihat. Biasanya, ini adalah tempat di mana Anda dapat menambahkan tautan atau ikon menuju halaman media sosial Anda.
 3) `<div class="footerbottom">`: Ini adalah elemen div dengan kelas CSS "footerbottom," yang mungkin digunakan untuk mengelompokkan elemen-elemen di bagian bawah footer. Biasanya, ini adalah tempat untuk menampilkan teks hak cipta dan kredit desain.
-4) `<p>copyright &copy;2023: Designed by <span class="designer">HasarisStore</span></p>`: Ini adalah elemen paragraf <p> yang mungkin digunakan untuk menampilkan teks hak cipta dan kredit desain. Teks ini mencakup tahun hak cipta "2023" dan kredit desain "Designed by HasarisStore." Simbol "©" digunakan untuk menampilkan tanda hak cipta.
+4) `<p>copyright &copy;2023: Designed by <span class="designer">HasarisStore</span></p>`: Ini adalah elemen paragraf `<p>` yang mungkin digunakan untuk menampilkan teks hak cipta dan kredit desain. Teks ini mencakup tahun hak cipta "2023" dan kredit desain "Designed by HasarisStore." Simbol "©" digunakan untuk menampilkan tanda hak cipta.
 5) `<script src="script.js"></script>`: Ini adalah elemen `<script>` yang mengacu pada file JavaScript "script.js." Ini menunjukkan bahwa ada sebuah file JavaScript eksternal yang digunakan dalam halaman web ini untuk memberikan fungsi tambahan. File JavaScript biasanya digunakan untuk menangani logika interaktif di halaman web.
 
 
 2. Product.css
 
 ![productcss1](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/144761618/bee60995-2c16-4f02-a20d-574cdccecfa5)
+
+1) `*`: Ini adalah selektor universal yang berarti aturan CSS yang akan diterapkan pada semua elemen HTML dalam halaman.
+Aturan margin: 0;, padding: 0;, dan box-sizing: border-box;: Ini mengatur margin, padding, dan model kotak (box-sizing) untuk semua elemen HTML. Ini sering digunakan untuk menghilangkan margin dan padding default yang diterapkan oleh beberapa browser dan untuk memastikan elemen-elemen HTML menggunakan model kotak "border-box," yang berarti padding dan border akan dimasukkan dalam lebar dan tinggi elemen.
+2) `font-family` : 'Arial', sans-serif;: Ini mengatur jenis font yang akan digunakan untuk teks dalam halaman. Jika font 'Arial' tidak tersedia, maka jenis font sans-serif yang umum akan digunakan sebagai alternatif.
+3) `.navbar`: Ini adalah kelas CSS yang digunakan untuk elemen dengan kelas "navbar." Kode ini mengatur tampilan navbar, termasuk mengatur elemen-elemen di dalamnya dengan display flex, memberi padding, dan sebagainya.
+4) `nav`: Ini mengatur tampilan elemen `<nav>` di dalam navbar. Text diatur menjadi kanan.
+5) `nav ul`: Ini mengatur tampilan elemen daftar tak berurut (unordered list) dalam elemen <nav>, membuatnya menjadi inline-block dan menghilangkan penomoran (bullet points).
+6) `nav ul li`: Ini mengatur tampilan item-item dalam daftar tak berurut, membuatnya menjadi inline-block dan memberikan margin kanan agar terpisah dengan baik.
+7) `.navbar ul li a`: Ini mengatur tampilan tautan (link) dalam item daftar tak berurut di navbar, termasuk memberikan padding, menghilangkan dekorasi tautan (text-decoration), dan mengatur warna teks.
+8) `.navbar ul li a:hover`: Ini mengatur tampilan tautan ketika kursor mouse berada di atasnya (hover), termasuk mengubah latar belakang dan warna teks.
+9) `.container`: Ini adalah kelas CSS yang digunakan untuk elemen dengan kelas "container." Kode ini mengatur lebar maksimum elemen, membuatnya tengah (margin otomatis), dan memberikan padding ke kiri dan kanan.
+10) `.row`: Ini adalah kelas CSS yang digunakan untuk elemen dengan kelas "row." Kode ini mengatur tampilan baris dengan display flex, mengatur elemen-elemen di dalamnya untuk berada di tengah, dan mengatur cara mereka dibungkus (flex-wrap).
+11) `.col-2`: Ini adalah kelas CSS yang digunakan untuk elemen dengan kelas "col-2." Kode ini mengatur tampilan elemen kolom dengan flex-basis, lebar minimum, dan tampilan gambar di dalamnya.
+12) `.col-2 img`: Ini mengatur tampilan gambar yang ada di dalam elemen dengan kelas "col-2," memastikan bahwa gambar tidak melebihi lebar elemen dan memberikan padding atas dan bawah.
+13) `.col-2 h1`: Ini mengatur tampilan teks judul `<h1>` yang ada di dalam elemen dengan kelas "col-2," termasuk ukuran font, jarak baris (line-height), dan margin atas dan bawah.
+14) `.wrapper`: Ini adalah kelas CSS yang digunakan untuk elemen dengan kelas "wrapper." Kode ini mengatur tampilan elemen dengan lebar 95% dan membuatnya tengah (margin otomatis).
+15) `#search-container`: Ini adalah selektor ID yang digunakan untuk elemen dengan ID "search-container." Kode ini mengatur margin atas dan bawah pada elemen tersebut.
+16) `#search-container input`: Ini mengatur tampilan elemen input dalam elemen dengan ID "search-container," termasuk warna latar belakang, lebar, bingkai bawah, dan tampilan saat elemen mendapatkan fokus.
+17) `#search-container button`: Ini mengatur tampilan tombol dalam elemen dengan ID "search-container," termasuk padding, margin, warna latar belakang, warna teks, dan border-radius.
+
 
 ![productcss2](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/144761618/37b0c64f-c663-4024-942e-6e7542d234c2)
 
