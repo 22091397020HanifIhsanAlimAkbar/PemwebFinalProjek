@@ -1371,6 +1371,17 @@ Aturan margin: 0;, padding: 0;, dan box-sizing: border-box;: Ini mengatur margin
 
 ![productcss5](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/144761618/a29d2300-6d9b-4026-b977-ed8208c08e58)
 
+1) `button:hover`: Ini adalah aturan CSS yang mengubah tampilan tombol saat kursor mouse berada di atasnya (hover), termasuk mengubah latar belakang tombol.
+2) `.box .col-5`: Ini adalah aturan CSS yang mungkin digunakan untuk mengatur tampilan elemen dengan kelas "col-5" yang berada di dalam elemen dengan kelas "box." Aturan ini mengatur lebar, padding, tata letak teks, dan mengatur elemen ini agar mengapung ke kiri (float: left).
+3) `.box .col-5 h4 dan .box .col-5 p`: Ini adalah aturan CSS yang mengatur tampilan elemen heading h4 dan paragraf (p) yang berada di dalam elemen dengan kelas "col-5" yang berada dalam elemen dengan kelas "box." Ini mengatur margin, warna teks, dan tampilan teks.
+4) `.cart-items, .cart-items h2, dan .cart-item i`: Ini adalah aturan-aturan CSS yang mungkin digunakan untuk mengatur tampilan elemen-elemen terkait keranjang belanja dan pencarian. Ini mengatur tampilan teks, ukuran font, warna teks, dan elemen ikon (ikon seperti tanda silang) dalam item keranjang belanja.
+5) `#search-input, #search, dan #search:hover`: Ini adalah aturan-aturan CSS yang mungkin digunakan untuk mengatur tampilan elemen kotak pencarian produk dan tombol pencarian. Ini mengatur latar belakang, warna teks, bingkai, border-radius, padding, dan tampilan tombol saat kursor mouse berada di atasnya (hover).
+6)` .sidebar`: Ini adalah aturan CSS yang mungkin digunakan untuk mengatur tampilan elemen sisi (sidebar) di halaman web. Aturan ini mengatur posisi, lebar, latar belakang, efek bayangan, dan padding pada elemen sisi.
+7) `.cart h2 dan .cart-item`: Ini adalah aturan-aturan CSS yang mungkin digunakan untuk mengatur tampilan elemen terkait keranjang belanja. Ini mengatur warna teks, ukuran font, tampilan item-item dalam keranjang belanja, dan tampilan item secara keseluruhan.
+8)` .cart-item span, .cart-item span:nth-child(2), dan .cart-item span:last-child`: Ini adalah aturan-aturan CSS yang mungkin digunakan untuk mengatur tampilan elemen-elemen teks dalam item-item keranjang belanja. Ini mengatur penampilan teks, penyesuaian, dan margin.
+9)` .total-price`: Ini adalah aturan CSS yang mengatur tampilan elemen yang menampilkan total harga belanja. Ini mengatur ukuran font, berat font, dan margin atas.
+
+
 ![productcss6](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/144761618/e5672b1d-2ba2-4893-9999-eb2119bc16ca)
 
 
