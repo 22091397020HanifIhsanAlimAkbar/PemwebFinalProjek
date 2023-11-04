@@ -1426,9 +1426,30 @@ data berisi larik (array) dari objek-objek produk. Setiap objek produk memiliki 
 5) Menggunakan document.querySelectorAll(".button-value"), fungsi ini memilih semua elemen dengan kelas "button-value" (tombol kategori) di halaman.
 Fungsi ini mengubah status "active" pada tombol yang sesuai dengan kategori yang dipilih, dan menghapus status "active" dari tombol-tombol lainnya. Ini memberikan tampilan visual bahwa kategori tersebut sedang dipilih.
 Kemudian, fungsi ini memilih semua elemen dengan kelas "card" (produk) di halaman.
+6) Jika kategori yang dipilih adalah "all", maka semua produk ditampilkan (menghapus kelas "hide").
+7) Jika kategori yang dipilih tidak sama dengan "all", maka hanya produk dengan kelas yang sesuai dengan kategori yang dipilih yang akan ditampilkan, sedangkan yang lain akan disembunyikan dengan menambahkan kelas "hide."
+
 
 
 ![productjs4](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/144761618/c859162b-834c-467c-8e92-0f942b06bf6a)
+
+1) Event listener untuk tombol pencarian (#search):
+Ketika tombol pencarian diklik, kode ini mendapatkan nilai yang dimasukkan oleh pengguna ke dalam kotak pencarian (#search-input).
+Kemudian, kode ini memeriksa setiap produk di halaman untuk mencocokkan kata kunci pencarian dengan nama produk. Jika ada produk yang sesuai, produk tersebut tidak disembunyikan (menghapus kelas "hide"), sedangkan produk lainnya tetap disembunyikan.
+Ini memungkinkan pengguna untuk mencari produk berdasarkan nama produk.
+2) Fungsi toggleCart():
+Fungsi ini digunakan untuk menampilkan atau menyembunyikan sidebar keranjang belanja. Ketika tombol "Cart" di navbar diklik, fungsi ini akan dijalankan, dan elemen sidebar keranjang belanja (#cart-sidebar) akan ditambahkan atau dihapus dari kelas "open". Ini membuat sidebar muncul atau menghilang dari tampilan.
+Event listener untuk tombol "Cart" di navbar (#cart-icon):
+Ketika tombol "Cart" di navbar diklik, fungsi toggleCart() akan dijalankan untuk mengontrol tampilan sidebar keranjang belanja.
+3) `window.onload = () => { filterProduct("all"); }`:
+Ini adalah event handler yang akan dijalankan saat halaman web dimuat. Kode ini akan mengatur tampilan produk awal dengan kategori "all," sehingga semua produk akan ditampilkan.
+4) Loop untuk menghasilkan kartu produk:
+Kode ini mengambil data produk dari products.data dan menggunakan data tersebut untuk membuat kartu produk.
+Setiap kartu produk `(.card)` memiliki gambar produk, tombol "Add to Cart," nama produk, dan harga produk. Produk dikelompokkan berdasarkan kategori dan secara default disembunyikan (dengan kelas "hide").
+Ketika tombol "Add to Cart" diklik, produk akan ditambahkan ke keranjang belanja dengan memanggil fungsi addToCart(i).
+5) Fungsi checkout():
+Fungsi ini digunakan saat pengguna ingin melakukan pembelian atau "Check Out"
+
 
 
 F) Halaman Contact
