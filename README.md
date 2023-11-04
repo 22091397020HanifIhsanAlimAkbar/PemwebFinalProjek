@@ -1396,6 +1396,14 @@ Aturan margin: 0;, padding: 0;, dan box-sizing: border-box;: Ini mengatur margin
 
 ![productjs1](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/144761618/1521c99e-55ea-40b4-8578-b789f4947c80)
 
+1) `data`: Ini adalah objek yang berisi seluruh data produk. Data ini mungkin digunakan untuk mengisi halaman web Anda dengan daftar produk.
+data berisi larik (array) dari objek-objek produk. Setiap objek produk memiliki empat properti:
+2) `productName`: Ini adalah nama produk yang menggambarkan produk tersebut.
+a) `category`: Ini adalah kategori produk, yang mungkin digunakan untuk mengkategorikan produk sesuai dengan jenisnya (seperti "Topwear," "Bottomwear," "Watch," "Jacket," atau "Shoes").
+b) `price`: Ini adalah harga produk dalam format teks. Harga ini mungkin digunakan untuk menampilkan harga produk kepada pengguna.
+c) `image`: Ini adalah URL gambar produk, yang akan digunakan untuk menampilkan gambar produk di halaman web.
+
+
 ![productjs2](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/144761618/533a7064-858b-4511-a27f-b2eeb18735eb)
 
 ![productjs3](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/144761618/41b90966-f270-43e9-a708-290141718b61)
