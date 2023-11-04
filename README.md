@@ -1726,9 +1726,8 @@ G) Halaman About
 3.	`<div class="footerbottom">`: Ini adalah elemen div dengan kelas "footerbottom." Elemen ini mewakili bagian bawah footer, yang biasanya berisi informasi hak cipta, informasi desainer situs web, atau tautan ke halaman terkait.
 4.	`<p>copyright &copy;2023: Designed by <span class="designer">HasarisStore</span></p>`: Ini adalah elemen paragraf (p) yang berisi informasi hak cipta dan informasi desainer situs web. Simbol "&copy;" mewakili tanda hak cipta, dan tahun "2023" menunjukkan tahun berlakunya hak cipta. Selanjutnya, ada teks "Designed by" yang diikuti oleh elemen span dengan kelas "designer" yang mungkin berisi nama desainer atau perusahaan yang merancang situs web (dalam hal ini, "HasarisStore").
 5.	`</div>`: Ini adalah penutup dari elemen "footer," yang menandai akhir dari bagian footer pada halaman web.
-6.	`<!--------- footer -------->`: Ini adalah komentar HTML yang digunakan untuk memberikan catatan atau penjelasan tambahan kepada pengembang atau pihak lain yang melihat kode. Dalam hal ini, komentar ini menandakan bahwa ini adalah bagian "footer."
-7.	`</body>`: Ini adalah penutup dari elemen `<body>`, yang menunjukkan akhir dari konten utama halaman web.
-8.	`</html>`: Ini adalah penutup dari elemen `<html>`, yang menandakan akhir dari dokumen HTML.
+6.	`</body>`: Ini adalah penutup dari elemen `<body>`, yang menunjukkan akhir dari konten utama halaman web.
+7.	`</html>`: Ini adalah penutup dari elemen `<html>`, yang menandakan akhir dari dokumen HTML.
 
 2) about.css
 
