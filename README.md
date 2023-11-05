@@ -433,7 +433,7 @@ Website sudah menggunakan domain.com dan SSL sebagai sertifikasi keamanan websit
 
 **UML Activity Diagram Sistem Login**
 
-![image](https://github.com/hanifmhsunesa/PemwebFinalProjek/assets/124480469/8b48bd9e-799f-4d85-b082-2786d824d594)
+
 
 **Use Case Diagram E-Commerce**
 
