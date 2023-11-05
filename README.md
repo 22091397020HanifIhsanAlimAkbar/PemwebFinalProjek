@@ -332,17 +332,16 @@ Fitur Sistem
 
 ## 4.1 Deskripsi dan Prioritas
 
-Fitur Fitur Menu Beranda
+1) Fitur Fitur Menu Beranda
 Fitur menu beranda merupakan fitur utama pada Website Hasaris store. Dengan fitur ini, customer dapat melihat beberapa tampilan, seperti rekomendasi produk paling laris dan produk terfavorit. Pada tampilan beranda juga ada beberapa pilihan kategori untuk customer.
-Fitur Menu Produk
-Fitur menu produk ini bertujuan untuk menampilkan produk-produk barang yang dijual di Hasaris store untuk customer. Pada fitur ini, customer dapat melihat berbagai macam produk barang fashion menarik disertai harga dan deskripsi produk.
-Fitur Menu Keranjang 
-Fitur menu Keranjang terdapat beberapa produk yang dimasukkan customer ke keranjang beserta detailnya. Jika ingin mengcheckout pesanan dapat mengisi shipping details seperti data diri, kurir, dan pembayaran.
-Fitur Menu Checkout 
-Fitur Menu Checkout akan menampilkan detail pesanan yang sudah di checkout, status pemesanan
-Fitur Menu Login
-Fitur menu login merupakan proses customer untuk mendapatkan hak akses.Dengan adanya fitur ini, customer dapat menggunakan hak akses lebih optimal.
-
+2) Fitur Menu Produk
+Fitur menu produk ini bertujuan untuk menampilkan produk-produk barang yang dijual di Hasaris store untuk customer. Pada fitur ini, customer dapat melihat berbagai macam produk barang fashion menarik disertai harga dan nama produk.
+3) Fitur Menu Keranjang 
+Fitur menu Keranjang terdapat beberapa produk yang dimasukkan customer ke keranjang beserta detail harha dan harga totalnya.. 
+4) Fitur Menu Login 
+Fitur menu login merupakan proses customer untuk mendapatkan hak akses. Dengan adanya fitur ini, customer dapat menggunakan hak akses lebih optimal.
+5) Fitur Menu Registrasi 
+Menu registrasi  terdiri dari berbagai elemen yang pengguna untuk mengisi informasi pribadi mereka dan membuat akun pengguna. 
 
 ## 4.2 Fitur Sistem
 
@@ -367,9 +366,9 @@ Fitur menu login merupakan proses customer untuk mendapatkan hak akses.Dengan ad
 ## 5.1 Persyaratan Performa
 
 Persyaratan hardware dan software :
-Minimum windows 7 atau lebih
-Google chrome atau browser versi terbaru
-Akses internet
+1) Minimum windows 7 atau lebih
+2) Google chrome atau browser versi terbaru
+3) Akses internet
 
 ## 5.2 Persyaratan Keamanan Pengguna
 
@@ -433,6 +432,7 @@ Website sudah menggunakan domain.com dan SSL sebagai sertifikasi keamanan websit
 
 **UML Activity Diagram Sistem Login**
 
+![Untitled Diagram drawio (6)](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/144761618/6371f3c6-bc48-4124-93ea-221e080da502)
 
 
 **Use Case Diagram E-Commerce**
