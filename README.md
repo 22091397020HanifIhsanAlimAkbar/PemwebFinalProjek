@@ -229,10 +229,10 @@ Hasaris Store mengusung konsep desain yang ramah untuk digunakan oleh pengguna. 
 ## 3.2 Antarmuka Perangkat Keras
 
 Adapun antarmuka perangkat keras yang digunakan untuk mengakses website Hasaris store antara lain:
-Smartphone : Hardware untuk mengakses situs Hasaris store.
-Monitor : Menampilkan halaman website.
-Keyboard : Untuk memasukkan input ke website.
-Mouse / trackpad : Untuk mempermudah navigasi pengguna.
+1) Smartphone : Hardware untuk mengakses situs Hasaris store.
+2) Monitor : Menampilkan halaman website.
+3) Keyboard : Untuk memasukkan input ke website.
+4) Mouse / trackpad : Untuk mempermudah navigasi pengguna.
 Hasaris Store mengusung konsep desain yang ramah untuk digunakan oleh pengguna. Navigasinya cukup mudah dan pengguna tidak akan kesulitan dalam berpindah halaman. Warna dibuat agar tidak norak dan dibuat agar nyaman dimata.
 
 
