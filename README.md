@@ -346,14 +346,12 @@ Fitur menu login merupakan proses customer untuk mendapatkan hak akses.Dengan ad
 
 ## 4.2 Fitur Sistem
 
-Login	: Masuk ke sistem Hasaris store jika sudah mendaftar.
-Daftar	: Membuat akun jika belum mempunyai.
-Dashboard	: Halaman yang bisa diakses oleh penjual atau admin untuk mengelola produk dan data transaksi.
-Keranjang 	: Menambah produk ke keranjang yang nantinya akan dibeli.
-Dashboard 	: Halaman yang bisa diakses oleh penjual atau admin untuk mengelola produk dan data transaksi
-Tambah produk	: Fitur Admin Hasaris store untuk menambahkan produknya.
-Transaksi	: Melihat data transaksi pembeli 
-Fitur search 	: Mencari produk yang diinginkan
+1) Login	: Masuk ke sistem Hasarisstore jika sudah mendaftar.
+2) Registrasi	: Membuat akun jika belum mempunyai.
+3) Keranjang 	: Menambah produk ke keranjang yang nantinya akan 
+ 	          dibeli.
+4) Tambah produk: Fitur Admin Hasarisstore untuk menambahkan produknya.
+5) Fitur search : Mencari produk yang diinginkan
 
 ## 4.3 Persyaratan Fungsional
 
