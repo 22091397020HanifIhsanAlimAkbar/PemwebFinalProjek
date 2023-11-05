@@ -186,17 +186,17 @@ tidak akan bekerja.
 ## 2.6 Dokumentasi Pengguna
 
 SRS ini dibagi menjadi beberapa bagian, yaitu :
-Pendahuluan yang berisi gambaran umum dari seluruh dokumen SRS. Pendahuluan SRS berisikan bagian-bagian berikut:
+1) Pendahuluan yang berisi gambaran umum dari seluruh dokumen SRS. Pendahuluan SRS berisikan bagian-bagian berikut:
 Tujuan Penulisan Dokumen
 Konvensi Dokumen
 Pembaca yang Dituju
 Lingkup Produk
-Referensi
+2) Referensi
 Deskripsi umum perangkat lunak yang berisi penjelasan perangkat lunak secara umum. Dijelaskan melalui deskripsi umum sistem, fungsi produk, karakteristik pengguna, batasan, lingkungan operasi.
-Kebutuhan Antarmuka Eksternal merincikan deskripsi masukan dan keluaran perangkat
+3) Kebutuhan Antarmuka Eksternal merincikan deskripsi masukan dan keluaran perangkat
 lunak yang dispesifikasikan. Ada berbagai macam antarmuka eksternal, antara lain : antarmuka pengguna, antarmuka perangkat keras, antarmuka perangkat keras,
 antarmuka komunikasi.
-Fungsi Produk berisi fungsi utama dari perangkat lunak.
+4) Fungsi Produk berisi fungsi utama dari perangkat lunak.
 Kebutuhan Non Fungsional berisi bagian yang menspesifikasikan ukuran kuantitatif yang harus dipenuhi perangkat lunak.
 
 
@@ -204,15 +204,15 @@ Kebutuhan Non Fungsional berisi bagian yang menspesifikasikan ukuran kuantitatif
 
 Asumsi:
 
-Admin memiliki otoritas penuh dalam pendataan barang dan pengolahan orderan dari customer.
-Admin harus mengetahui riset produk dan deskripsinya.
-Website ini merupakan website yang bisa di akses dimana saja dan sistem operasi device manapun.
+1) Admin memiliki otoritas penuh dalam pendataan barang dan pengolahan orderan dari customer.
+2) Admin harus mengetahui riset produk dan deskripsinya.
+3) Website ini merupakan website yang bisa di akses dimana saja dan sistem operasi device manapun.
 
 Dependensi:
 
-Sistem informasi berbasis website ini dapat diakses jika terdapat koneksi internet saja.
-Catatan produk akan diantar apabila customer mempersetujui harga ongkir sesuai dengan pihak ketiga yaitu perusahaan jasa pengantaran.
-Pembayaran sudah terintegrasi dengan beberapa pihak
+1) Sistem informasi berbasis website ini dapat diakses jika terdapat koneksi internet saja.
+2) Catatan produk akan diantar apabila customer mempersetujui harga ongkir sesuai dengan pihak ketiga yaitu perusahaan jasa pengantaran.
+3) Pembayaran sudah terintegrasi dengan beberapa pihak
 
 <div align="center">
 	
@@ -233,7 +233,8 @@ Adapun antarmuka perangkat keras yang digunakan untuk mengakses website Hasaris 
 2) Monitor : Menampilkan halaman website.
 3) Keyboard : Untuk memasukkan input ke website.
 4) Mouse / trackpad : Untuk mempermudah navigasi pengguna.
-Hasaris Store mengusung konsep desain yang ramah untuk digunakan oleh pengguna. Navigasinya cukup mudah dan pengguna tidak akan kesulitan dalam berpindah halaman. Warna dibuat agar tidak norak dan dibuat agar nyaman dimata.
+Hasaris Store mengusung konsep desain yang ramah untuk digunakan oleh pengguna.
+Navigasinya cukup mudah dan pengguna tidak akan kesulitan dalam berpindah halaman. Warna dibuat agar tidak norak dan dibuat agar nyaman dimata.
 
 
 ## 3.3 Antarmuka Perangkat Lunak
