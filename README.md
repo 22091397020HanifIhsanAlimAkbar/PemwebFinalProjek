@@ -432,9 +432,6 @@ Website sudah menggunakan domain.com dan SSL sebagai sertifikasi keamanan websit
 
 ![image](https://github.com/hanifmhsunesa/PemwebFinalProjek/assets/124480469/bb6281cf-ff4e-450b-810e-5817b3d47327)
 
-**UML Activity Diagram Sistem Checkout**
-
-![image](https://github.com/hanifmhsunesa/PemwebFinalProjek/assets/124480469/a5fe43c9-7129-451a-b810-a62b3636cc9d)
 
 **UML Activity Diagram Sistem Login**
 
