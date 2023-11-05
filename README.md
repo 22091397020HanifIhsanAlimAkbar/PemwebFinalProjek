@@ -73,6 +73,8 @@
 
 - [5.4 Atribut Kualitas Perangkat Lunak](#54-Atribut-Kualitas-Perangkat-Lunak)
 
+- [5.5 Persyaratan Keamanan Website](#55-Persyaratan-Keamanan-Website)
+
 - [Bab 6. Persyaratan Lainnya](#Bab-6-Persyaratan-Lainnya)
   
 
@@ -380,27 +382,21 @@ Data diri dan password pengguna terjamin keamanannya karena tidak bisa diakses o
 
 Website sudah menggunakan domain.com dan SSL sebagai sertifikasi keamanan website agar tidak mudah diretas oleh pihak yang tidak bertanggung jawab.
 
-## 5.5 Proses Bisnis
+## 5.4 Proses Bisnis
 
 Dari banyaknya jenis proses bisnis yang ada, aktivitas transaksi antara penjual dan pembeli merupakan salah satu hal dasar yang harus dipahami.
 
 Pada gambar diatas bisa dilihat bahwa pemilik toko Hasaris store yang ingin menawarkan barang yang dijualnya. Dengan bermodalkan sebuah website penjual dapat memberikan berbagai informasi yang berkaitan dengan produk yang ditawarkan. Sebagai calon pembeli, internet menyediakan akses yang luas dan bebas terhadap apa yang ingin diakses. Dalam Website E-Commerce Hasaris store ini, pemilik toko Hasaris menjadi admin atau seller yang memiliki dan memasarkan produknya. Setelah aktivitas pertukaran informasi dilakukan, proses bisnis selanjutnya adalah melakukan pemesanan produk yang telah disepakati. Kedua pihak yang bertransaksi harus melakukan aktivitas perjanjian tertentu, sehingga proses jual beli dapat dilakukan dengan sah, benar, dan aman.
 
-
-
-
-
-
-
 Didalam proses bisnis ini, ada empat aliran entiti yang harus dikelola dengan baik :
-Flow of Goods (Aliran Produk)
-Flow of Information (Aliran Informasi)
-Flow of Money (Aliran Uang)
-Flow of Documents (Aliran Dokumen)
+1) Flow of Goods (Aliran Produk)
+2) Flow of Information (Aliran Informasi)
+3) Flow of Money (Aliran Uang)
+4) Flow of Documents (Aliran Dokumen)
 
 Fitur E-Commerce Hasaris store  harus dapat mensinkronisasikan keempat aliran diatas, sehingga proses transaksi dapat berjalan secara efisien, efektif, dan terkontrol dengan baik.
 
-Persyaratan Keamanan Website
+## 5.5 Persyaratan Keamanan Website
 
 Website sudah menggunakan domain.com dan SSL sebagai sertifikasi keamanan website agar tidak mudah diretas oleh pihak yang tidak bertanggung jawab.
 
