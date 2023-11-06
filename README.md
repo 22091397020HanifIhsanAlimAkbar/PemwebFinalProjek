@@ -1490,6 +1490,7 @@ c)  Informasi Kontak
 11) `<p>hasaristore@gmail.com</p>`: adalah elemen paragraf yang menampilkan alamat email, disini menggunakan email "hasaristore@gmail.com".
 
 d) Formulir Kontak
+
 ![image](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/124480469/e727a24e-12c8-4e62-b678-e5d96c38f05f)
 
 1) `<h2 class="title"> Contact Form</h2>`: adalah elemen judul (heading) level 2(h2) dengan kelas "title". Ini menampilkan judul "Contact Form". Biasanya digunakan untuk menunjukkan bahwa bagian berikutnya akan berisi formulir kontak
