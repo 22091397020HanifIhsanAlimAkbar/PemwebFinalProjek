@@ -430,7 +430,8 @@ Website sudah menggunakan domain.com dan SSL sebagai sertifikasi keamanan websit
 
 **UML Activity Diagram Sistem Login**
 
-![Untitled Diagram drawio (6)](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/144761618/6371f3c6-bc48-4124-93ea-221e080da502)
+![Untitled Diagram drawio (7)](https://github.com/22091397020HanifIhsanAlimAkbar/PemwebFinalProjek/assets/144761618/8da38029-8a8a-469c-ad70-43108a4b68e1)
+
 
 
 **Use Case Diagram E-Commerce**
