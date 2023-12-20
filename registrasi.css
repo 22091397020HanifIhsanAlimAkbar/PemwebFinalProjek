@@ -7,6 +7,17 @@ body {
     height: 100vh;
     margin: 0;
 }
+*::-webkit-scrollbar{
+    width: 10px;
+ }
+ 
+ *::-webkit-scrollbar-track{
+    background-color: #ff6f61;
+ }
+ 
+ *::-webkit-scrollbar-thumb{
+    background-color: #ff6f61;
+ }
 
 .login-container {
     background-color: #fff;
