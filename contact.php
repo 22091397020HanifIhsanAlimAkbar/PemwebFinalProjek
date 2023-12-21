@@ -1,3 +1,9 @@
+<?php
+
+@include 'configproduct.php';
+
+?>
+
 <html>
     <head>
         <title>Contact</title>
@@ -19,11 +25,21 @@
             <nav>
                 <ul>
                     <li><a href="home.php">Home</a></li>
-                    <li><a href="product.html">Products</a></li>
-                    <li><a href="about.html">About</a></li>
+                    <li><a href="products.php">Products</a></li>
+                    <li><a href="about.php">About</a></li>
                     <li><a href="contact.php">Contact</a></li>                
-                </ul>
+                    
+      </ul>
+      <?php
+      
+      $select_rows = mysqli_query($conn, "SELECT * FROM `cart`") or die('query failed');
+      $row_count = mysqli_num_rows($select_rows);
+
+      ?>
+
+      <a href="cart.php" class="cart"><img src="images/cart.png" width="30px" height="30px" alt="cart"><span><?php echo $row_count; ?></span> </a>
             </nav>
+    
         </div>
     </div>
 </div>
